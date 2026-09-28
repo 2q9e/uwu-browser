@@ -8,7 +8,7 @@
 <translation id="1076698951459398590">থিম সক্ষম করুন</translation>
 <translation id="1135328998467923690">এই প্যাকেজটি ভুল: '<ph name="ERROR_CODE" />'৷</translation>
 <translation id="1140871961407805696">পেছন দিকে মুখ করা</translation>
-<translation id="1171831736360285680"><ph name="PARTNER_NAME" /> এমন একটি এক্সটেনশন যোগ করেছে যেটি uwu chromium কাজ করার পদ্ধতি পরিবর্তন করতে পারে।
+<translation id="1171831736360285680"><ph name="PARTNER_NAME" /> এমন একটি এক্সটেনশন যোগ করেছে যেটি Uwu Browser কাজ করার পদ্ধতি পরিবর্তন করতে পারে।
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1196338895211115272">ব্যক্তিগত কী রপ্তানি করতে ব্যর্থ৷</translation>
@@ -90,7 +90,7 @@
 <translation id="5185386675596372454">"<ph name="EXTENSION_NAME" />"-এর নতুনতম ভার্সনটি বন্ধ হয়েছে কারণ এটির আরও বেশি অনুমতির প্রয়োজন৷</translation>
 <translation id="5242724311594467048">"<ph name="EXTENSION_NAME" />" সক্ষম করবেন?</translation>
 <translation id="5356315618422219272">অ্যাপ্লিকেশান দর্শন: <ph name="APPVIEW_TAG_NAME" /></translation>
-<translation id="5405650547142096840">uwu chromium থেকে সরান</translation>
+<translation id="5405650547142096840">Uwu Browser থেকে সরান</translation>
 <translation id="5456409301717116725">এই এক্সটেনশনটি '<ph name="KEY_PATH" />' মুখ্য ফাইলকে অন্তর্ভুক্ত করে৷ আপনি সম্ভবত এটি করতে চাইবেন না৷</translation>
 <translation id="5485102783864353244">অ্যাপ্লিকেশান যোগ করুন</translation>
 <translation id="5486326529110362464">ব্যক্তিগত কী-র জন্য ইনপুট মান থাকা আবশ্যক৷</translation>

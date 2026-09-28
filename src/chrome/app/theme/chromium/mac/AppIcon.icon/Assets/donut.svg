@@ -1,4 +1,25 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M511.984 306.938C625.203 306.938 716.984 398.719 716.984 511.938C716.984 625.156 625.203 716.938 511.984 716.938C398.766 716.938 306.984 625.156 306.984 511.938C306.985 398.719 398.766 306.938 511.984 306.938ZM511.984 345.393C419.994 345.393 345.422 419.965 345.422 511.955C345.422 603.945 419.995 678.518 511.984 678.518C603.974 678.518 678.547 603.945 678.547 511.955C678.547 419.965 603.974 345.393 511.984 345.393Z" fill="white" style="fill:white;fill-opacity:1;"/>
-<path d="M716.984 511.938C716.984 398.719 625.203 306.938 511.984 306.938C398.766 306.938 306.985 398.719 306.984 511.938C306.984 625.156 398.766 716.938 511.984 716.938C625.203 716.938 716.984 625.156 716.984 511.938ZM674.547 511.955C674.547 422.174 601.765 349.393 511.984 349.393C422.204 349.393 349.422 422.174 349.422 511.955C349.422 601.736 422.204 674.518 511.984 674.518V678.518C419.995 678.518 345.422 603.945 345.422 511.955C345.422 419.965 419.994 345.393 511.984 345.393C603.974 345.393 678.547 419.965 678.547 511.955C678.547 603.945 603.974 678.518 511.984 678.518V674.518C601.064 674.518 673.408 602.869 674.533 514.057L674.547 511.955ZM720.984 511.938C720.984 627.365 627.412 720.938 511.984 720.938C396.557 720.938 302.984 627.365 302.984 511.938C302.985 396.51 396.557 302.938 511.984 302.938C627.412 302.938 720.984 396.51 720.984 511.938Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<!-- Original Uwu Browser artwork by 2q9e. Upstream source attribution is in README.md. -->
+<!-- Original Uwu Browser artwork by 2q9e. Upstream and third-party credits are in README.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Uwu Browser</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCE6EE"/>
+      <stop offset="1" stop-color="#F4B8CC"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8FB"/>
+      <stop offset="1" stop-color="#FFEAF1"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#background)"/>
+  <rect x="37" y="40" width="182" height="178" rx="27" fill="#FFF9FB" stroke="#9E4F6C" stroke-width="12"/>
+  <path d="M43 91h170" stroke="#9E4F6C" stroke-width="12"/>
+  <circle cx="65" cy="66" r="6" fill="#B95376"/>
+  <circle cx="85" cy="66" r="6" fill="#D67A98"/>
+  <circle cx="105" cy="66" r="6" fill="#EAA7BC"/>
+  <path d="m85 162 12-34 25 18a31 31 0 0 1 14 0l25-18 11 34c0 22-19 39-43 39s-44-17-44-39Z" fill="url(#face)" stroke="#9E4F6C" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M107 159c4-6 11-6 15 0m12 0c4-6 11-6 15 0" fill="none" stroke="#713B52" stroke-width="5" stroke-linecap="round"/>
+  <path d="m128 166 5 4-5 4-5-4 5-4Zm0 8c0 7-8 10-13 5m13-5c0 7 8 10 13 5" fill="none" stroke="#713B52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m91 166-10-3m10 10-11 1m95-8 10-3m-10 10 11 1" fill="none" stroke="#B56C86" stroke-width="4" stroke-linecap="round"/>
 </svg>

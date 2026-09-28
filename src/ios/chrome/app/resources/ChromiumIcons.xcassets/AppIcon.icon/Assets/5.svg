@@ -1,3 +1,25 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M409.468 334.515C440.616 316.487 475.979 307.02 511.968 307.076V307.051H867.038C831.042 244.735 779.281 192.99 716.955 157.012C654.63 121.034 583.933 102.091 511.969 102.085C440.004 102.08 369.305 121.012 306.974 156.98C244.642 192.948 192.873 244.685 156.867 306.995L334.434 614.551C320.974 591.237 312.237 565.5 308.723 538.809C305.209 512.118 306.986 484.997 313.954 458.993C320.921 432.989 332.942 408.612 349.331 387.254C365.719 365.896 386.154 347.975 409.468 334.515Z" fill="#E989AE" style="fill:#E989AE;fill:color(display-p3 0.8990 0.5530 0.6850);fill-opacity:1;"/>
+<!-- Original Uwu Browser artwork by 2q9e. Upstream source attribution is in README.md. -->
+<!-- Original Uwu Browser artwork by 2q9e. Upstream and third-party credits are in README.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Uwu Browser</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCE6EE"/>
+      <stop offset="1" stop-color="#F4B8CC"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8FB"/>
+      <stop offset="1" stop-color="#FFEAF1"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#background)"/>
+  <rect x="37" y="40" width="182" height="178" rx="27" fill="#FFF9FB" stroke="#9E4F6C" stroke-width="12"/>
+  <path d="M43 91h170" stroke="#9E4F6C" stroke-width="12"/>
+  <circle cx="65" cy="66" r="6" fill="#B95376"/>
+  <circle cx="85" cy="66" r="6" fill="#D67A98"/>
+  <circle cx="105" cy="66" r="6" fill="#EAA7BC"/>
+  <path d="m85 162 12-34 25 18a31 31 0 0 1 14 0l25-18 11 34c0 22-19 39-43 39s-44-17-44-39Z" fill="url(#face)" stroke="#9E4F6C" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M107 159c4-6 11-6 15 0m12 0c4-6 11-6 15 0" fill="none" stroke="#713B52" stroke-width="5" stroke-linecap="round"/>
+  <path d="m128 166 5 4-5 4-5-4 5-4Zm0 8c0 7-8 10-13 5m13-5c0 7 8 10 13 5" fill="none" stroke="#713B52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m91 166-10-3m10 10-11 1m95-8 10-3m-10 10 11 1" fill="none" stroke="#B56C86" stroke-width="4" stroke-linecap="round"/>
 </svg>

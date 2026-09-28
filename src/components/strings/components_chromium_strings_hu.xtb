@@ -4,7 +4,7 @@
 <translation id="130631256467250065">A módosítások az eszköz következő újraindításakor lépnek életbe.</translation>
 <translation id="1965068424387304464">Chromium-tipp: Jelszavak mentése</translation>
 <translation id="261308610302996111">Lépjen ide:
-          uwu chromium menü &gt;
+          Uwu Browser menü &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="SYSTEM_TITLE" />
@@ -13,13 +13,13 @@
           és gondoskodjon róla, hogy a konfiguráció beállítása „nincs proxy” vagy „közvetlen” legyen.</translation>
 <translation id="275588974610408078">A hibajelentések nem állnak rendelkezésre a Chromiumban.</translation>
 <translation id="3064346599913645280">Jelenleg biztonságos Chromium-oldalt tekint meg</translation>
-<translation id="3255926992597692024">A uwu chromium módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
-<translation id="358997566136285270">uwu chromium embléma</translation>
+<translation id="3255926992597692024">A Uwu Browser módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
+<translation id="358997566136285270">Uwu Browser embléma</translation>
 <translation id="3837584850181228767">Chromium-tipp: Biztonságos Böngészés fokozott védelemmel</translation>
-<translation id="4050599136622776556">A uwu chromium szerkeszteni próbálja a fizetési módokat.</translation>
-<translation id="4365115785552740256">A uwu chromium a <ph name="BEGIN_LINK_CHROMIUM" />uwu chromium<ph name="END_LINK_CHROMIUM" /> nyílt forráskódú projektnek és további <ph name="BEGIN_LINK_OSS" />nyílt forráskódú szoftvereknek<ph name="END_LINK_OSS" /> köszönhetően jött létre.</translation>
-<translation id="4622039161600275920">Ezt az oldalt a uwu chromium blokkolja</translation>
-<translation id="48558539577516920">A hálózat elérésének engedélyezése a uwu chromium számára a tűzfal-
+<translation id="4050599136622776556">A Uwu Browser szerkeszteni próbálja a fizetési módokat.</translation>
+<translation id="4365115785552740256">A Uwu Browser a <ph name="BEGIN_LINK_CHROMIUM" />Uwu Browser<ph name="END_LINK_CHROMIUM" /> nyílt forráskódú projektnek és további <ph name="BEGIN_LINK_OSS" />nyílt forráskódú szoftvereknek<ph name="END_LINK_OSS" /> köszönhetően jött létre.</translation>
+<translation id="4622039161600275920">Ezt az oldalt a Uwu Browser blokkolja</translation>
+<translation id="48558539577516920">A hálózat elérésének engedélyezése a Uwu Browser számára a tűzfal-
           vagy vírusirtó-beállításokban.</translation>
 <translation id="4949828774841497663">Lépjen az Alkalmazások &gt; Rendszerbeállítások &gt; Hálózat menüpontra,
           válassza ki az aktív hálózatot, kattintson a Részletek… gombra, és szüntesse meg
@@ -34,20 +34,20 @@
           &gt;
           Hálózat és internet &gt; Proxy,
           és szüntesse meg a „Beállítások automatikus észlelése” beállítás kijelölését.</translation>
-<translation id="648062525172759633">Ezek az oldalak a uwu chromium fejlesztői számára készültek, és előfordulhat, hogy nincsenek aktívan karbantartva vagy tesztelve. Az engedélyezésükhöz lépjen a <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" /> oldalra, kattintson a hibaelhárítási oldalak engedélyezéséhez tartozó gombra, majd lépjen ismét erre az oldalra.</translation>
+<translation id="648062525172759633">Ezek az oldalak a Uwu Browser fejlesztői számára készültek, és előfordulhat, hogy nincsenek aktívan karbantartva vagy tesztelve. Az engedélyezésükhöz lépjen a <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" /> oldalra, kattintson a hibaelhárítási oldalak engedélyezéséhez tartozó gombra, majd lépjen ismét erre az oldalra.</translation>
 <translation id="6549378540556750549">A Chromiumot létrejöttéhez más <ph name="BEGIN_LINK_OSS" />nyílt forráskódú szoftverek<ph name="END_LINK_OSS" /> is hozzájárultak.</translation>
-<translation id="6613594504749178791">Módosításai a uwu chromium újraindítása után lépnek érvénybe.</translation>
+<translation id="6613594504749178791">Módosításai a Uwu Browser újraindítása után lépnek érvénybe.</translation>
 <translation id="691026815377248078">A Chromiumnak Bluetooth-hozzáférésre van szükséges a párosítás 
  folytatásához. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">A Chromium a <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> nyílt forráskódú projektnek köszönhetően jött létre.</translation>
 <translation id="7861509383340276692">Lépjen ide:
-        uwu chromium menü &gt;
+        Uwu Browser menü &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
         <ph name="ADVANCED_TITLE" />,
         és törölje a jelet a(z) „<ph name="NO_PREFETCH_DESCRIPTION" />” jelölőnégyzetből.
         Ha ettől nem szűnik meg a probléma, javasoljuk, hogy jelölje be ismét ezt a lehetőséget a jobb teljesítmény érdekében.</translation>
 <translation id="8597726643333341451">Jelenleg biztonságos Chrome for Testing-oldalt tekint meg.</translation>
-<translation id="8684913864886094367">A uwu chromium nem záródott be megfelelően.</translation>
+<translation id="8684913864886094367">A Uwu Browser nem záródott be megfelelően.</translation>
 <translation id="9183331186620388872">Chromium-tipp: Kereshet a Lens segítségével</translation>
 </translationbundle>

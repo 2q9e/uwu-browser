@@ -183,10 +183,10 @@
   <release seq="1">
       <messages fallback_to_english="true">
         <message name="IDS_IOS_OPEN_IN_APP_SHARE_EXTENSION" desc="Share extension button to open link in Chrome [Length: 30em]" meaning="Button title [Length: 30em]">
-          Open in uwu chromium
+          Open in Uwu Browser
         </message>
         <message name="IDS_IOS_SEARCH_IN_APP_BUTTON_SHARE_EXTENSION" desc="Label for the search in Chrome button in the share extension.">
-          Search in uwu chromium
+          Search in Uwu Browser
         </message>
       </messages>
   </release>

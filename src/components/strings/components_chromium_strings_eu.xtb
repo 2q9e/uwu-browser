@@ -14,10 +14,10 @@
 <translation id="275588974610408078">Chromium-ek ez du hutsegiteen berri emateko aukerarik ematen.</translation>
 <translation id="3064346599913645280">Chromium-eko orri seguru bat ari zara ikusten</translation>
 <translation id="3255926992597692024">Chromium-ek ordainketa-metodoak betetzeko ezarpenak aldatu behar ditu.</translation>
-<translation id="358997566136285270">uwu chromium logotipoa</translation>
+<translation id="358997566136285270">Uwu Browser logotipoa</translation>
 <translation id="3837584850181228767">Chromium-erako aholkua: arakatze seguru hobetua</translation>
 <translation id="4050599136622776556">Chromium-ek ordainketa-metodoak editatu behar ditu.</translation>
-<translation id="4365115785552740256">Kode irekiko <ph name="BEGIN_LINK_CHROMIUM" />uwu chromium<ph name="END_LINK_CHROMIUM" /> proiektuari esker eta <ph name="BEGIN_LINK_OSS" />kode irekiko softwareari<ph name="END_LINK_OSS" /> esker da posible uwu chromium arakatzailea.</translation>
+<translation id="4365115785552740256">Kode irekiko <ph name="BEGIN_LINK_CHROMIUM" />Uwu Browser<ph name="END_LINK_CHROMIUM" /> proiektuari esker eta <ph name="BEGIN_LINK_OSS" />kode irekiko softwareari<ph name="END_LINK_OSS" /> esker da posible Uwu Browser arakatzailea.</translation>
 <translation id="4622039161600275920">Chromium-ek blokeatu du orria</translation>
 <translation id="48558539577516920">Eman suebakiaren edo birusen aurkako softwarearen ezarpenetan sarea erabiltzeko baimena Chromium-i.</translation>
 <translation id="4949828774841497663">Joan Aplikazioak &gt; Sistemaren ezarpenak &gt; Sarea aukerara eta hautatu
@@ -35,17 +35,17 @@
           eta desautatu "Automatically detect settings" (hauteman automatikoki ezarpenak).</translation>
 <translation id="648062525172759633">Orri hauek Chromium-en garatzaileek erabiltzeko pentsatuta daude, eta baliteke aktiboki ez mantentzea edo probatzea. Haiek gaitzeko, joan <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" /> helbidera, sakatu orrien arazketa gaitzeko botoia eta itzuli orri honetara.</translation>
 <translation id="6549378540556750549"><ph name="BEGIN_LINK_OSS" />Kode irekiko beste software<ph name="END_LINK_OSS" /> batzuek ere posible egiten dute Chromium.</translation>
-<translation id="6613594504749178791">Aldaketek uwu chromium abiarazten duzun hurrengo aldian izango dute eragina.</translation>
+<translation id="6613594504749178791">Aldaketek Uwu Browser abiarazten duzun hurrengo aldian izango dute eragina.</translation>
 <translation id="691026815377248078">Chromium-ek Bluetootha erabiltzeko baimena behar du parekatzen jarraitzeko. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">Kode irekiko <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> proiektuak egiten du posible Chromium.</translation>
 <translation id="7861509383340276692">Sakatu
-          uwu chromium menua &gt;
+          Uwu Browser menua &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           eta desautatu "<ph name="NO_PREFETCH_DESCRIPTION" />."
           Arazoa horrela konpontzen ez bada, aukera hori berriro hautatzea gomendatzen dizugu errendimendua hobetzeko.</translation>
 <translation id="8597726643333341451">Chrome for Testing-eko orri seguru bat ari zara ikusten</translation>
-<translation id="8684913864886094367">uwu chromium ez da behar bezala itxi.</translation>
+<translation id="8684913864886094367">Uwu Browser ez da behar bezala itxi.</translation>
 <translation id="9183331186620388872">Chromium-i buruzko aholkua: bilatu Lens bidez</translation>
 </translationbundle>

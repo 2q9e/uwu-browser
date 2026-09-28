@@ -2,28 +2,28 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="es">
 <translation id="130631256467250065">Los cambios se aplicarán la próxima vez que reinicies el dispositivo.</translation>
-<translation id="1965068424387304464">Consejo de uwu chromium: guarda contraseñas</translation>
-<translation id="261308610302996111">Accede al menú de uwu chromium, haz clic en <ph name="SETTINGS_TITLE" /> &gt; <ph name="SYSTEM_TITLE" /> &gt; <ph name="PROXIES_TITLE" /> y asegúrate de que esté seleccionada la opción de configuración sin proxy o directa.</translation>
-<translation id="275588974610408078">Los informes de errores no se encuentran disponibles en uwu chromium.</translation>
-<translation id="3064346599913645280">Estás viendo una página de uwu chromium segura</translation>
-<translation id="3255926992597692024">uwu chromium está intentando modificar la configuración para completar los métodos de pago.</translation>
-<translation id="358997566136285270">Logotipo de uwu chromium</translation>
-<translation id="3837584850181228767">Consejo de uwu chromium: Navegación segura mejorada</translation>
-<translation id="4050599136622776556">uwu chromium está intentando editar los métodos de pago.</translation>
-<translation id="4365115785552740256">uwu chromium se ha creado gracias al proyecto de software libre <ph name="BEGIN_LINK_CHROMIUM" />uwu chromium<ph name="END_LINK_CHROMIUM" /> y a otro <ph name="BEGIN_LINK_OSS" />software libre<ph name="END_LINK_OSS" />.</translation>
-<translation id="4622039161600275920">uwu chromium ha bloqueado esta página</translation>
-<translation id="48558539577516920">Configura tu cortafuegos o tu antivirus para permitir el acceso de uwu chromium
+<translation id="1965068424387304464">Consejo de Uwu Browser: guarda contraseñas</translation>
+<translation id="261308610302996111">Accede al menú de Uwu Browser, haz clic en <ph name="SETTINGS_TITLE" /> &gt; <ph name="SYSTEM_TITLE" /> &gt; <ph name="PROXIES_TITLE" /> y asegúrate de que esté seleccionada la opción de configuración sin proxy o directa.</translation>
+<translation id="275588974610408078">Los informes de errores no se encuentran disponibles en Uwu Browser.</translation>
+<translation id="3064346599913645280">Estás viendo una página de Uwu Browser segura</translation>
+<translation id="3255926992597692024">Uwu Browser está intentando modificar la configuración para completar los métodos de pago.</translation>
+<translation id="358997566136285270">Logotipo de Uwu Browser</translation>
+<translation id="3837584850181228767">Consejo de Uwu Browser: Navegación segura mejorada</translation>
+<translation id="4050599136622776556">Uwu Browser está intentando editar los métodos de pago.</translation>
+<translation id="4365115785552740256">Uwu Browser se ha creado gracias al proyecto de software libre <ph name="BEGIN_LINK_CHROMIUM" />Uwu Browser<ph name="END_LINK_CHROMIUM" /> y a otro <ph name="BEGIN_LINK_OSS" />software libre<ph name="END_LINK_OSS" />.</translation>
+<translation id="4622039161600275920">Uwu Browser ha bloqueado esta página</translation>
+<translation id="48558539577516920">Configura tu cortafuegos o tu antivirus para permitir el acceso de Uwu Browser
           a la red.</translation>
 <translation id="4949828774841497663">Ve a Aplicaciones &gt; Ajustes del sistema &gt; Red, selecciona la red activa, haz clic en el botón Detalles... y desmarca los proxies que puedan estar seleccionados.</translation>
-<translation id="6480456350195404966">Ve al menú de uwu chromium &gt; <ph name="SETTINGS_TITLE" /> &gt; <ph name="SYSTEM_TITLE" /> &gt; <ph name="PROXIES_TITLE" /> &gt; Red e Internet &gt; Proxy y desmarca la opción Detectar configuración automáticamente.</translation>
-<translation id="648062525172759633">Estas páginas están pensadas para que las usen los desarrolladores de uwu chromium y es posible que no se mantengan ni se prueben activamente. Para habilitarlas, ve a <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" />, haz clic en el botón para habilitar las páginas de depuración y vuelve a esta página.</translation>
+<translation id="6480456350195404966">Ve al menú de Uwu Browser &gt; <ph name="SETTINGS_TITLE" /> &gt; <ph name="SYSTEM_TITLE" /> &gt; <ph name="PROXIES_TITLE" /> &gt; Red e Internet &gt; Proxy y desmarca la opción Detectar configuración automáticamente.</translation>
+<translation id="648062525172759633">Estas páginas están pensadas para que las usen los desarrolladores de Uwu Browser y es posible que no se mantengan ni se prueben activamente. Para habilitarlas, ve a <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" />, haz clic en el botón para habilitar las páginas de depuración y vuelve a esta página.</translation>
 <translation id="6549378540556750549">Chromium también se ha podido crear gracias a otro <ph name="BEGIN_LINK_OSS" />software libre<ph name="END_LINK_OSS" />.</translation>
-<translation id="6613594504749178791">Los cambios se aplicarán la próxima vez que reinicies uwu chromium.</translation>
-<translation id="691026815377248078">uwu chromium necesita acceso al Bluetooth para continuar 
+<translation id="6613594504749178791">Los cambios se aplicarán la próxima vez que reinicies Uwu Browser.</translation>
+<translation id="691026815377248078">Uwu Browser necesita acceso al Bluetooth para continuar 
  con la vinculación. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">Chromium se ha podido crear gracias al proyecto de software libre <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" />.</translation>
 <translation id="7861509383340276692">Accede al
-          menú de uwu chromium &gt;
+          menú de Uwu Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -31,6 +31,6 @@
           Si esto no soluciona el problema, te recomendamos que vuelvas a seleccionar esta opción
           para conseguir un mejor rendimiento.</translation>
 <translation id="8597726643333341451">Estás viendo una página segura de Chrome for Testing</translation>
-<translation id="8684913864886094367">uwu chromium no se ha cerrado correctamente.</translation>
-<translation id="9183331186620388872">Consejo de uwu chromium: busca con Lens</translation>
+<translation id="8684913864886094367">Uwu Browser no se ha cerrado correctamente.</translation>
+<translation id="9183331186620388872">Consejo de Uwu Browser: busca con Lens</translation>
 </translationbundle>

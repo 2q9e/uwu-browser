@@ -2,22 +2,22 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="hr">
 <translation id="130631256467250065">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete uređaj.</translation>
-<translation id="1965068424387304464">Savjet za uwu chromium: spremite zaporke</translation>
-<translation id="261308610302996111">Otvorite izbornik preglednika uwu chromium &gt;
+<translation id="1965068424387304464">Savjet za Uwu Browser: spremite zaporke</translation>
+<translation id="261308610302996111">Otvorite izbornik preglednika Uwu Browser &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="SYSTEM_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           i provjerite je li konfiguracija postavljena na "bez proxyja" ili "izravno".</translation>
-<translation id="275588974610408078">Prijavljivanje padova nije dostupno u pregledniku uwu chromium.</translation>
+<translation id="275588974610408078">Prijavljivanje padova nije dostupno u pregledniku Uwu Browser.</translation>
 <translation id="3064346599913645280">Gledate sigurnu stranicu Chromiuma</translation>
-<translation id="3255926992597692024">uwu chromium pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
+<translation id="3255926992597692024">Uwu Browser pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
 <translation id="358997566136285270">Logotip Chromiuma</translation>
-<translation id="3837584850181228767">Savjet za uwu chromium: poboljšano sigurno pregledavanje</translation>
-<translation id="4050599136622776556">uwu chromium pokušava urediti načine plaćanja.</translation>
-<translation id="4365115785552740256">uwu chromium omogućuju projekt utemeljen na otvorenom kôdu <ph name="BEGIN_LINK_CHROMIUM" />uwu chromium<ph name="END_LINK_CHROMIUM" /> i drugi <ph name="BEGIN_LINK_OSS" />softveri utemeljeni na otvorenom kôdu<ph name="END_LINK_OSS" />.</translation>
-<translation id="4622039161600275920">uwu chromium je blokirao ovu stranicu</translation>
+<translation id="3837584850181228767">Savjet za Uwu Browser: poboljšano sigurno pregledavanje</translation>
+<translation id="4050599136622776556">Uwu Browser pokušava urediti načine plaćanja.</translation>
+<translation id="4365115785552740256">Uwu Browser omogućuju projekt utemeljen na otvorenom kôdu <ph name="BEGIN_LINK_CHROMIUM" />Uwu Browser<ph name="END_LINK_CHROMIUM" /> i drugi <ph name="BEGIN_LINK_OSS" />softveri utemeljeni na otvorenom kôdu<ph name="END_LINK_OSS" />.</translation>
+<translation id="4622039161600275920">Uwu Browser je blokirao ovu stranicu</translation>
 <translation id="48558539577516920">U postavkama vatrozida ili antivirusnog programa omogućite Chromiumu da pristupa mreži.</translation>
 <translation id="4949828774841497663">Idite na Aplikacije &gt; Postavke sustava &gt; Mreža, odaberite
           aktivnu mrežu, kliknite gumb Pojedinosti... i poništite odabir svih proxyja
@@ -32,8 +32,8 @@
           Mreža i internet &gt; Proxy i poništite odabir opcije Automatski otkrij postavke.</translation>
 <translation id="648062525172759633">Te su stranice namijenjene razvojnim programerima Chromiuma i možda se ne održavaju ili testiraju aktivno. Da biste ih omogućili, otvorite <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" />, kliknite gumb za omogućivanje stranica za otklanjanje pogrešaka, a zatim se ponovo vratite na ovu stranicu.</translation>
 <translation id="6549378540556750549">Chromium je omogućio i drugi <ph name="BEGIN_LINK_OSS" />softver otvorenog izvornog koda<ph name="END_LINK_OSS" />.</translation>
-<translation id="6613594504749178791">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete uwu chromium.</translation>
-<translation id="691026815377248078">uwu chromium treba pristup Bluetoothu za nastavak 
+<translation id="6613594504749178791">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete Uwu Browser.</translation>
+<translation id="691026815377248078">Uwu Browser treba pristup Bluetoothu za nastavak 
  uparivanja. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">Chromium je omogućio <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" />, projekt otvorenog izvornog koda.</translation>
 <translation id="7861509383340276692">Otvorite
@@ -45,6 +45,6 @@
         Ako se time ne riješi poteškoća, preporučujemo da ponovo odaberete tu opciju
         radi bolje izvedbe.</translation>
 <translation id="8597726643333341451">Pregledavate sigurnu stranicu Chrome for Testing</translation>
-<translation id="8684913864886094367">uwu chromium se nije ispravno zatvorio.</translation>
-<translation id="9183331186620388872">Savjet za uwu chromium: pretražujte pomoću Objektiva</translation>
+<translation id="8684913864886094367">Uwu Browser se nije ispravno zatvorio.</translation>
+<translation id="9183331186620388872">Savjet za Uwu Browser: pretražujte pomoću Objektiva</translation>
 </translationbundle>

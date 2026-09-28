@@ -1,43 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
-  <g opacity="1" style="mix-blend-mode:normal">
-    <defs>
-      <clipPath id="a" width="200%" height="200%" x="-50%" y="-50%">
-        <path fill="#fff" d="M0 160V0h160v160z" clip-rule="nonzero" />
-      </clipPath>
-    </defs>
-    <g clip-path="url(#a)">
-      <g transform="matrix(0 -1 1 0 .01 160)">
-        <g id="b" opacity="0" style="mix-blend-mode:normal">
-          <g style="mix-blend-mode:normal">
-            <path fill="#F4BED0" fill-opacity="1" fill-rule="nonzero" d="M59.994 74.641a39.8 39.8 0 0 1-14.637-14.643l-.004.002L10.712 0a80.017 80.017 0 0 0 69.275 120.011l34.648-60.01a39.99 39.99 0 0 1-24.288 18.637 40.004 40.004 0 0 1-30.353-3.997z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(0 39.973)" />
-          </g>
-          <g style="mix-blend-mode:normal">
-            <path fill="#FBE5EC" fill-opacity="1" fill-rule="nonzero" d="M40 40a39.802 39.802 0 0 1-5.363 19.998l.004.002L0 120A80.018 80.018 0 0 0 69.295 0H0a40 40 0 0 1 40 40z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(79.983 39.973)" />
-          </g>
-          <g style="mix-blend-mode:normal">
-            <path fill="#E989AE" fill-opacity="1" fill-rule="nonzero" d="M49.288 45.352a39.802 39.802 0 0 1 20-5.354v-.005h69.282A80.022 80.022 0 0 0 69.288 0 80.017 80.017 0 0 0 0 39.982l34.647 60.011a40.002 40.002 0 0 1 14.641-54.64z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(10.694)" />
-          </g>
-        </g>
-      </g>
-      <g transform="translate(40 39.997)">
-        <g id="c" opacity="0" style="mix-blend-mode:normal">
-          <g style="mix-blend-mode:normal">
-            <path fill="#FFF" fill-opacity="1" fill-rule="nonzero" d="M40 80c22.091 0 40-17.909 40-40S62.091 0 40 0 0 17.909 0 40s17.909 40 40 40z" opacity="1" style="mix-blend-mode:NORMAL" />
-          </g>
-          <g style="mix-blend-mode:normal">
-            <path fill="#F0A6BF" fill-opacity="1" fill-rule="nonzero" d="M32.5 65C50.45 65 65 50.45 65 32.5S50.45 0 32.5 0 0 14.55 0 32.5 14.55 65 32.5 65z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(7.5 7.503)" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <animateTransform additive="sum" attributeName="transform" fill="freeze" calcMode="spline" dur="1s" href="#b" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="rotate" values="0 79.9912 79.9923;0 79.9912 79.9923;90 79.9912 79.9923" />
-  <animateTransform additive="sum" attributeName="transform" fill="freeze" calcMode="spline" dur="1s" href="#b" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="translate" values="79.9912 79.9923;79.9912 79.9923;79.9912 79.9923" />
-  <animateTransform additive="sum" attributeName="transform" fill="freeze" calcMode="spline" dur="1s" href="#b" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="scale" values="1 1;1 1;0.5625 0.5625" />
-  <animateTransform additive="sum" attributeName="transform" fill="freeze" calcMode="spline" dur="1s" href="#b" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="translate" values="-79.9912 -79.9923;-79.9912 -79.9923;-79.9912 -79.9923" />
-  <animate attributeName="opacity" fill="freeze" calcMode="spline" dur="1s" href="#b" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" values="0;0;1" />
-  <animateTransform additive="sum" fill="freeze" attributeName="transform" calcMode="spline" dur="1s" href="#c" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="translate" values="40 40.0001;40 40.0001;40 40.0001" />
-  <animateTransform additive="sum" fill="freeze" attributeName="transform" calcMode="spline" dur="1s" href="#c" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="scale" values="0.3 0.3;2 2;0.56 0.56" />
-  <animateTransform additive="sum" fill="freeze" attributeName="transform" calcMode="spline" dur="1s" href="#c" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" type="translate" values="-40 -40.0001;-40 -40.0001;-40 -40.0001" />
-  <animate attributeName="opacity" fill="freeze" calcMode="spline" dur="1s" href="#c" keySplines="0.5 0.35 0.15 1;0.5 0.35 0.15 1" keyTimes="0;0.5;1" repeatCount="1" values="0;1;1" />
+<!-- Original Uwu Browser artwork by 2q9e. Upstream source attribution is in README.md. -->
+<!-- Original Uwu Browser artwork by 2q9e. Upstream and third-party credits are in README.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Uwu Browser</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCE6EE"/>
+      <stop offset="1" stop-color="#F4B8CC"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8FB"/>
+      <stop offset="1" stop-color="#FFEAF1"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#background)"/>
+  <rect x="37" y="40" width="182" height="178" rx="27" fill="#FFF9FB" stroke="#9E4F6C" stroke-width="12"/>
+  <path d="M43 91h170" stroke="#9E4F6C" stroke-width="12"/>
+  <circle cx="65" cy="66" r="6" fill="#B95376"/>
+  <circle cx="85" cy="66" r="6" fill="#D67A98"/>
+  <circle cx="105" cy="66" r="6" fill="#EAA7BC"/>
+  <path d="m85 162 12-34 25 18a31 31 0 0 1 14 0l25-18 11 34c0 22-19 39-43 39s-44-17-44-39Z" fill="url(#face)" stroke="#9E4F6C" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M107 159c4-6 11-6 15 0m12 0c4-6 11-6 15 0" fill="none" stroke="#713B52" stroke-width="5" stroke-linecap="round"/>
+  <path d="m128 166 5 4-5 4-5-4 5-4Zm0 8c0 7-8 10-13 5m13-5c0 7 8 10 13 5" fill="none" stroke="#713B52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m91 166-10-3m10 10-11 1m95-8 10-3m-10 10 11 1" fill="none" stroke="#B56C86" stroke-width="4" stroke-linecap="round"/>
 </svg>

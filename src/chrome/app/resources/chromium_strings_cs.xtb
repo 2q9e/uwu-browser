@@ -3,561 +3,561 @@
 <translationbundle lang="cs">
 <translation id="1026101648481255140">Pokračovat v instalaci</translation>
 <translation id="1029669172902658969">Znovu spustit a aktualizovat &amp;ChromiumOS</translation>
-<translation id="1040916596585577953">uwu chromium doporučuje toto rozšíření zkontrolovat</translation>
-<translation id="1042552502243217427">Když web požádá o soukromé předběžné načtení odkazů na stránce, použije uwu chromium servery Google. To před předběžně načítaným webem skryje vaši identitu, ale Google se dozví, které weby se předběžně načítají.</translation>
+<translation id="1040916596585577953">Uwu Browser doporučuje toto rozšíření zkontrolovat</translation>
+<translation id="1042552502243217427">Když web požádá o soukromé předběžné načtení odkazů na stránce, použije Uwu Browser servery Google. To před předběžně načítaným webem skryje vaši identitu, ale Google se dozví, které weby se předběžně načítají.</translation>
 <translation id="1051793555070215510">Zúčastněte se tohoto jednominutového průzkumu a pomozte nám tak anonymní režim zlepšit.</translation>
 <translation id="1065672644894730302">Nelze číst vaše nastavení.
 
 Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</translation>
-<translation id="1083934481477628225">Tvůj rodič pro prohlížeč uwu chromium vypnul možnost Oprávnění pro weby, aplikace a rozšíření</translation>
-<translation id="109026165963220603">Prohlížeč uwu chromium potřebuje přístup k vaší místní síti, aby mohl objevovat a používat zařízení v okolí</translation>
-<translation id="1090946077924227754">Pokud chcete při vyhledávání použít konkrétní funkci nebo rozšíření prohlížeče uwu chromium, zadejte do adresního řádku jejich zkratku a poté stiskněte vybranou klávesu</translation>
+<translation id="1083934481477628225">Tvůj rodič pro prohlížeč Uwu Browser vypnul možnost Oprávnění pro weby, aplikace a rozšíření</translation>
+<translation id="109026165963220603">Prohlížeč Uwu Browser potřebuje přístup k vaší místní síti, aby mohl objevovat a používat zařízení v okolí</translation>
+<translation id="1090946077924227754">Pokud chcete při vyhledávání použít konkrétní funkci nebo rozšíření prohlížeče Uwu Browser, zadejte do adresního řádku jejich zkratku a poté stiskněte vybranou klávesu</translation>
 <translation id="1098493699368672217">Zobrazovat Vyhledávání v Chromiu na hlavním panelu systému a zapnout klávesovou zkratku</translation>
-<translation id="1104942323762546749">uwu chromium chce exportovat vaše hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="1104942323762546749">Uwu Browser chce exportovat vaše hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="112640046208448578">Identifikujte věci nebo místa a kopírujte nebo překládejte text. Když použijete Vyhledávání obrázků, odešle se na server snímek obrazovky stránky. <ph name="LEARN_MORE" /></translation>
-<translation id="113122355610423240">uwu chromium je vaším výchozím prohlížečem</translation>
-<translation id="1131805035311359397">Chcete-li zkontrolovat, zda jsou hesla v bezpečí před porušením zabezpečení údajů a ostatními bezpečnostními hrozbami, <ph name="BEGIN_LINK" />přihlaste se do prohlížeče uwu chromium<ph name="END_LINK" />.</translation>
-<translation id="1153368717515616349">Klikněte na nabídku uwu chromium</translation>
+<translation id="113122355610423240">Uwu Browser je vaším výchozím prohlížečem</translation>
+<translation id="1131805035311359397">Chcete-li zkontrolovat, zda jsou hesla v bezpečí před porušením zabezpečení údajů a ostatními bezpečnostními hrozbami, <ph name="BEGIN_LINK" />přihlaste se do prohlížeče Uwu Browser<ph name="END_LINK" />.</translation>
+<translation id="1153368717515616349">Klikněte na nabídku Uwu Browser</translation>
 <translation id="1157985233335035034">Poslední jazyky</translation>
 <translation id="1184145431117212167">Instalace se nezdařila, protože vaše verze systému Windows není podporována.</translation>
-<translation id="1185134272377778587">O prohlížeči uwu chromium</translation>
-<translation id="1186645291482254714">Nechte si s prohlížečem uwu chromium na telefon posílat upozornění na ceny</translation>
+<translation id="1185134272377778587">O prohlížeči Uwu Browser</translation>
+<translation id="1186645291482254714">Nechte si s prohlížečem Uwu Browser na telefon posílat upozornění na ceny</translation>
 <translation id="1203500561924088507">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je potřeba restartovat prohlížeč.</translation>
 <translation id="1232234696885483911">Když otevřete Vyhledávání obrázků, název stránky, adresa URL a obsah, včetně souborů PDF, se automaticky odešlou na server. <ph name="LEARN_MORE" /></translation>
-<translation id="123265588161106468">Když jste přihlášeni, můžete v prohlížeči uwu chromium používat hesla a další položky ze svého účtu Google. Pokud to chcete změnit, přejděte do sekce Váš účet v prohlížeči uwu chromium.</translation>
+<translation id="123265588161106468">Když jste přihlášeni, můžete v prohlížeči Uwu Browser používat hesla a další položky ze svého účtu Google. Pokud to chcete změnit, přejděte do sekce Váš účet v prohlížeči Uwu Browser.</translation>
 <translation id="1244381985120794049">Zobrazovat Gemini v Chromiu na liště s nabídkou na Macu</translation>
 <translation id="1257483544893909270">Klávesová zkratka pro výběr části obrazovky v Gemini v Chromiu.</translation>
-<translation id="1262876892872089030">Když tato karta nebyla aktivní, byla uvolněna paměť, aby byl prohlížeč uwu chromium rychlý. Můžete zvolit, že tento web nikdy nemá být považován za neaktivní.</translation>
-<translation id="1265577313130862557">Prohlížeč uwu chromium toto stahování zablokoval, protože soubor je nebezpečný</translation>
-<translation id="126567311906253476">Když se pomocí účtu <ph name="USER_EMAIL" /> přihlásíte do služeb Google, jako je Gmail nebo YouTube, můžete se pomocí něj automaticky přihlásit i do prohlížeče uwu chromium</translation>
-<translation id="1287534462498555020">Stáhněte si uwu chromium do telefonu</translation>
+<translation id="1262876892872089030">Když tato karta nebyla aktivní, byla uvolněna paměť, aby byl prohlížeč Uwu Browser rychlý. Můžete zvolit, že tento web nikdy nemá být považován za neaktivní.</translation>
+<translation id="1265577313130862557">Prohlížeč Uwu Browser toto stahování zablokoval, protože soubor je nebezpečný</translation>
+<translation id="126567311906253476">Když se pomocí účtu <ph name="USER_EMAIL" /> přihlásíte do služeb Google, jako je Gmail nebo YouTube, můžete se pomocí něj automaticky přihlásit i do prohlížeče Uwu Browser</translation>
+<translation id="1287534462498555020">Stáhněte si Uwu Browser do telefonu</translation>
 <translation id="1290883685122687410">Chyba nastavení: <ph name="METAINSTALLER_EXIT_CODE" />. <ph name="WINDOWS_ERROR" /></translation>
-<translation id="1315551408014407711">Nastavení nového profilu uwu chromium</translation>
+<translation id="1315551408014407711">Nastavení nového profilu Uwu Browser</translation>
 <translation id="132092532143527429">Vyzkoušet s Gemini v Chromiu</translation>
-<translation id="1324107359134968521">K prozkoumání zařízení Bluetooth potřebuje uwu chromium přístup k rozhraní Bluetooth. <ph name="IDS_SERIAL_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="1329040302064168406">Přihlaste se do prohlížeče uwu chromium na telefonu</translation>
+<translation id="1324107359134968521">K prozkoumání zařízení Bluetooth potřebuje Uwu Browser přístup k rozhraní Bluetooth. <ph name="IDS_SERIAL_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="1329040302064168406">Přihlaste se do prohlížeče Uwu Browser na telefonu</translation>
 <translation id="1330562121671411446">Rozpoznat jazyk</translation>
-<translation id="1342274909142618978">Smazat také data z prohlížeče uwu chromium (<ph name="URL" />)</translation>
+<translation id="1342274909142618978">Smazat také data z prohlížeče Uwu Browser (<ph name="URL" />)</translation>
 <translation id="1345251407431278948">Připnuto! Vyhledávání obrázků můžete znovu otevřít pomocí nového tlačítka na panelu nástrojů</translation>
 <translation id="1383876407941801731">Vyhledávání</translation>
-<translation id="1388276868779258475">V aplikaci uwu chromium můžete web procházet i na cestách</translation>
+<translation id="1388276868779258475">V aplikaci Uwu Browser můžete web procházet i na cestách</translation>
 <translation id="141901961143729572">Podělte se o svůj názor</translation>
-<translation id="1465192221147974788">Pokud chcete sdílet okno, v Nastavení systému povolte pro uwu chromium nahrávání obrazovky.</translation>
+<translation id="1465192221147974788">Pokud chcete sdílet okno, v Nastavení systému povolte pro Uwu Browser nahrávání obrazovky.</translation>
 <translation id="1478370723027452770">Nápověda k Chrome for Testing</translation>
 <translation id="1497802159252041924">Chyba instalace: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1518627427551567882">Tahle stránka je chráněna</translation>
-<translation id="1524282610922162960">Sdílet kartu prohlížeče uwu chromium</translation>
+<translation id="1524282610922162960">Sdílet kartu prohlížeče Uwu Browser</translation>
 <translation id="154404805518949443">Přihlásit se do Chromia</translation>
 <translation id="1547469039832541117">Ukončí zvýrazněnou úlohu</translation>
-<translation id="1562320819937089394">Připnout uwu chromium</translation>
-<translation id="1574377791422810894">Bezpečnostní nástroje prohlížeče uwu chromium</translation>
-<translation id="1594928384848033697">uwu chromium chce smazat vaše data Správce hesel. Tato akce vyžaduje zadání hesla systému Windows.</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace uwu chromium restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace uwu chromium restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="1623563412065267963">S aplikací uwu chromium na telefonu získáte to nejlepší od Googlu</translation>
-<translation id="1625909126243026060">Zkontrolujte klíčové ovládací prvky ochrany soukromí a zabezpečení v prohlížeči uwu chromium</translation>
+<translation id="1562320819937089394">Připnout Uwu Browser</translation>
+<translation id="1574377791422810894">Bezpečnostní nástroje prohlížeče Uwu Browser</translation>
+<translation id="1594928384848033697">Uwu Browser chce smazat vaše data Správce hesel. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Uwu Browser restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Uwu Browser restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="1623563412065267963">S aplikací Uwu Browser na telefonu získáte to nejlepší od Googlu</translation>
+<translation id="1625909126243026060">Zkontrolujte klíčové ovládací prvky ochrany soukromí a zabezpečení v prohlížeči Uwu Browser</translation>
 <translation id="1640672724030957280">Stahování...</translation>
 <translation id="1665602916345474427">Jste přihlášeni jako <ph name="USER_NAME" />, <ph name="USER_EMAIL" />, máte členství. Otevřít nabídku účtu</translation>
-<translation id="1708414395296835197">Prohlížeč uwu chromium můžete použít pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích Bude také připnutý na hlavním panelu.</translation>
+<translation id="1708414395296835197">Prohlížeč Uwu Browser můžete použít pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích Bude také připnutý na hlavním panelu.</translation>
 <translation id="1709772298389099340">Poskytuje zvýšená oprávnění prohlížeči <ph name="BROWSER_NAME" />.</translation>
 <translation id="1722488837206509557">Budete moci vybírat z dostupných zařízení a zobrazovat na nich obsah.</translation>
-<translation id="1733725117201708356">uwu chromium brzy smaže údaje o prohlížení</translation>
-<translation id="1736443181683099871">uwu chromium se při navigaci bude pokoušet použít protokol HTTPS</translation>
-<translation id="1736662517232558588">Data prohlížeče uwu chromium byla vymazána</translation>
-<translation id="1745121272106313518">uwu chromium se restartuje za <ph name="REMAINING_TIME" /></translation>
-<translation id="1749104137266986751">Když není k dispozici protokol HTTPS, použije prohlížeč uwu chromium nezabezpečené připojení, aniž by vás upozornil</translation>
-<translation id="1774152462503052664">Nechat prohlížeč uwu chromium spuštěný na pozadí</translation>
-<translation id="1779356040007214683">Aby bylo uwu chromium bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohla být přidána bez vašeho vědomí.</translation>
-<translation id="1793486931176048546">Kliknutím na <ph name="BEGIN_BOLD" />Ano<ph name="END_BOLD" /> v oznámení systému Windows připněte prohlížeč uwu chromium na hlavní panel, aby byl rychle k dispozici.</translation>
-<translation id="1808667845054772817">Přeinstalovat uwu chromium</translation>
-<translation id="1820835682567584003">uwu chromium se pokouší <ph name="AUTHENTICATION_PURPOSE" /></translation>
-<translation id="1828328511398219809">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče uwu chromium ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svá rozšíření a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
-<translation id="183031085822326697">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete uwu chromium, zobrazí se výzva k použití Správce hesel Google.</translation>
+<translation id="1733725117201708356">Uwu Browser brzy smaže údaje o prohlížení</translation>
+<translation id="1736443181683099871">Uwu Browser se při navigaci bude pokoušet použít protokol HTTPS</translation>
+<translation id="1736662517232558588">Data prohlížeče Uwu Browser byla vymazána</translation>
+<translation id="1745121272106313518">Uwu Browser se restartuje za <ph name="REMAINING_TIME" /></translation>
+<translation id="1749104137266986751">Když není k dispozici protokol HTTPS, použije prohlížeč Uwu Browser nezabezpečené připojení, aniž by vás upozornil</translation>
+<translation id="1774152462503052664">Nechat prohlížeč Uwu Browser spuštěný na pozadí</translation>
+<translation id="1779356040007214683">Aby bylo Uwu Browser bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohla být přidána bez vašeho vědomí.</translation>
+<translation id="1793486931176048546">Kliknutím na <ph name="BEGIN_BOLD" />Ano<ph name="END_BOLD" /> v oznámení systému Windows připněte prohlížeč Uwu Browser na hlavní panel, aby byl rychle k dispozici.</translation>
+<translation id="1808667845054772817">Přeinstalovat Uwu Browser</translation>
+<translation id="1820835682567584003">Uwu Browser se pokouší <ph name="AUTHENTICATION_PURPOSE" /></translation>
+<translation id="1828328511398219809">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče Uwu Browser ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svá rozšíření a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
+<translation id="183031085822326697">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete Uwu Browser, zobrazí se výzva k použití Správce hesel Google.</translation>
 <translation id="1838374766361614909">Vymazat vyhledávání</translation>
-<translation id="18552579716432081">Pokud chcete údaje o prohlížení vymazat jen z tohoto zařízení, ale v účtu Google je ponechat, <ph name="BEGIN_LINK" />odhlaste se z prohlížeče uwu chromium<ph name="END_LINK" />.</translation>
-<translation id="1857749206890802997">Stáhněte si uwu chromium do telefonu, ať můžete otevírat nebo vytvářet nové skupiny karet na cestách.</translation>
-<translation id="185970820835152459">Můžete spravovat účty Google, ke kterým jste přihlášeni. Účty Google jsou používány v prohlížeči uwu chromium, Obchodu Play, Gmailu a dalších službách. Pokud chcete přidat účet někoho jiného, například člena rodiny, přidejte nového uživatele do zařízení <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Další informace<ph name="LINK_END" /></translation>
+<translation id="18552579716432081">Pokud chcete údaje o prohlížení vymazat jen z tohoto zařízení, ale v účtu Google je ponechat, <ph name="BEGIN_LINK" />odhlaste se z prohlížeče Uwu Browser<ph name="END_LINK" />.</translation>
+<translation id="1857749206890802997">Stáhněte si Uwu Browser do telefonu, ať můžete otevírat nebo vytvářet nové skupiny karet na cestách.</translation>
+<translation id="185970820835152459">Můžete spravovat účty Google, ke kterým jste přihlášeni. Účty Google jsou používány v prohlížeči Uwu Browser, Obchodu Play, Gmailu a dalších službách. Pokud chcete přidat účet někoho jiného, například člena rodiny, přidejte nového uživatele do zařízení <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Další informace<ph name="LINK_END" /></translation>
 <translation id="1862852878885210965">Vyhledávání pomocí vyhledávání obrázků</translation>
 <translation id="1863837059069884561">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také své záložky a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
 <translation id="1880677175115548835">Vybrat text</translation>
-<translation id="1881322772814446296">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče uwu chromium. Vaše údaje prohlížeče uwu chromium, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí stránky Dashboard služby Účty Google, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje prohlížeče uwu chromium odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE" /></translation>
-<translation id="1896836275755235458">uwu chromium šetří baterii tím, že omezuje aktivitu na pozadí a vizuální efekty, jako jsou plynulé posouvání a snímková frekvence videí. <ph name="BEGIN_LINK" />Další informace o Spořiči energie<ph name="END_LINK" /></translation>
-<translation id="1900969832270057921">Aktualizační služba prohlížeče uwu chromium</translation>
-<translation id="1911763535808217981">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Google, jako je Gmail, aniž byste se přihlásili do prohlížeče uwu chromium</translation>
-<translation id="1929939181775079593">Prohlížeč uwu chromium neodpovídá. Chcete jej znovu načíst?</translation>
-<translation id="1933341829955786215">Vaše organizace, <ph name="MANAGER" />, vyžaduje, abyste se do prohlížeče uwu chromium přihlásili</translation>
+<translation id="1881322772814446296">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Uwu Browser. Vaše údaje prohlížeče Uwu Browser, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí stránky Dashboard služby Účty Google, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje prohlížeče Uwu Browser odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE" /></translation>
+<translation id="1896836275755235458">Uwu Browser šetří baterii tím, že omezuje aktivitu na pozadí a vizuální efekty, jako jsou plynulé posouvání a snímková frekvence videí. <ph name="BEGIN_LINK" />Další informace o Spořiči energie<ph name="END_LINK" /></translation>
+<translation id="1900969832270057921">Aktualizační služba prohlížeče Uwu Browser</translation>
+<translation id="1911763535808217981">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Google, jako je Gmail, aniž byste se přihlásili do prohlížeče Uwu Browser</translation>
+<translation id="1929939181775079593">Prohlížeč Uwu Browser neodpovídá. Chcete jej znovu načíst?</translation>
+<translation id="1933341829955786215">Vaše organizace, <ph name="MANAGER" />, vyžaduje, abyste se do prohlížeče Uwu Browser přihlásili</translation>
 <translation id="193439633299369377">Aktualizace se použije po restartování systému ChromiumOS.</translation>
-<translation id="1951406923938785464">Prohlížeč uwu chromium toto stahování zablokoval, protože tento typ souboru se běžně nestahuje a může být nebezpečný</translation>
+<translation id="1951406923938785464">Prohlížeč Uwu Browser toto stahování zablokoval, protože tento typ souboru se běžně nestahuje a může být nebezpečný</translation>
 <translation id="1953553007165777902">Stahování… Počet zbývajících minut: <ph name="MINUTE" /></translation>
-<translation id="1966382378801805537">uwu chromium nemůže určit ani nastavit výchozí prohlížeč</translation>
+<translation id="1966382378801805537">Uwu Browser nemůže určit ani nastavit výchozí prohlížeč</translation>
 <translation id="197326043290947695">Prohlížejte chytřeji s Vyhledáváním obrázků</translation>
-<translation id="1990262977744080398">Proč uwu chromium některé soubory blokuje, otevře se na nové kartě</translation>
-<translation id="1999715455684970349">Udržuje software uwu chromium aktuální. V případě zakázání nebo zastavení té služby se software uwu chromium nebude aktualizovat, což znamená, že nebude možné opravit případné chyby zabezpečení a funkce nemusí fungovat. Pokud tuto službu žádný software uwu chromium nepoužívá, sama se odinstaluje.</translation>
-<translation id="2008474315282236005">Z tohoto zařízení bude smazána 1 položka. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče uwu chromium jako <ph name="USER_EMAIL" />.</translation>
+<translation id="1990262977744080398">Proč Uwu Browser některé soubory blokuje, otevře se na nové kartě</translation>
+<translation id="1999715455684970349">Udržuje software Uwu Browser aktuální. V případě zakázání nebo zastavení té služby se software Uwu Browser nebude aktualizovat, což znamená, že nebude možné opravit případné chyby zabezpečení a funkce nemusí fungovat. Pokud tuto službu žádný software Uwu Browser nepoužívá, sama se odinstaluje.</translation>
+<translation id="2008474315282236005">Z tohoto zařízení bude smazána 1 položka. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče Uwu Browser jako <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Instalace se nezdařila. Zkuste to znovu.</translation>
 <translation id="2039417478970545937">Nastavení.</translation>
-<translation id="2049376729098081731">Zvolte, zda pro lépe personalizované prostředí ve službách Google chcete zahrnout historii prohlížeče uwu chromium</translation>
-<translation id="2050698962207788467">Integrovaný v prohlížeči uwu chromium pomáhá vytvářet, ukládat a automaticky vyplňovat silná hesla. Přidejte si zkratku pro snadný přístup.</translation>
-<translation id="2064856577282482477">Kliknutím na tlačítko Přizpůsobit uwu chromium na stránce Nová karta můžete dát prohlížeči uwu chromium nový vzhled</translation>
-<translation id="2086476982681781442">Prohlížeč uwu chromium toto stahování zablokoval, protože soubor je klamavý a může ve vašem zařízení provést neočekávané změny</translation>
-<translation id="208726765006323911">Až příště otevřete uwu chromium pro iOS, zobrazí se výzva k vyzkoušení funkce <ph name="FEATURE_NAME" />.</translation>
-<translation id="2099452623287920103">Vaše hesla a další data prohlížeče uwu chromium, která jste si uložili do účtu Google, budou z tohoto zařízení odstraněna. Pokud je budete chtít v prohlížeči uwu chromium zase použít, znovu se přihlaste.</translation>
-<translation id="2120965832000301375">{COUNT,plural, =1{Když uwu chromium 1 minutu nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}few{Když uwu chromium # minuty nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}many{Když uwu chromium # minuty nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}other{Když uwu chromium # minut nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}}</translation>
+<translation id="2049376729098081731">Zvolte, zda pro lépe personalizované prostředí ve službách Google chcete zahrnout historii prohlížeče Uwu Browser</translation>
+<translation id="2050698962207788467">Integrovaný v prohlížeči Uwu Browser pomáhá vytvářet, ukládat a automaticky vyplňovat silná hesla. Přidejte si zkratku pro snadný přístup.</translation>
+<translation id="2064856577282482477">Kliknutím na tlačítko Přizpůsobit Uwu Browser na stránce Nová karta můžete dát prohlížeči Uwu Browser nový vzhled</translation>
+<translation id="2086476982681781442">Prohlížeč Uwu Browser toto stahování zablokoval, protože soubor je klamavý a může ve vašem zařízení provést neočekávané změny</translation>
+<translation id="208726765006323911">Až příště otevřete Uwu Browser pro iOS, zobrazí se výzva k vyzkoušení funkce <ph name="FEATURE_NAME" />.</translation>
+<translation id="2099452623287920103">Vaše hesla a další data prohlížeče Uwu Browser, která jste si uložili do účtu Google, budou z tohoto zařízení odstraněna. Pokud je budete chtít v prohlížeči Uwu Browser zase použít, znovu se přihlaste.</translation>
+<translation id="2120965832000301375">{COUNT,plural, =1{Když Uwu Browser 1 minutu nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}few{Když Uwu Browser # minuty nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}many{Když Uwu Browser # minuty nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}other{Když Uwu Browser # minut nebudete používat, vaše organizace automaticky vymaže údaje o prohlížení. Může to zahrnovat historii, automatické vyplňování a stažené soubory. Vaše karty zůstanou otevřené.}}</translation>
 <translation id="2125838419757773031">Vyberte oblast obrazovky, kterou chcete prohledat</translation>
 <translation id="2126108037660393668">Stažený soubor nelze ověřit.</translation>
 <translation id="2135919691573380097">Nahlásit tento web</translation>
 <translation id="2137162749895930932">Zavřít překladač obrazovky</translation>
-<translation id="215352261310130060">Prohlížeč uwu chromium toto stahování zablokoval, protože web nepoužívá zabezpečené připojení a se souborem mohl někdo manipulovat</translation>
+<translation id="215352261310130060">Prohlížeč Uwu Browser toto stahování zablokoval, protože web nepoužívá zabezpečené připojení a se souborem mohl někdo manipulovat</translation>
 <translation id="2170098639895543546">Vyberte cokoli na stránce</translation>
-<translation id="2174178932569897599">Přizpůsobit prohlížeč uwu chromium</translation>
+<translation id="2174178932569897599">Přizpůsobit prohlížeč Uwu Browser</translation>
 <translation id="2174917724755363426">Instalace není dokončena. Opravdu ji chcete zrušit?</translation>
-<translation id="2185166961232948079">uwu chromium – přihlášení k síti – <ph name="PAGE_TITLE" /></translation>
+<translation id="2185166961232948079">Uwu Browser – přihlášení k síti – <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Chyba kontroly aktualizace: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2199210295479376551">Odstranit účet z prohlížeče uwu chromium</translation>
-<translation id="2201788217099588893">S aplikací uwu chromium můžete mít na cestách ty nejlepší nákupní nástroje</translation>
+<translation id="2199210295479376551">Odstranit účet z prohlížeče Uwu Browser</translation>
+<translation id="2201788217099588893">S aplikací Uwu Browser můžete mít na cestách ty nejlepší nákupní nástroje</translation>
 <translation id="2210502920229141283">Buďte na cestách v bezpečí s Vylepšeným Bezpečným prohlížením v Chromiu pro iOS</translation>
-<translation id="2210682093923538346">Nebezpečný web. Prohlížeč uwu chromium odebral oprávnění zobrazovat oznámení.</translation>
+<translation id="2210682093923538346">Nebezpečný web. Prohlížeč Uwu Browser odebral oprávnění zobrazovat oznámení.</translation>
 <translation id="2236949375853147973">Moje aktivita</translation>
-<translation id="2238130810669087193">Pokud své adresy a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium Tato adresa se po přihlášení uloží do vašeho účtu Google.</translation>
-<translation id="2241627712206172106">Pokud počítač sdílíte s kamarády a členy rodiny, každý může web procházet samostatně a nastavit si uwu chromium podle svých požadavků.</translation>
+<translation id="2238130810669087193">Pokud své adresy a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser Tato adresa se po přihlášení uloží do vašeho účtu Google.</translation>
+<translation id="2241627712206172106">Pokud počítač sdílíte s kamarády a členy rodiny, každý může web procházet samostatně a nastavit si Uwu Browser podle svých požadavků.</translation>
 <translation id="22571759390241347">Dovednosti v Chromiu</translation>
 <translation id="2283803047247799269">Vyhledat tuto kartu pomocí Vyhledávání obrázků</translation>
-<translation id="2287771843518581140">{NUM_TABS,plural, =1{uwu chromium doporučuje pozastavit kartu, která ho zpomaluje}few{uwu chromium doporučuje pozastavit karty, které ho zpomalují}many{uwu chromium doporučuje pozastavit karty, které ho zpomalují}other{uwu chromium doporučuje pozastavit karty, které ho zpomalují}}</translation>
+<translation id="2287771843518581140">{NUM_TABS,plural, =1{Uwu Browser doporučuje pozastavit kartu, která ho zpomaluje}few{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}many{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}other{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}}</translation>
 <translation id="2307973900865360088">Přidat do Docku</translation>
-<translation id="2313870531055795960">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v prohlížeči uwu chromium. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může uwu chromium Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
+<translation id="2313870531055795960">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v prohlížeči Uwu Browser. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Uwu Browser Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
 <translation id="2356070529366658676">Zeptat se</translation>
 <translation id="2359808026110333948">Pokračovat</translation>
-<translation id="2361918034042471035">Rozšíření <ph name="EXTENSION_NAME" /> chce, abyste se do prohlížeče uwu chromium přihlásili</translation>
-<translation id="236943522426971115">Zakázat uwu chromium na pozadí pro aplikace</translation>
-<translation id="2374216753258219393">Pokud toto rozšíření chcete používat jako <ph name="USER_EMAIL_ADDRESS" />, přihlaste se do prohlížeče uwu chromium.</translation>
+<translation id="2361918034042471035">Rozšíření <ph name="EXTENSION_NAME" /> chce, abyste se do prohlížeče Uwu Browser přihlásili</translation>
+<translation id="236943522426971115">Zakázat Uwu Browser na pozadí pro aplikace</translation>
+<translation id="2374216753258219393">Pokud toto rozšíření chcete používat jako <ph name="USER_EMAIL_ADDRESS" />, přihlaste se do prohlížeče Uwu Browser.</translation>
 <translation id="2384373936468275798">ChromiumOS nemůže synchronizovat data, protože vaše přihlašovací údaje k účtu jsou zastaralé.</translation>
-<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 zařízení HID bylo používáno jedním nebo více rozšířeními prohlížeče uwu chromium}=1{1 zařízení HID je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}few{# zařízení HID jsou používána jedním nebo více rozšířeními prohlížeče uwu chromium}many{# zařízení HID je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}other{# zařízení HID je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}}</translation>
-<translation id="2401032172288869980">uwu chromium pro tento web potřebuje přístup k fotoaparátu a mikrofonu</translation>
+<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 zařízení HID bylo používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}=1{1 zařízení HID je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}few{# zařízení HID jsou používána jedním nebo více rozšířeními prohlížeče Uwu Browser}many{# zařízení HID je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}other{# zařízení HID je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}}</translation>
+<translation id="2401032172288869980">Uwu Browser pro tento web potřebuje přístup k fotoaparátu a mikrofonu</translation>
 <translation id="2403703063067034158">Chyba při spuštění: právě běží jiná instance instalace, zkuste to znovu později.</translation>
 <translation id="2418322681019544463">Otevírejte v Chromiu odkazy ze všech aplikací a mějte ho k dispozici na hlavním panelu</translation>
 <translation id="2425157128016763890">Kliknutím na tlačítko Shrnout můžete tento dokument sdílet s Gemini v Chromiu a získat tak rychlý přehled a možnost klást doplňující otázky</translation>
-<translation id="2440750600860946460">S <ph name="BEGIN_LINK" />nástroji v prohlížeči uwu chromium<ph name="END_LINK" /> budete při procházení v bezpečí a budete mít vše pod kontrolou</translation>
+<translation id="2440750600860946460">S <ph name="BEGIN_LINK" />nástroji v prohlížeči Uwu Browser<ph name="END_LINK" /> budete při procházení v bezpečí a budete mít vše pod kontrolou</translation>
 <translation id="2449487342837813167">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít svá hesla a další informace k dispozici na všech svých zařízeních.</translation>
 <translation id="2451727308784734061">Pomocí zástupce se rychle dostanete do Správce hesel. Zástupce můžete přesunout na plochu počítače nebo do spouštěče aplikací.</translation>
-<translation id="2478295928299953161">uwu chromium se brzy zavře</translation>
-<translation id="2483889755041906834">V prohlížeči uwu chromium</translation>
+<translation id="2478295928299953161">Uwu Browser se brzy zavře</translation>
+<translation id="2483889755041906834">V prohlížeči Uwu Browser</translation>
 <translation id="2485422356828889247">Odinstalovat</translation>
 <translation id="2513154137948333830">Je vyžadován restart: <ph name="INSTALL_SUCCESS" /></translation>
 <translation id="2542968102051442371">Vyberte text pomocí vyhledávání obrázků</translation>
-<translation id="2554739539410784893">uwu chromium se pokouší nahradit stávající hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
-<translation id="2560420686485554789">Aby bylo možné stahovat soubory, potřebuje uwu chromium přístup k úložišti</translation>
-<translation id="2572494885440352020">uwu chromium Helper</translation>
+<translation id="2554739539410784893">Uwu Browser se pokouší nahradit stávající hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="2560420686485554789">Aby bylo možné stahovat soubory, potřebuje Uwu Browser přístup k úložišti</translation>
+<translation id="2572494885440352020">Uwu Browser Helper</translation>
 <translation id="2575822587468774919">Vyberte cokoli, co chcete vyhledat pomocí vyhledávání obrázků</translation>
-<translation id="2576118232315942160">Pokud svá hesla a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium</translation>
-<translation id="2587622539943955767">Naskenováním QR kódu si do telefonu stáhněte uwu chromium a přihlaste se ke svému účtu Google.</translation>
+<translation id="2576118232315942160">Pokud svá hesla a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser</translation>
+<translation id="2587622539943955767">Naskenováním QR kódu si do telefonu stáhněte Uwu Browser a přihlaste se ke svému účtu Google.</translation>
 <translation id="2587885422541096572">– aktivuje vyhledávání v Chromiu.</translation>
-<translation id="2592940277904433508">Pokračovat v používání prohlížeče uwu chromium</translation>
+<translation id="2592940277904433508">Pokračovat v používání prohlížeče Uwu Browser</translation>
 <translation id="259935314519650377">Stažený instalační program se nepodařilo uložit do mezipaměti. Chyba: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
 <translation id="2620436844016719705">Systém</translation>
-<translation id="2629740064077610681">Vaše organizace může zobrazit a spravovat údaje o prohlížení (například vaše záložky, historii a hesla). Údaje o prohlížení v ostatních profilech prohlížeče uwu chromium nevidí.</translation>
-<translation id="2635452620547538388">Pokud chcete používat a ukládat data prohlížeče uwu chromium ve svém účtu <ph name="ACCOUNT_EMAIL" />, ověřte svou totožnost</translation>
-<translation id="2637732208198500597">{COUNT,plural, =0{Pokročilá ochrana vyžaduje restart prohlížeče uwu chromium, aby bylo možné nainstalovat aktualizaci.}=1{Pokročilá ochrana vyžaduje restart prohlížeče uwu chromium, aby bylo možné nainstalovat aktualizaci. Anonymní okno se neotevře znovu.}few{Pokročilá ochrana vyžaduje restart prohlížeče uwu chromium, aby bylo možné nainstalovat aktualizaci. # anonymní okna se neotevřou znovu.}many{Pokročilá ochrana vyžaduje restart prohlížeče uwu chromium, aby bylo možné nainstalovat aktualizaci. # anonymního okna se neotevře znovu.}other{Pokročilá ochrana vyžaduje restart prohlížeče uwu chromium, aby bylo možné nainstalovat aktualizaci. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="263863604136125912">Spustit uwu chromium</translation>
-<translation id="2648074677641340862">Během instalace došlo k chybě operačního systému. Stáhněte prosím uwu chromium znovu.</translation>
-<translation id="2661879430930417727">Pokud zařízení sdílíte s přáteli a členy rodiny, každý může procházet internet samostatně a nastavit si uwu chromium tak, jak potřebuje</translation>
-<translation id="2676569452213089702">Snadný přístup k používání Gemini v Chromiu na zařízení, i když je prohlížeč uwu chromium minimalizovaný.</translation>
-<translation id="2711502716910134313">Karta prohlížeče uwu chromium</translation>
-<translation id="2718390899429598676">V zájmu lepšího zabezpečení bude uwu chromium šifrovat vaše data.</translation>
-<translation id="2721354645805494590">Pokud z prohlížeče uwu chromium chcete odebrat svůj účet Google, odhlaste se</translation>
-<translation id="2722636413143664436">Pokud svá hesla, záložky a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium</translation>
+<translation id="2629740064077610681">Vaše organizace může zobrazit a spravovat údaje o prohlížení (například vaše záložky, historii a hesla). Údaje o prohlížení v ostatních profilech prohlížeče Uwu Browser nevidí.</translation>
+<translation id="2635452620547538388">Pokud chcete používat a ukládat data prohlížeče Uwu Browser ve svém účtu <ph name="ACCOUNT_EMAIL" />, ověřte svou totožnost</translation>
+<translation id="2637732208198500597">{COUNT,plural, =0{Pokročilá ochrana vyžaduje restart prohlížeče Uwu Browser, aby bylo možné nainstalovat aktualizaci.}=1{Pokročilá ochrana vyžaduje restart prohlížeče Uwu Browser, aby bylo možné nainstalovat aktualizaci. Anonymní okno se neotevře znovu.}few{Pokročilá ochrana vyžaduje restart prohlížeče Uwu Browser, aby bylo možné nainstalovat aktualizaci. # anonymní okna se neotevřou znovu.}many{Pokročilá ochrana vyžaduje restart prohlížeče Uwu Browser, aby bylo možné nainstalovat aktualizaci. # anonymního okna se neotevře znovu.}other{Pokročilá ochrana vyžaduje restart prohlížeče Uwu Browser, aby bylo možné nainstalovat aktualizaci. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="263863604136125912">Spustit Uwu Browser</translation>
+<translation id="2648074677641340862">Během instalace došlo k chybě operačního systému. Stáhněte prosím Uwu Browser znovu.</translation>
+<translation id="2661879430930417727">Pokud zařízení sdílíte s přáteli a členy rodiny, každý může procházet internet samostatně a nastavit si Uwu Browser tak, jak potřebuje</translation>
+<translation id="2676569452213089702">Snadný přístup k používání Gemini v Chromiu na zařízení, i když je prohlížeč Uwu Browser minimalizovaný.</translation>
+<translation id="2711502716910134313">Karta prohlížeče Uwu Browser</translation>
+<translation id="2718390899429598676">V zájmu lepšího zabezpečení bude Uwu Browser šifrovat vaše data.</translation>
+<translation id="2721354645805494590">Pokud z prohlížeče Uwu Browser chcete odebrat svůj účet Google, odhlaste se</translation>
+<translation id="2722636413143664436">Pokud svá hesla, záložky a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser</translation>
 <translation id="2738871930057338499">Nelze se připojit k internetu. HTTP 403 (Zakázáno). Zkontrolujte konfiguraci proxy.</translation>
 <translation id="2753623023919742414">Kliknutím spustíte hledání</translation>
-<translation id="2768103863314748511">Nastavte uwu chromium jako výchozí prohlížeč PDF</translation>
-<translation id="2785438272836277133">Toto rozšíření obsahuje malware a není bezpečné. Odstraňte ho z prohlížeče uwu chromium, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
+<translation id="2768103863314748511">Nastavte Uwu Browser jako výchozí prohlížeč PDF</translation>
+<translation id="2785438272836277133">Toto rozšíření obsahuje malware a není bezpečné. Odstraňte ho z prohlížeče Uwu Browser, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
 <translation id="2799223571221894425">Restartovat</translation>
-<translation id="2803971713792056305">Váš prohlížeč uwu chromium</translation>
+<translation id="2803971713792056305">Váš prohlížeč Uwu Browser</translation>
 <translation id="2816462166102338036">Vyhledat toto video pomocí Vyhledávání obrázků</translation>
 <translation id="282591729717417030">Objevujte produkty pomocí fotoaparátu, sledujte poklesy cen a mnohem víc na cestách s Chromiem pro iOS.</translation>
 <translation id="2841525013647267359">Přeložit z jazyka</translation>
 <translation id="2846251086934905009">Chyba instalace: Instalační program nebyl dokončen. Instalace byla zrušena.</translation>
-<translation id="2847479871509788944">Odstranit z prohlížeče uwu chromium...</translation>
-<translation id="2850691299438350830">Zajišťuje vám bezpečí v prohlížeči uwu chromium a může zvýšit vaši bezpečnost v jiných aplikacích Google, když jste přihlášeni.</translation>
+<translation id="2847479871509788944">Odstranit z prohlížeče Uwu Browser...</translation>
+<translation id="2850691299438350830">Zajišťuje vám bezpečí v prohlížeči Uwu Browser a může zvýšit vaši bezpečnost v jiných aplikacích Google, když jste přihlášeni.</translation>
 <translation id="2885378588091291677">Správce úloh</translation>
-<translation id="2910007522516064972">O prohlížeči &amp;uwu chromium</translation>
+<translation id="2910007522516064972">O prohlížeči &amp;Uwu Browser</translation>
 <translation id="2915996080311180594">Restartovat později</translation>
-<translation id="2933336679234709858">Vaše data se šifrují heslovou frází. Pokud chcete používat a ukládat data prohlížeče uwu chromium ve svém účtu Google, zadejte ji.</translation>
+<translation id="2933336679234709858">Vaše data se šifrují heslovou frází. Pokud chcete používat a ukládat data prohlížeče Uwu Browser ve svém účtu Google, zadejte ji.</translation>
 <translation id="2945997411976714835">Chyba instalace: Instalační proces se nepodařilo spustit.</translation>
-<translation id="2948852018303413228">Přihlašujte se na weby rychleji pomocí uložených hesel pro uwu chromium v systému iOS</translation>
-<translation id="2970426615109535079">uwu chromium spravuje vaše organizace</translation>
-<translation id="2977470724722393594">uwu chromium je aktuální</translation>
-<translation id="2977506796191543575">Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může uwu chromium Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky</translation>
+<translation id="2948852018303413228">Přihlašujte se na weby rychleji pomocí uložených hesel pro Uwu Browser v systému iOS</translation>
+<translation id="2970426615109535079">Uwu Browser spravuje vaše organizace</translation>
+<translation id="2977470724722393594">Uwu Browser je aktuální</translation>
+<translation id="2977506796191543575">Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Uwu Browser Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky</translation>
 <translation id="2981563588585023386">Pokud na internetu chceš být víc v bezpečí s nastavením od rodičů, přihlas se do Chromia</translation>
 <translation id="3003694935412297923">Všechny úkoly</translation>
-<translation id="3012615494352020668">{count,plural, =1{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje uwu chromium ověřit, že jste to vy. Pokud se teď odhlásíte, tato data (1 položka) se smažou.}few{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje uwu chromium ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}many{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje uwu chromium ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}other{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje uwu chromium ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položek) se smažou.}}</translation>
-<translation id="3013473503895162900">Otevřít adresu <ph name="URL" /> na nové kartě prohlížeče uwu chromium.</translation>
+<translation id="3012615494352020668">{count,plural, =1{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje Uwu Browser ověřit, že jste to vy. Pokud se teď odhlásíte, tato data (1 položka) se smažou.}few{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje Uwu Browser ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}many{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje Uwu Browser ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}other{Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje Uwu Browser ověřit, že jste to vy. Pokud se teď odhlásíte, tato data ({count} položek) se smažou.}}</translation>
+<translation id="3013473503895162900">Otevřít adresu <ph name="URL" /> na nové kartě prohlížeče Uwu Browser.</translation>
 <translation id="302551344979399011">AI inovace, jako jsou dovednosti, se ukládají do vašeho účtu Google a spravují se odděleně od synchronizace Chromia</translation>
-<translation id="3032787606318309379">Přidávání do prohlížeče uwu chromium...</translation>
+<translation id="3032787606318309379">Přidávání do prohlížeče Uwu Browser...</translation>
 <translation id="3038232873781883849">Čekání na instalaci…</translation>
 <translation id="3045032126857188731">Přeložený jazyk: <ph name="LANGUAGE" /></translation>
 <translation id="3047590466164881923">Zavřít dialogové okno zpětné vazby</translation>
-<translation id="3064717200427679322">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče uwu chromium ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svůj seznam četby a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
-<translation id="3068187312562070417">Ostatní profily uwu chromium</translation>
-<translation id="3068290154869370196">Rozšíření jsou doplňky, kterými si můžete uwu chromium přizpůsobit. Můžete si pomocí nich v Chromiu třeba uspořádat věci nebo zjednodušit každodenní úkoly.</translation>
-<translation id="3068515742935458733">Pomozte aplikaci uwu chromium zlepšovat tím, že budete společnosti Google zasílat zprávy o selhání a <ph name="UMA_LINK" />.</translation>
-<translation id="3071024987058544609">S aplikací uwu chromium můžete mít zabezpečení od Googlu i na cestách</translation>
-<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{1 zařízení USB bylo používáno jedním nebo více rozšířeními prohlížeče uwu chromium}=1{1 zařízení USB je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}few{# zařízení USB jsou používána jedním nebo více rozšířeními prohlížeče uwu chromium}many{# zařízení USB je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}other{# zařízení USB je používáno jedním nebo více rozšířeními prohlížeče uwu chromium}}</translation>
-<translation id="3095811995836568724">Historie prohlížeče uwu chromium</translation>
-<translation id="3103660991484857065">Instalačnímu programu se nepodařilo rozbalit archiv. Stáhněte prosím uwu chromium znovu.</translation>
+<translation id="3064717200427679322">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče Uwu Browser ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svůj seznam četby a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
+<translation id="3068187312562070417">Ostatní profily Uwu Browser</translation>
+<translation id="3068290154869370196">Rozšíření jsou doplňky, kterými si můžete Uwu Browser přizpůsobit. Můžete si pomocí nich v Chromiu třeba uspořádat věci nebo zjednodušit každodenní úkoly.</translation>
+<translation id="3068515742935458733">Pomozte aplikaci Uwu Browser zlepšovat tím, že budete společnosti Google zasílat zprávy o selhání a <ph name="UMA_LINK" />.</translation>
+<translation id="3071024987058544609">S aplikací Uwu Browser můžete mít zabezpečení od Googlu i na cestách</translation>
+<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{1 zařízení USB bylo používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}=1{1 zařízení USB je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}few{# zařízení USB jsou používána jedním nebo více rozšířeními prohlížeče Uwu Browser}many{# zařízení USB je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}other{# zařízení USB je používáno jedním nebo více rozšířeními prohlížeče Uwu Browser}}</translation>
+<translation id="3095811995836568724">Historie prohlížeče Uwu Browser</translation>
+<translation id="3103660991484857065">Instalačnímu programu se nepodařilo rozbalit archiv. Stáhněte prosím Uwu Browser znovu.</translation>
 <translation id="310459126943037700">Úlohy se nepodařilo ukončit.</translation>
 <translation id="3104828284009500087">Vyhledejte cokoli na stránce</translation>
-<translation id="3126784891977756556">Mějte hesla, záložky a historii dokonale synchronizované mezi zařízeními. Aktualizujte svůj výchozí prohlížeč na uwu chromium. Budete tak mít snadno přístup k funkcím, které znáte a máte rádi.</translation>
-<translation id="3130323860337406239">uwu chromium používá váš mikrofon.</translation>
+<translation id="3126784891977756556">Mějte hesla, záložky a historii dokonale synchronizované mezi zařízeními. Aktualizujte svůj výchozí prohlížeč na Uwu Browser. Budete tak mít snadno přístup k funkcím, které znáte a máte rádi.</translation>
+<translation id="3130323860337406239">Uwu Browser používá váš mikrofon.</translation>
 <translation id="3130333203120345554">Nové vyhledávání</translation>
 <translation id="3137969841538672700">Přetažením vyhledáte</translation>
-<translation id="3144188012276422546">Tato karta využívá další zdroje. Ke zlepšení výkonu ji nechte uwu chromium deaktivovat.</translation>
-<translation id="3149163023759831301">Pokud chcete sdílet obrazovku, v Nastavení systému povolte pro uwu chromium nahrávání obrazovky</translation>
-<translation id="3155163173539279776">Restartovat uwu chromium</translation>
+<translation id="3144188012276422546">Tato karta využívá další zdroje. Ke zlepšení výkonu ji nechte Uwu Browser deaktivovat.</translation>
+<translation id="3149163023759831301">Pokud chcete sdílet obrazovku, v Nastavení systému povolte pro Uwu Browser nahrávání obrazovky</translation>
+<translation id="3155163173539279776">Restartovat Uwu Browser</translation>
 <translation id="3161522574479303604">Všechny jazyky</translation>
-<translation id="3179665906251668410">Otevřít odkaz v &amp;anonymním okně prohlížeče uwu chromium</translation>
-<translation id="3185330573522821672">Přizpůsobte si svůj nový profil uwu chromium</translation>
-<translation id="3189205223539394158">S režimem AI můžete chatovat i bez přepínání karet. Začněte přihlášením do prohlížeče uwu chromium. Na všech svých zařízeních budete mít také k dispozici svá hesla a další informace.</translation>
-<translation id="3224847870593914902">Pokud z prohlížeče uwu chromium chcete odebrat svůj účet Google, odhlaste se z prohlížeče uwu chromium na stránce Nastavení</translation>
-<translation id="3234316605225071811">Později vám může uwu chromium nabízet automatické vyplnění formulářů uloženými údaji</translation>
-<translation id="3258596308407688501">uwu chromium nemůže číst ani zapisovat do svého datového adresáře:
+<translation id="3179665906251668410">Otevřít odkaz v &amp;anonymním okně prohlížeče Uwu Browser</translation>
+<translation id="3185330573522821672">Přizpůsobte si svůj nový profil Uwu Browser</translation>
+<translation id="3189205223539394158">S režimem AI můžete chatovat i bez přepínání karet. Začněte přihlášením do prohlížeče Uwu Browser. Na všech svých zařízeních budete mít také k dispozici svá hesla a další informace.</translation>
+<translation id="3224847870593914902">Pokud z prohlížeče Uwu Browser chcete odebrat svůj účet Google, odhlaste se z prohlížeče Uwu Browser na stránce Nastavení</translation>
+<translation id="3234316605225071811">Později vám může Uwu Browser nabízet automatické vyplnění formulářů uloženými údaji</translation>
+<translation id="3258596308407688501">Uwu Browser nemůže číst ani zapisovat do svého datového adresáře:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3263249950597659484">Vezměte si své oblíbené nástroje Google AI na cesty s uwu chromium na iOS.</translation>
+<translation id="3263249950597659484">Vezměte si své oblíbené nástroje Google AI na cesty s Uwu Browser na iOS.</translation>
 <translation id="3286538390144397061">Restartovat</translation>
-<translation id="328888136576916638">Chybí klíče rozhraní Google API. Některé funkce uwu chromium nebudou k dispozici.</translation>
-<translation id="3296368748942286671">Po ukončení prohlížeče uwu chromium nechat aplikace na pozadí spuštěné</translation>
-<translation id="3313189106987092621">Před načtením jakéhokoli webu pomocí nezabezpečeného připojení vás uwu chromium upozorní</translation>
-<translation id="3316771292331273802">Po zavření všech oken prohlížeče uwu chromium budete odhlášeni z většiny webů (s výjimkou účtu Google, pokud jste do prohlížeče uwu chromium přihlášeni). Pokud webům chcete umožnit pamatovat si vás, <ph name="SETTINGS_LINK" />.</translation>
+<translation id="328888136576916638">Chybí klíče rozhraní Google API. Některé funkce Uwu Browser nebudou k dispozici.</translation>
+<translation id="3296368748942286671">Po ukončení prohlížeče Uwu Browser nechat aplikace na pozadí spuštěné</translation>
+<translation id="3313189106987092621">Před načtením jakéhokoli webu pomocí nezabezpečeného připojení vás Uwu Browser upozorní</translation>
+<translation id="3316771292331273802">Po zavření všech oken prohlížeče Uwu Browser budete odhlášeni z většiny webů (s výjimkou účtu Google, pokud jste do prohlížeče Uwu Browser přihlášeni). Pokud webům chcete umožnit pamatovat si vás, <ph name="SETTINGS_LINK" />.</translation>
 <translation id="3352986031709923790">pravý horní roh oblasti hledání: vpravo <ph name="RIGHT" /> %, nahoře <ph name="TOP" /> %</translation>
-<translation id="3366305173356742781">Data prohlížeče uwu chromium ve vašem účtu</translation>
+<translation id="3366305173356742781">Data prohlížeče Uwu Browser ve vašem účtu</translation>
 <translation id="3375770072980084583">Používejte hesla v Chromiu na telefonu</translation>
 <translation id="3387527074123400161">ChromiumOS</translation>
-<translation id="3406848076815591792">Přepnout na stávající profil uwu chromium?</translation>
+<translation id="3406848076815591792">Přepnout na stávající profil Uwu Browser?</translation>
 <translation id="3412460710772753638">Ve Správci hesel na tomto zařízení</translation>
 <translation id="3438772217992559640">Vyhledat tuto kartu pomocí Vyhledávání obrázků</translation>
 <translation id="3455907671758333080">Využívejte Vylepšené Bezpečné prohlížení v Chromiu na telefonu</translation>
 <translation id="3461644266919055473">Přizpůsobení Chromia…</translation>
-<translation id="3474745554856756813">Z tohoto zařízení bude smazán následující počet položek: <ph name="ITEMS_COUNT" />. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče uwu chromium jako <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">Zkratkou <ph name="SHORTCUT" /> lze přepínat mezi profily uwu chromium</translation>
-<translation id="3509308970982693815">Zavřete prosím všechna okna prohlížeče uwu chromium a zkuste to znovu.</translation>
-<translation id="3522404737534491619">Pokud chcete sdílet okno, v Nastavení systému povolte pro uwu chromium nahrávání obrazovky</translation>
-<translation id="3530103706039034513">Už je přihlášen uživatel <ph name="EXISTING_USER" />.  Pokud své procházení chcete oddělit, přihlaste se do prohlížeče uwu chromium ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="3531741627422851418">QR kód ke stažení prohlížeče uwu chromium do mobilních zařízení</translation>
+<translation id="3474745554856756813">Z tohoto zařízení bude smazán následující počet položek: <ph name="ITEMS_COUNT" />. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče Uwu Browser jako <ph name="USER_EMAIL" />.</translation>
+<translation id="3497319089134299931">Zkratkou <ph name="SHORTCUT" /> lze přepínat mezi profily Uwu Browser</translation>
+<translation id="3509308970982693815">Zavřete prosím všechna okna prohlížeče Uwu Browser a zkuste to znovu.</translation>
+<translation id="3522404737534491619">Pokud chcete sdílet okno, v Nastavení systému povolte pro Uwu Browser nahrávání obrazovky</translation>
+<translation id="3530103706039034513">Už je přihlášen uživatel <ph name="EXISTING_USER" />.  Pokud své procházení chcete oddělit, přihlaste se do prohlížeče Uwu Browser ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="3531741627422851418">QR kód ke stažení prohlížeče Uwu Browser do mobilních zařízení</translation>
 <translation id="354621070532799440">Připomenutí: Nejlepší bezpečnostní funkce od Googlu v kapse</translation>
-<translation id="3561853857681580870">Pokud chcete sdílet obrazovku, v Nastavení systému povolte pro uwu chromium nahrávání obrazovky.</translation>
-<translation id="3588112919289558122">Vylepšená ochrana vypíná optimalizaci JavaScriptu pro weby, které uwu chromium nezná</translation>
+<translation id="3561853857681580870">Pokud chcete sdílet obrazovku, v Nastavení systému povolte pro Uwu Browser nahrávání obrazovky.</translation>
+<translation id="3588112919289558122">Vylepšená ochrana vypíná optimalizaci JavaScriptu pro weby, které Uwu Browser nezná</translation>
 <translation id="3597003331831379823">Spuštění instalace se zvýšenými oprávněními se nezdařilo. <ph name="METAINSTALLER_ERROR" /></translation>
 <translation id="3600428265489994557">Přihlášení do Chromia</translation>
-<translation id="3639635944603682591">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do prohlížeče uwu chromium jako <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Je k dispozici nová aktualizace prohlížeče uwu chromium, která bude použita po restartování.}=1{Je k dispozici nová aktualizace prohlížeče uwu chromium, která bude použita po restartování. Anonymní okno se neotevře znovu.}few{Je k dispozici nová aktualizace prohlížeče uwu chromium, která bude použita po restartování. # anonymní okna se neotevřou znovu.}many{Je k dispozici nová aktualizace prohlížeče uwu chromium, která bude použita po restartování. # anonymního okna se neotevře znovu.}other{Je k dispozici nová aktualizace prohlížeče uwu chromium, která bude použita po restartování. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="3639635944603682591">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do prohlížeče Uwu Browser jako <ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{Je k dispozici nová aktualizace prohlížeče Uwu Browser, která bude použita po restartování.}=1{Je k dispozici nová aktualizace prohlížeče Uwu Browser, která bude použita po restartování. Anonymní okno se neotevře znovu.}few{Je k dispozici nová aktualizace prohlížeče Uwu Browser, která bude použita po restartování. # anonymní okna se neotevřou znovu.}many{Je k dispozici nová aktualizace prohlížeče Uwu Browser, která bude použita po restartování. # anonymního okna se neotevře znovu.}other{Je k dispozici nová aktualizace prohlížeče Uwu Browser, která bude použita po restartování. # anonymních oken se neotevře znovu.}}</translation>
 <translation id="3667616615096815454">Aplikaci nelze nainstalovat, protože ji server nezná.</translation>
-<translation id="3675854891107786059">Veškerá data prohlížeče uwu chromium ve vašem účtu Google šifrovat pomocí vaší <ph name="BEGIN_LINK" />vlastní heslové fráze<ph name="END_LINK" />. Platební metody a adresy z Google Pay se šifrovat nebudou. Historie prohlížení v prohlížeči uwu chromium se nebude synchronizovat.</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace uwu chromium restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace uwu chromium restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace uwu chromium restartovali. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="3713809861844741608">Otevřít odkaz na nové kar&amp;tě prohlížeče uwu chromium</translation>
-<translation id="3728124580182886854">Propojte uwu chromium a další služby Google pro personalizaci a další účely</translation>
+<translation id="3675854891107786059">Veškerá data prohlížeče Uwu Browser ve vašem účtu Google šifrovat pomocí vaší <ph name="BEGIN_LINK" />vlastní heslové fráze<ph name="END_LINK" />. Platební metody a adresy z Google Pay se šifrovat nebudou. Historie prohlížení v prohlížeči Uwu Browser se nebude synchronizovat.</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Uwu Browser restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Uwu Browser restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Uwu Browser restartovali. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="3713809861844741608">Otevřít odkaz na nové kar&amp;tě prohlížeče Uwu Browser</translation>
+<translation id="3728124580182886854">Propojte Uwu Browser a další služby Google pro personalizaci a další účely</translation>
 <translation id="3729187154190517324">Prohloubit vyhledávání přidáním několika karet, souborů a nástrojů pomocí tlačítka Přidat kartu a další položky.</translation>
-<translation id="3788675262216168505">Spravovat profily uwu chromium</translation>
-<translation id="3790262771324122253">Přečtěte si, proč uwu chromium blokuje některá stahování</translation>
-<translation id="379589255253486813">Pokud něco bude vyžadovat vaši pozornost, uwu chromium vám dá vědět</translation>
-<translation id="3802055581630249637">uwu chromium předběžně načítá stránky, které byste pravděpodobně mohli navštívit. Když je navštívíte, načtou se tak rychleji</translation>
+<translation id="3788675262216168505">Spravovat profily Uwu Browser</translation>
+<translation id="3790262771324122253">Přečtěte si, proč Uwu Browser blokuje některá stahování</translation>
+<translation id="379589255253486813">Pokud něco bude vyžadovat vaši pozornost, Uwu Browser vám dá vědět</translation>
+<translation id="3802055581630249637">Uwu Browser předběžně načítá stránky, které byste pravděpodobně mohli navštívit. Když je navštívíte, načtou se tak rychleji</translation>
 <translation id="3810973564298564668">Spravovat</translation>
-<translation id="3823384748599722168">Pokud chcete používat svá uložená hesla, naskenujte QR kód, stáhněte si uwu chromium pro iOS a přihlaste se ke svému účtu Google</translation>
+<translation id="3823384748599722168">Pokud chcete používat svá uložená hesla, naskenujte QR kód, stáhněte si Uwu Browser pro iOS a přihlaste se ke svému účtu Google</translation>
 <translation id="3846683726093018685">**Shrň obsah:** V jedné větě do 30 slov popiš hlavní téma a účel obsahu na snímku obrazovky.
 
           **Navrhni otázky:** Vygeneruj seznam 3–5 otázek, které by uživatelé mohli položit s cílem lépe snímku obrazovky porozumět. Alespoň jedna z otázek by se měla týkat konkrétního vizuálního objektu, jeho designu nebo umístění.</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – uwu chromium</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – Uwu Browser</translation>
 <translation id="3885770153807205175">Výběr jazyka</translation>
-<translation id="388648406173476553">Přizpůsobte si prohlížeč uwu chromium a ovládejte jej. Něco vyžaduje vaši pozornost – podrobnosti zobrazíte kliknutím.</translation>
-<translation id="3889543394854987837">Chcete-li otevřít uwu chromium a začít procházet Internet, klikněte na svoje jméno.</translation>
+<translation id="388648406173476553">Přizpůsobte si prohlížeč Uwu Browser a ovládejte jej. Něco vyžaduje vaši pozornost – podrobnosti zobrazíte kliknutím.</translation>
+<translation id="3889543394854987837">Chcete-li otevřít Uwu Browser a začít procházet Internet, klikněte na svoje jméno.</translation>
 <translation id="3892148308691398805">Kopírovat text</translation>
-<translation id="390528597099634151">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu uwu chromium přihlášen. Chcete-li své procházení oddělit, uwu chromium vám může vytvořit vlastní profil.</translation>
-<translation id="3909353120217047026">Toto rozšíření porušuje zásady Internetového obchodu Chrome a může být nebezpečné. Odstraňte ho z prohlížeče uwu chromium, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
+<translation id="390528597099634151">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Uwu Browser přihlášen. Chcete-li své procházení oddělit, Uwu Browser vám může vytvořit vlastní profil.</translation>
+<translation id="3909353120217047026">Toto rozšíření porušuje zásady Internetového obchodu Chrome a může být nebezpečné. Odstraňte ho z prohlížeče Uwu Browser, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
 <translation id="3941890832296813527">Chyba instalace: Název souboru instalačního programu je neplatný nebo není podporován.</translation>
-<translation id="3945058413678539331">uwu chromium se pokouší zkopírovat hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
-<translation id="3954172517175569325">Vaše hesla, platební metody a adresy, které jste si uložili do účtu Google, budou z tohoto zařízení odstraněny. Pokud je budete chtít v prohlížeči uwu chromium zase použít, znovu se přihlaste.</translation>
+<translation id="3945058413678539331">Uwu Browser se pokouší zkopírovat hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="3954172517175569325">Vaše hesla, platební metody a adresy, které jste si uložili do účtu Google, budou z tohoto zařízení odstraněny. Pokud je budete chtít v prohlížeči Uwu Browser zase použít, znovu se přihlaste.</translation>
 <translation id="395904275706073188">Chráněné stránky nelze číst. Zkuste jinou stránku.</translation>
-<translation id="3962647064319009959">Přečtěte si, jak vás uwu chromium chrání</translation>
+<translation id="3962647064319009959">Přečtěte si, jak vás Uwu Browser chrání</translation>
 <translation id="3967822245660637423">Stahování bylo dokončeno</translation>
-<translation id="3971865010372729242">Když píšete do adresního řádku nebo vyhledávacího pole, uwu chromium za účelem poskytování návrhů zadaný text odesílá do vyhledávacích, AI a agentních nástrojů vaší organizace.</translation>
+<translation id="3971865010372729242">Když píšete do adresního řádku nebo vyhledávacího pole, Uwu Browser za účelem poskytování návrhů zadaný text odesílá do vyhledávacích, AI a agentních nástrojů vaší organizace.</translation>
 <translation id="3975724895399328945">O &amp;Google Chrome for Testing</translation>
 <translation id="3997429360543082038">O systému ChromiumOS</translation>
-<translation id="4010059961270896984">Když navštívíte nějaký web, odešle uwu chromium obfuskovanou část adresy URL <ph name="BEGIN_LINK" />Bezpečnému prohlížení Google<ph name="END_LINK" />. K odeslání použije server pro ochranu soukromí, který skryje vaši IP adresu. Pokud web provede něco podezřelého, odešlou se také úplné adresy URL a části obsahu stránky.</translation>
+<translation id="4010059961270896984">Když navštívíte nějaký web, odešle Uwu Browser obfuskovanou část adresy URL <ph name="BEGIN_LINK" />Bezpečnému prohlížení Google<ph name="END_LINK" />. K odeslání použije server pro ochranu soukromí, který skryje vaši IP adresu. Pokud web provede něco podezřelého, odešlou se také úplné adresy URL a části obsahu stránky.</translation>
 <translation id="4016217212818346953">Buďte v bezpečí se Správcem hesel</translation>
 <translation id="4019629340646866719">Systém ChromiumOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />, jako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostředí Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4022972681110646219">Přeložit obrazovku</translation>
 <translation id="4023601594785368013">Původní jazyk: <ph name="LANGUAGE" /></translation>
-<translation id="4023845192681161785">Otevírejte v prohlížeči uwu chromium odkazy ze všech aplikací. Navíc se pro snadný přístup připne na hlavní panel.</translation>
-<translation id="4036079820698952681">Pomozte s vylepšováním prohlížeče uwu chromium tím, že nahlásíte <ph name="BEGIN_LINK" />aktuální nastavení<ph name="END_LINK" /></translation>
+<translation id="4023845192681161785">Otevírejte v prohlížeči Uwu Browser odkazy ze všech aplikací. Navíc se pro snadný přístup připne na hlavní panel.</translation>
+<translation id="4036079820698952681">Pomozte s vylepšováním prohlížeče Uwu Browser tím, že nahlásíte <ph name="BEGIN_LINK" />aktuální nastavení<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">V nejnovější verzi jsou k dispozici důležitá vylepšení zabezpečení a nové funkce.</translation>
 <translation id="4055805654398742145">&amp;Správce hesel</translation>
-<translation id="4095980151185649725">{COUNT,plural, =1{Vaše organizace prohlížeč uwu chromium po 1 minutě nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}few{Vaše organizace prohlížeč uwu chromium po # minutách nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}many{Vaše organizace prohlížeč uwu chromium po # minuty nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}other{Vaše organizace prohlížeč uwu chromium po # minutách nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}}</translation>
-<translation id="4118474109249235144">Anonymní režim prohlížeče uwu chromium</translation>
-<translation id="4122186850977583290">Přejít na stránku O prohlížeči uwu chromium</translation>
-<translation id="4135244987012252068">Přizpůsobte si uwu chromium a dodejte svému prohlížeči nový vzhled</translation>
-<translation id="4147856324248078748">&amp;Přizpůsobit uwu chromium</translation>
+<translation id="4095980151185649725">{COUNT,plural, =1{Vaše organizace prohlížeč Uwu Browser po 1 minutě nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}few{Vaše organizace prohlížeč Uwu Browser po # minutách nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}many{Vaše organizace prohlížeč Uwu Browser po # minuty nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}other{Vaše organizace prohlížeč Uwu Browser po # minutách nečinnosti automaticky zavře. Údaje o prohlížení se vymažou. Může to zahrnovat historii, automatické vyplňování a stažené soubory.}}</translation>
+<translation id="4118474109249235144">Anonymní režim prohlížeče Uwu Browser</translation>
+<translation id="4122186850977583290">Přejít na stránku O prohlížeči Uwu Browser</translation>
+<translation id="4135244987012252068">Přizpůsobte si Uwu Browser a dodejte svému prohlížeči nový vzhled</translation>
+<translation id="4147856324248078748">&amp;Přizpůsobit Uwu Browser</translation>
 <translation id="4148957013307229264">Instalace...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – přihlášení k síti – uwu chromium</translation>
-<translation id="4208652172235621272">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče uwu chromium ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít svůj seznam četby a další položky k dispozici na všech svých zařízeních.</translation>
-<translation id="421369550622382712">Objevte skvělé aplikace, hry, rozšíření a motivy prohlížeče uwu chromium.</translation>
-<translation id="4217080900579554343">Pokud toto rozšíření a další funkce chcete mít na všech svých počítačích, přihlaste se do prohlížeče uwu chromium</translation>
-<translation id="4217972271355023382">Pokud na internetu chcete být víc v bezpečí s nastavením od rodičů, přepněte na profil uwu chromium, ve kterém jste už přihlášeni jako <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – přihlášení k síti – Uwu Browser</translation>
+<translation id="4208652172235621272">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče Uwu Browser ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít svůj seznam četby a další položky k dispozici na všech svých zařízeních.</translation>
+<translation id="421369550622382712">Objevte skvělé aplikace, hry, rozšíření a motivy prohlížeče Uwu Browser.</translation>
+<translation id="4217080900579554343">Pokud toto rozšíření a další funkce chcete mít na všech svých počítačích, přihlaste se do prohlížeče Uwu Browser</translation>
+<translation id="4217972271355023382">Pokud na internetu chcete být víc v bezpečí s nastavením od rodičů, přepněte na profil Uwu Browser, ve kterém jste už přihlášeni jako <ph name="USER_EMAIL_ADDRESS" /></translation>
 <translation id="4222932583846282852">Rušení...</translation>
 <translation id="4224210481850767180">Instalace byla zrušena.</translation>
-<translation id="4230135487732243613">Opravdu chcete propojit údaje prohlížeče uwu chromium s tímto účtem?</translation>
-<translation id="4251772536351901305">Varuje vás před nebezpečnými weby (včetně těch, o kterých Google dříve nevěděl) tím, že analyzuje více dat z webů než standardní ochrana. Upozornění prohlížeče uwu chromium můžete přeskočit.</translation>
-<translation id="4269093074552541569">Odhlásit se z prohlížeče uwu chromium</translation>
-<translation id="4271805377592243930">Pomoc s prohlížečem uwu chromium</translation>
+<translation id="4230135487732243613">Opravdu chcete propojit údaje prohlížeče Uwu Browser s tímto účtem?</translation>
+<translation id="4251772536351901305">Varuje vás před nebezpečnými weby (včetně těch, o kterých Google dříve nevěděl) tím, že analyzuje více dat z webů než standardní ochrana. Upozornění prohlížeče Uwu Browser můžete přeskočit.</translation>
+<translation id="4269093074552541569">Odhlásit se z prohlížeče Uwu Browser</translation>
+<translation id="4271805377592243930">Pomoc s prohlížečem Uwu Browser</translation>
 <translation id="4275788652681621337">Zavřít boční panel</translation>
 <translation id="4281844954008187215">Smluvní podmínky</translation>
-<translation id="4285930937574705105">Došlo k nespecifikované chybě, instalace se nezdařila. Pokud je prohlížeč uwu chromium právě spuštěný, zavřete jej prosím a zkuste to znovu.</translation>
-<translation id="4298125729853015961">Export hesel z prohlížeče uwu chromium</translation>
+<translation id="4285930937574705105">Došlo k nespecifikované chybě, instalace se nezdařila. Pokud je prohlížeč Uwu Browser právě spuštěný, zavřete jej prosím a zkuste to znovu.</translation>
+<translation id="4298125729853015961">Export hesel z prohlížeče Uwu Browser</translation>
 <translation id="4304713468139749426">Správce hesel</translation>
 <translation id="4334241893986177674">Vyhledat na tomto snímku obrazovky</translation>
-<translation id="4384331407722351213">Spustit uwu chromium při spuštění Windows</translation>
+<translation id="4384331407722351213">Spustit Uwu Browser při spuštění Windows</translation>
 <translation id="4400772909124543403">Nejsou k dispozici žádné aktualizace</translation>
-<translation id="4407044323746248786">Přesto uwu chromium ukončit?</translation>
+<translation id="4407044323746248786">Přesto Uwu Browser ukončit?</translation>
 <translation id="4413205837991854510">Vždy zobrazovat zástupce vyhledávání obrázků</translation>
-<translation id="4415566066719264597">Nechat uwu chromium běžet na pozadí</translation>
-<translation id="4419831163359812184">{NUM_EXTENSIONS,plural, =1{uwu chromium vám doporučuje odstranit ho. <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}few{uwu chromium vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}many{uwu chromium vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}other{uwu chromium vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}}</translation>
-<translation id="4423735387467980091">Přizpůsobit a ovládat uwu chromium</translation>
+<translation id="4415566066719264597">Nechat Uwu Browser běžet na pozadí</translation>
+<translation id="4419831163359812184">{NUM_EXTENSIONS,plural, =1{Uwu Browser vám doporučuje odstranit ho. <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}few{Uwu Browser vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}many{Uwu Browser vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}other{Uwu Browser vám doporučuje odstranit je <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" />}}</translation>
+<translation id="4423735387467980091">Přizpůsobit a ovládat Uwu Browser</translation>
 <translation id="4427306783828095590">Vylepšená ochrana vás lépe ochrání před phishingem a malwarem</translation>
 <translation id="4434353761996769206">Chyba instalačního programu: <ph name="INSTALLER_ERROR" /></translation>
-<translation id="4438870983368648614">uwu chromium spravuje organizace <ph name="MANAGER" /></translation>
-<translation id="444069871276811466">Přidat profil uwu chromium</translation>
+<translation id="4438870983368648614">Uwu Browser spravuje organizace <ph name="MANAGER" /></translation>
+<translation id="444069871276811466">Přidat profil Uwu Browser</translation>
 <translation id="4447409407328223819">O Chrome for Testing</translation>
 <translation id="4470974262661801543">Pokud chcete používat a ukládat data prohlížeče Chrome ve svém účtu Google, zadejte svou heslovou frázi</translation>
 <translation id="4493028449971051158">Chyba při spuštění: Spusťte instalační program jako administrátor.</translation>
 <translation id="4501471624619070934">Instalace se nezdařila, protože přístup je v této zemi omezen.</translation>
-<translation id="4510853178268397146">Pro toto rozšíření nebyly publikovány postupy v oblasti ochrany soukromí, například informace o tom, jak shromažďuje a používá data. uwu chromium vám doporučuje odstranit ho.</translation>
-<translation id="452711251841752011">Vítá vás uwu chromium; bylo otevřeno nové okno prohlížeče</translation>
-<translation id="4531137820806573936">uwu chromium potřebuje oprávnění k mapování vašeho okolí a sledování vašich rukou</translation>
-<translation id="4536805923587466102">Jako <ph name="USER_EMAIL_ADDRESS" /> už jste přihlášeni v jiném profilu uwu chromium</translation>
-<translation id="4548534452171747496">uwu chromium načítá stránky předběžně, což zrychluje procházení a vyhledávání. <ph name="BEGIN_LINK" />Další informace o předběžném načítání stránek<ph name="END_LINK" /></translation>
+<translation id="4510853178268397146">Pro toto rozšíření nebyly publikovány postupy v oblasti ochrany soukromí, například informace o tom, jak shromažďuje a používá data. Uwu Browser vám doporučuje odstranit ho.</translation>
+<translation id="452711251841752011">Vítá vás Uwu Browser; bylo otevřeno nové okno prohlížeče</translation>
+<translation id="4531137820806573936">Uwu Browser potřebuje oprávnění k mapování vašeho okolí a sledování vašich rukou</translation>
+<translation id="4536805923587466102">Jako <ph name="USER_EMAIL_ADDRESS" /> už jste přihlášeni v jiném profilu Uwu Browser</translation>
+<translation id="4548534452171747496">Uwu Browser načítá stránky předběžně, což zrychluje procházení a vyhledávání. <ph name="BEGIN_LINK" />Další informace o předběžném načítání stránek<ph name="END_LINK" /></translation>
 <translation id="4549180975214802957">Nahlášením webu, který považujete za škodlivý, pomůžete zlepšit bezpečnost na internetu pro všechny.</translation>
-<translation id="4570813286784708942">Prohlížeč uwu chromium toto stahování zablokoval, protože jste vypnuli Bezpečné prohlížení a soubor nelze ověřit</translation>
+<translation id="4570813286784708942">Prohlížeč Uwu Browser toto stahování zablokoval, protože jste vypnuli Bezpečné prohlížení a soubor nelze ověřit</translation>
 <translation id="4583692638088316420">Vyzkoušejte Google Lens v Chromiu na telefonu</translation>
 <translation id="4594305310729380060">Do Správce hesel na tomto zařízení</translation>
-<translation id="459535195905078186">Aplikace uwu chromium</translation>
+<translation id="459535195905078186">Aplikace Uwu Browser</translation>
 <translation id="4598116752460667024">Vyhledejte libovolný proces ze seznamu.</translation>
 <translation id="4613863813562375431">Verze systému ChromiumOS</translation>
-<translation id="4621240073146040695">Aktualizace je téměř hotova. Dokončíte ji restartováním prohlížeče uwu chromium.</translation>
-<translation id="4625064703209785397">Zrychluje weby pomocí modulu V8 prohlížeče uwu chromium, ale trochu snižuje odolnost prohlížeče uwu chromium vůči útokům</translation>
+<translation id="4621240073146040695">Aktualizace je téměř hotova. Dokončíte ji restartováním prohlížeče Uwu Browser.</translation>
+<translation id="4625064703209785397">Zrychluje weby pomocí modulu V8 prohlížeče Uwu Browser, ale trochu snižuje odolnost prohlížeče Uwu Browser vůči útokům</translation>
 <translation id="4626321472657185181">Otevřít vyhledávání v Chromiu</translation>
-<translation id="4654639495249754755">Profil prohlížeče uwu chromium</translation>
-<translation id="4665829708273112819">Upozornění: uwu chromium nemůže rozšířením zabránit v zaznamenávání vaší historie prohlížení. Pokud toto rozšíření chcete v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
-<translation id="4673151026126227699">Pokud také sdílíte přehledy využití prohlížeče uwu chromium, budou zahrnovat navštívené adresy URL</translation>
+<translation id="4654639495249754755">Profil prohlížeče Uwu Browser</translation>
+<translation id="4665829708273112819">Upozornění: Uwu Browser nemůže rozšířením zabránit v zaznamenávání vaší historie prohlížení. Pokud toto rozšíření chcete v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
+<translation id="4673151026126227699">Pokud také sdílíte přehledy využití prohlížeče Uwu Browser, budou zahrnovat navštívené adresy URL</translation>
 <translation id="4673710618874938871">Jste přihlášeni jako <ph name="USER_NAME" />, máte členství. Otevřít nabídku účtu</translation>
-<translation id="4677944499843243528">Profil je zřejmě využíván jiným procesem aplikace uwu chromium (<ph name="PROCESS_ID" />) nebo v jiném počítači (<ph name="HOST_NAME" />). Aplikace uwu chromium profil uzamkla, aby nedošlo k jeho poškození. Pokud jste si jisti, že žádný jiný proces tento profil nevyužívá, můžete jej odemknout a aplikaci uwu chromium znovu spustit.</translation>
+<translation id="4677944499843243528">Profil je zřejmě využíván jiným procesem aplikace Uwu Browser (<ph name="PROCESS_ID" />) nebo v jiném počítači (<ph name="HOST_NAME" />). Aplikace Uwu Browser profil uzamkla, aby nedošlo k jeho poškození. Pokud jste si jisti, že žádný jiný proces tento profil nevyužívá, můžete jej odemknout a aplikaci Uwu Browser znovu spustit.</translation>
 <translation id="4680828127924988555">Zrušit instalaci</translation>
-<translation id="469259825538636168">Některá data prohlížeče uwu chromium ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data budou smazána.</translation>
-<translation id="4708193446201257833">Když jste přihlášeni, můžete v prohlížeči uwu chromium používat hesla a další položky ze svého účtu Google. Pomocí zkratky <ph name="SHORTCUT" /> můžete nastavení služeb Google změnit.</translation>
-<translation id="4708774505295300557">Prohlížeč uwu chromium v tomto počítači je již přihlášen k účtu <ph name="ACCOUNT_EMAIL_LAST" />. Chcete-li své informace uchovat odděleně, vytvořte nového uživatele prohlížeče uwu chromium.</translation>
+<translation id="469259825538636168">Některá data prohlížeče Uwu Browser ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data budou smazána.</translation>
+<translation id="4708193446201257833">Když jste přihlášeni, můžete v prohlížeči Uwu Browser používat hesla a další položky ze svého účtu Google. Pomocí zkratky <ph name="SHORTCUT" /> můžete nastavení služeb Google změnit.</translation>
+<translation id="4708774505295300557">Prohlížeč Uwu Browser v tomto počítači je již přihlášen k účtu <ph name="ACCOUNT_EMAIL_LAST" />. Chcete-li své informace uchovat odděleně, vytvořte nového uživatele prohlížeče Uwu Browser.</translation>
 <translation id="4724676981607797757">Instalace se nezdařila kvůli chybě nepodporovaného protokolu.</translation>
-<translation id="4746050847053251315">Přesto uwu chromium ukončit?</translation>
-<translation id="4748217263233248895">Právě byla nainstalována mimořádná bezpečnostní aktualizace prohlížeče uwu chromium. Restartujte jej, vaše karty budou obnoveny.</translation>
-<translation id="4771701986670315895">V poslední době jste nenavštívili. Prohlížeč uwu chromium odebral tato oprávnění: <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> a ještě <ph name="COUNT" />.</translation>
+<translation id="4746050847053251315">Přesto Uwu Browser ukončit?</translation>
+<translation id="4748217263233248895">Právě byla nainstalována mimořádná bezpečnostní aktualizace prohlížeče Uwu Browser. Restartujte jej, vaše karty budou obnoveny.</translation>
+<translation id="4771701986670315895">V poslední době jste nenavštívili. Prohlížeč Uwu Browser odebral tato oprávnění: <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> a ještě <ph name="COUNT" />.</translation>
 <translation id="4786083865378785874">Pokud je otevřený Gemini v Chromiu, zůstává při vytváření nových karet boční panel otevřený</translation>
 <translation id="479167709087336770">Tato funkce využívá stejnou službu kontroly pravopisu, jaká se používá ve vyhledávání Google. Text, který v prohlížeči zadáte, se odešle do Googlu. Toto chování můžete kdykoliv změnit v nastavení.</translation>
-<translation id="4814736265800133385">Použít uwu chromium bez účtu</translation>
-<translation id="4888717733111232871">Pravidlo příchozího provozu pro prohlížeč uwu chromium, které povolí provoz mDNS.</translation>
-<translation id="4893347770495441059">Znovu spustit a aktualizovat &amp;uwu chromium</translation>
+<translation id="4814736265800133385">Použít Uwu Browser bez účtu</translation>
+<translation id="4888717733111232871">Pravidlo příchozího provozu pro prohlížeč Uwu Browser, které povolí provoz mDNS.</translation>
+<translation id="4893347770495441059">Znovu spustit a aktualizovat &amp;Uwu Browser</translation>
 <translation id="4918086044614829423">Přijmout</translation>
 <translation id="4918844574251943176">Obrázek byl zkopírován</translation>
-<translation id="4943838377383847465">uwu chromium je v režimu na pozadí.</translation>
-<translation id="494490797786467921">Kliknutím zavřete přihlašovací dialogové okno prohlížeče uwu chromium</translation>
-<translation id="4950660488495335294">Pomocí profilů uwu chromium můžete všechny své údaje v prohlížeči uwu chromium uchovávat odděleně. Vytvořte profily pro přátele a rodinu nebo rozdělte činnosti mezi práci a zábavu.</translation>
-<translation id="4987820182225656817">Hosté mohou uwu chromium používat, aniž by po nich zůstaly jakékoliv stopy.</translation>
-<translation id="4992938037305302429">Váš účet v prohlížeči uwu chromium</translation>
-<translation id="4994636714258228724">Přidejte do prohlížeče uwu chromium svůj účet</translation>
+<translation id="4943838377383847465">Uwu Browser je v režimu na pozadí.</translation>
+<translation id="494490797786467921">Kliknutím zavřete přihlašovací dialogové okno prohlížeče Uwu Browser</translation>
+<translation id="4950660488495335294">Pomocí profilů Uwu Browser můžete všechny své údaje v prohlížeči Uwu Browser uchovávat odděleně. Vytvořte profily pro přátele a rodinu nebo rozdělte činnosti mezi práci a zábavu.</translation>
+<translation id="4987820182225656817">Hosté mohou Uwu Browser používat, aniž by po nich zůstaly jakékoliv stopy.</translation>
+<translation id="4992938037305302429">Váš účet v prohlížeči Uwu Browser</translation>
+<translation id="4994636714258228724">Přidejte do prohlížeče Uwu Browser svůj účet</translation>
 <translation id="504699503110800016">Otevřít rozbalovací nabídku</translation>
 <translation id="5074496654342756568">S Chromiem můžete mít na zařízení <ph name="DEVICE_TYPE" /> všechny vychytávky od Googlu</translation>
-<translation id="5123973130450702873">uwu chromium potřebuje oprávnění ke sledování vašich rukou</translation>
-<translation id="5141988424377517949">V poslední době jste nenavštívili. Prohlížeč uwu chromium odebral tato oprávnění: <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> a <ph name="PERMISSION_3" />.</translation>
+<translation id="5123973130450702873">Uwu Browser potřebuje oprávnění ke sledování vašich rukou</translation>
+<translation id="5141988424377517949">V poslední době jste nenavštívili. Prohlížeč Uwu Browser odebral tato oprávnění: <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> a <ph name="PERMISSION_3" />.</translation>
 <translation id="5174969993834422967">Obvykle oznámení blokujete. Pokud tomuto webu chcete zobrazování oznámení povolit, klikněte na ikonu oznámení v pravém rohu adresního řádku.</translation>
 <translation id="5174983315706567306">Na disku není dost místa.</translation>
-<translation id="5187123684706427865">Účet v prohlížeči uwu chromium vyžaduje opětovné ověření</translation>
+<translation id="5187123684706427865">Účet v prohlížeči Uwu Browser vyžaduje opětovné ověření</translation>
 <translation id="5223510345050543907">Pokračujte v Chromiu pro iOS přesně tam, kde jste skončili.</translation>
-<translation id="5231355151045086930">Odhlášení z prohlížeče uwu chromium</translation>
+<translation id="5231355151045086930">Odhlášení z prohlížeče Uwu Browser</translation>
 <translation id="5234764350956374838">Zavřít</translation>
-<translation id="5249261924633168472">Otevřít odkaz v &amp;anonymním okně prohlížeče uwu chromium</translation>
-<translation id="5276305953263010518">Stáhněte si aplikaci uwu chromium a ukládejte si hesla i na cestách</translation>
-<translation id="5277894862589591112">Chcete-li změny použít, restartujte uwu chromium</translation>
+<translation id="5249261924633168472">Otevřít odkaz v &amp;anonymním okně prohlížeče Uwu Browser</translation>
+<translation id="5276305953263010518">Stáhněte si aplikaci Uwu Browser a ukládejte si hesla i na cestách</translation>
+<translation id="5277894862589591112">Chcete-li změny použít, restartujte Uwu Browser</translation>
 <translation id="5286907366254680517">Rozpoznáno</translation>
-<translation id="5289287148052354622">Stáhnout aplikaci uwu chromium</translation>
-<translation id="5294316920224716406">Při procházení v anonymním režimu vás uwu chromium před načtením webu pomocí nezabezpečeného připojení upozorní</translation>
+<translation id="5289287148052354622">Stáhnout aplikaci Uwu Browser</translation>
+<translation id="5294316920224716406">Při procházení v anonymním režimu vás Uwu Browser před načtením webu pomocí nezabezpečeného připojení upozorní</translation>
 <translation id="5296581118566748922">Vyhledávání v Chromiu</translation>
-<translation id="5313228254328109263">Interní aktualizační služba prohlížeče uwu chromium</translation>
+<translation id="5313228254328109263">Interní aktualizační služba prohlížeče Uwu Browser</translation>
 <translation id="5324450571874973775">Dovednosti můžete používat společně s dalšími funkcemi Gemini v Chromiu</translation>
 <translation id="5346389065299425353">Prohlubte své vyhledávání přidáním karet, souborů a nástrojů</translation>
 <translation id="5348677704241861105">Získejte rychlý přehled o tomto dokumentu a pokládejte otázky pomocí Gemini v Chromiu</translation>
-<translation id="5352264705793813212">Prohlížeč uwu chromium našel několik bezpečnostních doporučení, která byste si měli projít</translation>
-<translation id="5352361688875342522">Ostatní profily uwu chromium</translation>
-<translation id="535243042947607642">ChromiumOS nemohl uložit data prohlížeče uwu chromium do vašeho účtu Google, protože vaše přihlašovací údaje k účtu jsou zastaralé</translation>
-<translation id="5358375970380395591">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče uwu chromium. Vaše údaje prohlížeče uwu chromium, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Google, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE" /></translation>
+<translation id="5352264705793813212">Prohlížeč Uwu Browser našel několik bezpečnostních doporučení, která byste si měli projít</translation>
+<translation id="5352361688875342522">Ostatní profily Uwu Browser</translation>
+<translation id="535243042947607642">ChromiumOS nemohl uložit data prohlížeče Uwu Browser do vašeho účtu Google, protože vaše přihlašovací údaje k účtu jsou zastaralé</translation>
+<translation id="5358375970380395591">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem prohlížeče Uwu Browser. Vaše údaje prohlížeče Uwu Browser, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Google, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE" /></translation>
 <translation id="5368118228313795342">Extra kód: <ph name="EXTRA_CODE" />.</translation>
-<translation id="5377622451696208284">Pokud chcete získat personalizaci, zahrňte uwu chromium do Aktivity na webu a v aplikacích</translation>
+<translation id="5377622451696208284">Pokud chcete získat personalizaci, zahrňte Uwu Browser do Aktivity na webu a v aplikacích</translation>
 <translation id="5382964351116519680">Otevřít vyhledávání v Chromiu</translation>
-<translation id="5383439451358640070">Přečtěte si, proč uwu chromium některé soubory blokuje</translation>
-<translation id="5386450000063123300">Aktualizace prohlížeče uwu chromium (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="5387586787134731891">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče uwu chromium ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít svá rozšíření a další položky k dispozici na všech svých zařízeních.</translation>
-<translation id="538767207339317086">Povolit přihlášení do prohlížeče uwu chromium</translation>
-<translation id="5405650547142096840">Odstranit z prohlížeče uwu chromium</translation>
-<translation id="5424544524441439284">Snižuje výkon, ale zvyšuje odolnost prohlížeče uwu chromium proti útokům</translation>
-<translation id="5427571867875391349">Nastavit uwu chromium jako výchozí prohlížeč</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – uwu chromium Beta</translation>
-<translation id="5460618461609401056">{NUM_TABS,plural, =1{uwu chromium doporučuje pozastavit kartu, která ho zpomaluje}few{uwu chromium doporučuje pozastavit karty, které ho zpomalují}many{uwu chromium doporučuje pozastavit karty, které ho zpomalují}other{uwu chromium doporučuje pozastavit karty, které ho zpomalují}}</translation>
-<translation id="5473971139929175403">Prohlížeč uwu chromium nemusí fungovat správně, protože v této distribuci Linuxu už není podporován</translation>
-<translation id="5475924890392386523">Prohlížeč uwu chromium toto stahování zablokoval, protože tento soubor může poškodit vaše osobní účty a účty na sociálních sítích</translation>
-<translation id="549669000822060376">Počkejte prosím, než uwu chromium nainstaluje nejnovější aktualizace systému.</translation>
-<translation id="5496810170689441661">uwu chromium se pokouší upravit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="5383439451358640070">Přečtěte si, proč Uwu Browser některé soubory blokuje</translation>
+<translation id="5386450000063123300">Aktualizace prohlížeče Uwu Browser (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="5387586787134731891">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do prohlížeče Uwu Browser ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít svá rozšíření a další položky k dispozici na všech svých zařízeních.</translation>
+<translation id="538767207339317086">Povolit přihlášení do prohlížeče Uwu Browser</translation>
+<translation id="5405650547142096840">Odstranit z prohlížeče Uwu Browser</translation>
+<translation id="5424544524441439284">Snižuje výkon, ale zvyšuje odolnost prohlížeče Uwu Browser proti útokům</translation>
+<translation id="5427571867875391349">Nastavit Uwu Browser jako výchozí prohlížeč</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Uwu Browser Beta</translation>
+<translation id="5460618461609401056">{NUM_TABS,plural, =1{Uwu Browser doporučuje pozastavit kartu, která ho zpomaluje}few{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}many{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}other{Uwu Browser doporučuje pozastavit karty, které ho zpomalují}}</translation>
+<translation id="5473971139929175403">Prohlížeč Uwu Browser nemusí fungovat správně, protože v této distribuci Linuxu už není podporován</translation>
+<translation id="5475924890392386523">Prohlížeč Uwu Browser toto stahování zablokoval, protože tento soubor může poškodit vaše osobní účty a účty na sociálních sítích</translation>
+<translation id="549669000822060376">Počkejte prosím, než Uwu Browser nainstaluje nejnovější aktualizace systému.</translation>
+<translation id="5496810170689441661">Uwu Browser se pokouší upravit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="549975168243349205">S Chromiem můžete své oblíbené aplikace, třeba Disk Google a YouTube, používat i na cestách.</translation>
 <translation id="5524890928877629608">levý horní roh oblasti hledání: vlevo <ph name="LEFT" /> %, nahoře <ph name="TOP" /> %</translation>
 <translation id="5527463683072221100">Otevírat soubory PDF v Chromiu</translation>
 <translation id="5536164441519929134">Zeptejte se<ph name="LINE_BREAK" />na tuhle kartu</translation>
-<translation id="555970465369471303">Z bezpečnostních důvodů uwu chromium při první návštěvě webu vypíná optimalizaci JavaScriptu.
+<translation id="555970465369471303">Z bezpečnostních důvodů Uwu Browser při první návštěvě webu vypíná optimalizaci JavaScriptu.
 
 Pokud tato stránka nefunguje správně, zkuste optimalizaci povolit.</translation>
 <translation id="5575874067957905201">Zobrazovat Gemini v Chromiu na liště s nabídkou na Macu a zapnout klávesovou zkratku</translation>
 <translation id="5576587363991567745">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svoje uložené informace a další obsah z tohoto zařízení: <ph name="DEVICE" />.</translation>
 <translation id="5579324208890605088">Chyba při spuštění: Spusťte instalační program jako běžný uživatel, nikoli jako administrátor.</translation>
-<translation id="5580770360767802657">Používejte prohlížeč uwu chromium jako výchozí a připněte si ho</translation>
+<translation id="5580770360767802657">Používejte prohlížeč Uwu Browser jako výchozí a připněte si ho</translation>
 <translation id="5596627076506792578">Další možnosti</translation>
 <translation id="5605834417512968703">Vyberte cokoli, co chcete vyhledat pomocí Vyhledávání obrázků, nebo stisknutím klávesy Escape vyhledávání obrázků ukončete</translation>
 <translation id="5618818588972826921">Vyberte libovolný text nebo obrázek, který chcete vyhledat pomocí Vyhledávání obrázků, nebo stisknutím klávesy Escape vyhledávání obrázků ukončete</translation>
-<translation id="5623402015214259806">{0,plural, =0{Je k dispozici aktualizace prohlížeče uwu chromium}=1{Je k dispozici aktualizace prohlížeče uwu chromium}few{Již # dny je k dispozici aktualizace prohlížeče uwu chromium}many{Již # dne je k dispozici aktualizace prohlížeče uwu chromium}other{Již # dní je k dispozici aktualizace prohlížeče uwu chromium}}</translation>
-<translation id="5643865575100044307">Při zavření prohlížeče uwu chromium ze zařízení vždy vymazat data webů</translation>
-<translation id="5653831366781983928">Restartujte uwu chromium</translation>
+<translation id="5623402015214259806">{0,plural, =0{Je k dispozici aktualizace prohlížeče Uwu Browser}=1{Je k dispozici aktualizace prohlížeče Uwu Browser}few{Již # dny je k dispozici aktualizace prohlížeče Uwu Browser}many{Již # dne je k dispozici aktualizace prohlížeče Uwu Browser}other{Již # dní je k dispozici aktualizace prohlížeče Uwu Browser}}</translation>
+<translation id="5643865575100044307">Při zavření prohlížeče Uwu Browser ze zařízení vždy vymazat data webů</translation>
+<translation id="5653831366781983928">Restartujte Uwu Browser</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5698481217667032250">Zobrazit uwu chromium v tomto jazyce</translation>
+<translation id="5698481217667032250">Zobrazit Uwu Browser v tomto jazyce</translation>
 <translation id="569897634095159764">Nelze se připojit k internetu. Proxy server vyžaduje ověření.</translation>
-<translation id="5768371961535086509">uwu chromium uvolňuje paměť obsazenou neaktivními kartami. Aktivní karty a jiné aplikace tak mají k dispozici více výpočetních zdrojů a prohlížeč uwu chromium zůstává rychlý. Když se k neaktivním kartám vrátíte, automaticky se aktivují. <ph name="BEGIN_LINK" />Další informace o Spořiči paměti<ph name="END_LINK" /></translation>
-<translation id="5775198138441669627">Pokud heslovou frázi zapomenete nebo toto nastavení budete chtít změnit, <ph name="SETTINGS_LINK" /> data prohlížeče uwu chromium ve svém účtu.</translation>
-<translation id="5800158606660203929">Přizpůsobte si prohlížeč uwu chromium a ovládejte ho. Nastavte si uwu chromium jako výchozí prohlížeč.</translation>
-<translation id="5802618941556161431">Nastavte si uwu chromium jako výchozí prohlížeč, ať máte hesla, záložky a historii dokonale synchronizované mezi zařízeními.</translation>
+<translation id="5768371961535086509">Uwu Browser uvolňuje paměť obsazenou neaktivními kartami. Aktivní karty a jiné aplikace tak mají k dispozici více výpočetních zdrojů a prohlížeč Uwu Browser zůstává rychlý. Když se k neaktivním kartám vrátíte, automaticky se aktivují. <ph name="BEGIN_LINK" />Další informace o Spořiči paměti<ph name="END_LINK" /></translation>
+<translation id="5775198138441669627">Pokud heslovou frázi zapomenete nebo toto nastavení budete chtít změnit, <ph name="SETTINGS_LINK" /> data prohlížeče Uwu Browser ve svém účtu.</translation>
+<translation id="5800158606660203929">Přizpůsobte si prohlížeč Uwu Browser a ovládejte ho. Nastavte si Uwu Browser jako výchozí prohlížeč.</translation>
+<translation id="5802618941556161431">Nastavte si Uwu Browser jako výchozí prohlížeč, ať máte hesla, záložky a historii dokonale synchronizované mezi zařízeními.</translation>
 <translation id="5809516625706423866">Nelze se připojit k internetu. HTTP 401 (Neautorizováno). Zkontrolujte konfiguraci proxy.</translation>
-<translation id="5817952762723416573">Zrychluje weby pomocí modulu V8 prohlížeče uwu chromium, ale trochu snižuje odolnost prohlížeče uwu chromium vůči útokům. Toto nastavení je vypnuté.</translation>
-<translation id="5821520528363214608">Pokud chcete používat data prohlížeče uwu chromium ve svém účtu Google a ukládat je do něj, aktualizujte prohlížeč uwu chromium</translation>
+<translation id="5817952762723416573">Zrychluje weby pomocí modulu V8 prohlížeče Uwu Browser, ale trochu snižuje odolnost prohlížeče Uwu Browser vůči útokům. Toto nastavení je vypnuté.</translation>
+<translation id="5821520528363214608">Pokud chcete používat data prohlížeče Uwu Browser ve svém účtu Google a ukládat je do něj, aktualizujte prohlížeč Uwu Browser</translation>
 <translation id="5824893331272123205">Tenhle panel se nepodařilo načíst, zkuste to znovu</translation>
-<translation id="5862307444128926510">Vítejte v prohlížeči uwu chromium</translation>
-<translation id="5867606647614813312">Zapne další funkce, které poskytují nejsilnější ochranu prohlížeče uwu chromium</translation>
+<translation id="5862307444128926510">Vítejte v prohlížeči Uwu Browser</translation>
+<translation id="5867606647614813312">Zapne další funkce, které poskytují nejsilnější ochranu prohlížeče Uwu Browser</translation>
 <translation id="5871205389137001634">Kliknutím ukončíte vyhledávání obrázků</translation>
-<translation id="5883558403894052917">Prohlížeč uwu chromium zjistil, že tyto položky obsahují malware:</translation>
-<translation id="5889361821821684993">uwu chromium pravidelně kontroluje, zda je v prohlížeči vybráno nejbezpečnější nastavení. Pokud bude něco vyžadovat vaši kontrolu, dáme vám vědět.</translation>
+<translation id="5883558403894052917">Prohlížeč Uwu Browser zjistil, že tyto položky obsahují malware:</translation>
+<translation id="5889361821821684993">Uwu Browser pravidelně kontroluje, zda je v prohlížeči vybráno nejbezpečnější nastavení. Pokud bude něco vyžadovat vaši kontrolu, dáme vám vědět.</translation>
 <translation id="5895138241574237353">Restartovat</translation>
 <translation id="5896077214220653386">Gemini Enterprise v Chromiu</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – přihlášení k síti</translation>
 <translation id="5924017743176219022">Připojování k internetu…</translation>
 <translation id="5941711191222866238">Minimalizovat</translation>
-<translation id="5949225980829865667">Pokud tuhle záložku a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium</translation>
-<translation id="5953657885167112863">Přizpůsobte si uwu chromium</translation>
+<translation id="5949225980829865667">Pokud tuhle záložku a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser</translation>
+<translation id="5953657885167112863">Přizpůsobte si Uwu Browser</translation>
 <translation id="5960071705175224773">Neznámá aplikace vám změnila nastavení</translation>
 <translation id="5977420883993828287">Připnuto! Příště použijte kontextové úkoly z lišty</translation>
-<translation id="5986585015444752010">{COUNT,plural, =1{Vaše organizace prohlížeč uwu chromium po 1 minutě nečinnosti automaticky zavře.}few{Vaše organizace prohlížeč uwu chromium po # minutách nečinnosti automaticky zavře.}many{Vaše organizace prohlížeč uwu chromium po # minuty nečinnosti automaticky zavře.}other{Vaše organizace prohlížeč uwu chromium po # minutách nečinnosti automaticky zavře.}}</translation>
-<translation id="5987687638152509985">Chcete-li zahájit synchronizaci, aktualizujte uwu chromium</translation>
+<translation id="5986585015444752010">{COUNT,plural, =1{Vaše organizace prohlížeč Uwu Browser po 1 minutě nečinnosti automaticky zavře.}few{Vaše organizace prohlížeč Uwu Browser po # minutách nečinnosti automaticky zavře.}many{Vaše organizace prohlížeč Uwu Browser po # minuty nečinnosti automaticky zavře.}other{Vaše organizace prohlížeč Uwu Browser po # minutách nečinnosti automaticky zavře.}}</translation>
+<translation id="5987687638152509985">Chcete-li zahájit synchronizaci, aktualizujte Uwu Browser</translation>
 <translation id="5990360079535151574">Tlačítkem Kontextové úkoly na liště můžete tuto funkci znovu otevřít a pokládat otázky při prohlížení</translation>
 <translation id="6003112304606738118">Stahování… Zbývající čas: <ph name="HOURS" /> h.</translation>
 <translation id="6009821354356307391">Položit doplňující otázku</translation>
 <translation id="6040143037577758943">Zavřít</translation>
-<translation id="6044357424127037044">S aplikací uwu chromium na zařízení <ph name="DEVICE_TYPE" /> můžete nakupovat efektivněji</translation>
-<translation id="6058380562449900225">Chraňte svá data tím, že prohlížeči uwu chromium povolíte odebírat oprávnění webům, které jste v poslední době nenavštívili. Nevypne oznámení.</translation>
-<translation id="6063093106622310249">&amp;Otevřít v prohlížeči uwu chromium</translation>
+<translation id="6044357424127037044">S aplikací Uwu Browser na zařízení <ph name="DEVICE_TYPE" /> můžete nakupovat efektivněji</translation>
+<translation id="6058380562449900225">Chraňte svá data tím, že prohlížeči Uwu Browser povolíte odebírat oprávnění webům, které jste v poslední době nenavštívili. Nevypne oznámení.</translation>
+<translation id="6063093106622310249">&amp;Otevřít v prohlížeči Uwu Browser</translation>
 <translation id="6069027071882229820">Kopírovat jako obrázek</translation>
-<translation id="6072279588547424923">Do prohlížeče uwu chromium bylo přidáno rozšíření <ph name="EXTENSION_NAME" /></translation>
-<translation id="6096348254544841612">Přizpůsobte si prohlížeč uwu chromium a ovládejte jej. Je k dispozici aktualizace.</translation>
-<translation id="6107893135096467929">Zapnuto • uwu chromium nedokáže ověřit, odkud toto rozšíření pochází</translation>
-<translation id="611228897408671387">Váš účet v prohlížeči uwu chromium</translation>
-<translation id="6119438414301547735">Povolit rozšíření zobrazovat na liště prohlížeče uwu chromium žádosti o přístup</translation>
-<translation id="6129621093834146363">Soubor <ph name="FILE_NAME" /> je nebezpečný, proto jej prohlížeč uwu chromium zablokoval.</translation>
-<translation id="6132897690380286411">uwu chromium se brzy zavře a smaže data</translation>
-<translation id="6145820983052037069">Zde můžete přepínat mezi profily uwu chromium</translation>
-<translation id="615103374448673771">Pokud máte povolené soubory cookie, může je uwu chromium při předběžném načítání použít</translation>
+<translation id="6072279588547424923">Do prohlížeče Uwu Browser bylo přidáno rozšíření <ph name="EXTENSION_NAME" /></translation>
+<translation id="6096348254544841612">Přizpůsobte si prohlížeč Uwu Browser a ovládejte jej. Je k dispozici aktualizace.</translation>
+<translation id="6107893135096467929">Zapnuto • Uwu Browser nedokáže ověřit, odkud toto rozšíření pochází</translation>
+<translation id="611228897408671387">Váš účet v prohlížeči Uwu Browser</translation>
+<translation id="6119438414301547735">Povolit rozšíření zobrazovat na liště prohlížeče Uwu Browser žádosti o přístup</translation>
+<translation id="6129621093834146363">Soubor <ph name="FILE_NAME" /> je nebezpečný, proto jej prohlížeč Uwu Browser zablokoval.</translation>
+<translation id="6132897690380286411">Uwu Browser se brzy zavře a smaže data</translation>
+<translation id="6145820983052037069">Zde můžete přepínat mezi profily Uwu Browser</translation>
+<translation id="615103374448673771">Pokud máte povolené soubory cookie, může je Uwu Browser při předběžném načítání použít</translation>
 <translation id="6165508094623778733">Další informace</translation>
-<translation id="6173308241973263798">Vymazat data prohlížeče uwu chromium v účtu</translation>
-<translation id="6174920971222007286">Tento soubor může být nebezpečný.<ph name="LINE_BREAK" />Pokud zadáte heslo, může vám uwu chromium tento stažený soubor zkontrolovat. Informace o souboru budou odeslány do Bezpečného prohlížení Google, ale obsah souboru a heslo zůstanou ve vašem zařízení.</translation>
+<translation id="6173308241973263798">Vymazat data prohlížeče Uwu Browser v účtu</translation>
+<translation id="6174920971222007286">Tento soubor může být nebezpečný.<ph name="LINE_BREAK" />Pokud zadáte heslo, může vám Uwu Browser tento stažený soubor zkontrolovat. Informace o souboru budou odeslány do Bezpečného prohlížení Google, ale obsah souboru a heslo zůstanou ve vašem zařízení.</translation>
 <translation id="6182736845697986886">Instalace se nezdařila kvůli interní chybě serveru s aktualizací.</translation>
-<translation id="6183079672144801177">Zkontrolujte, zda jste v zařízení <ph name="TARGET_DEVICE_NAME" /> přihlášeni do prohlížeče uwu chromium, a potom zkuste číslo odeslat znovu.</translation>
-<translation id="6192070012454216182">Vyhledávat a ptát se odkudkoli i v případě, že je prohlížeč uwu chromium minimalizovaný. Umožňuje Chromiu běžet na pozadí.</translation>
-<translation id="6212496753309875659">V tomto počítači je již nainstalována novější verze prohlížeče uwu chromium. Jestliže tento software nefunguje, odinstalujte uwu chromium a zkuste to znovu.</translation>
-<translation id="6219195342503754812">{0,plural, =0{uwu chromium se nyní restartuje}=1{uwu chromium se za 1 sekundu restartuje}few{uwu chromium se za # sekundy restartuje}many{uwu chromium se za # sekundy restartuje}other{uwu chromium se za # sekund restartuje}}</translation>
-<translation id="6241367896540709610">Ke stahování souborů potřebuje uwu chromium přístup k úložišti</translation>
-<translation id="6245734527075554892">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v prohlížeči uwu chromium</translation>
-<translation id="6248213926982192922">Nastavit uwu chromium jako výchozí prohlížeč</translation>
+<translation id="6183079672144801177">Zkontrolujte, zda jste v zařízení <ph name="TARGET_DEVICE_NAME" /> přihlášeni do prohlížeče Uwu Browser, a potom zkuste číslo odeslat znovu.</translation>
+<translation id="6192070012454216182">Vyhledávat a ptát se odkudkoli i v případě, že je prohlížeč Uwu Browser minimalizovaný. Umožňuje Chromiu běžet na pozadí.</translation>
+<translation id="6212496753309875659">V tomto počítači je již nainstalována novější verze prohlížeče Uwu Browser. Jestliže tento software nefunguje, odinstalujte Uwu Browser a zkuste to znovu.</translation>
+<translation id="6219195342503754812">{0,plural, =0{Uwu Browser se nyní restartuje}=1{Uwu Browser se za 1 sekundu restartuje}few{Uwu Browser se za # sekundy restartuje}many{Uwu Browser se za # sekundy restartuje}other{Uwu Browser se za # sekund restartuje}}</translation>
+<translation id="6241367896540709610">Ke stahování souborů potřebuje Uwu Browser přístup k úložišti</translation>
+<translation id="6245734527075554892">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v prohlížeči Uwu Browser</translation>
+<translation id="6248213926982192922">Nastavit Uwu Browser jako výchozí prohlížeč</translation>
 <translation id="6248988683584659830">Nastavení vyhledávání</translation>
-<translation id="6261803579884938625">Mějte ty nejlepší bezpečnostní funkce od Googlu k dispozici na cestách s aplikací uwu chromium na telefonu</translation>
-<translation id="6268381023930128611">Odhlásit se z prohlížeče uwu chromium?</translation>
-<translation id="6270547683008298381">Tyto karty využívají další zdroje. Ke zlepšení výkonu je uwu chromium nechte deaktivovat.</translation>
-<translation id="6281746429495226318">Upravit profil uwu chromium</translation>
-<translation id="6290827346642914212">Zadejte název profilu uwu chromium</translation>
-<translation id="6294831894865512704">Rozšíření vyžaduje, abyste se do prohlížeče uwu chromium přihlásili</translation>
-<translation id="6295779123002464101">Soubor <ph name="FILE_NAME" /> může být nebezpečný, proto jej prohlížeč uwu chromium zablokoval.</translation>
-<translation id="6309712487085796862">uwu chromium používá vaši kameru.</translation>
-<translation id="6333502561965082103">V prohlížeči uwu chromium právě probíhá jiná operace. Zkuste to znovu později.</translation>
-<translation id="6334986366598267305">Používání prohlížeče uwu chromium se spravovaným účtem Google a sdílenými počítači je teď snazší.</translation>
-<translation id="6347002662287820329">Nastavte si uwu chromium jako výchozí prohlížeč. Budete tak mít snadno přístup k funkcím, které znáte, máte rádi a kterým důvěřujete.</translation>
-<translation id="6347933965114150440">Zkratka prohlížeče uwu chromium</translation>
-<translation id="6366160072964553914">Prohlížeč uwu chromium toto stahování zablokoval, protože tento soubor se běžně nestahuje a může být nebezpečný</translation>
-<translation id="6373523479360886564">Jste si jisti, že chcete uwu chromium odinstalovat?</translation>
+<translation id="6261803579884938625">Mějte ty nejlepší bezpečnostní funkce od Googlu k dispozici na cestách s aplikací Uwu Browser na telefonu</translation>
+<translation id="6268381023930128611">Odhlásit se z prohlížeče Uwu Browser?</translation>
+<translation id="6270547683008298381">Tyto karty využívají další zdroje. Ke zlepšení výkonu je Uwu Browser nechte deaktivovat.</translation>
+<translation id="6281746429495226318">Upravit profil Uwu Browser</translation>
+<translation id="6290827346642914212">Zadejte název profilu Uwu Browser</translation>
+<translation id="6294831894865512704">Rozšíření vyžaduje, abyste se do prohlížeče Uwu Browser přihlásili</translation>
+<translation id="6295779123002464101">Soubor <ph name="FILE_NAME" /> může být nebezpečný, proto jej prohlížeč Uwu Browser zablokoval.</translation>
+<translation id="6309712487085796862">Uwu Browser používá vaši kameru.</translation>
+<translation id="6333502561965082103">V prohlížeči Uwu Browser právě probíhá jiná operace. Zkuste to znovu později.</translation>
+<translation id="6334986366598267305">Používání prohlížeče Uwu Browser se spravovaným účtem Google a sdílenými počítači je teď snazší.</translation>
+<translation id="6347002662287820329">Nastavte si Uwu Browser jako výchozí prohlížeč. Budete tak mít snadno přístup k funkcím, které znáte, máte rádi a kterým důvěřujete.</translation>
+<translation id="6347933965114150440">Zkratka prohlížeče Uwu Browser</translation>
+<translation id="6366160072964553914">Prohlížeč Uwu Browser toto stahování zablokoval, protože tento soubor se běžně nestahuje a může být nebezpečný</translation>
+<translation id="6373523479360886564">Jste si jisti, že chcete Uwu Browser odinstalovat?</translation>
 <translation id="6375219077595103062">Přidejte si někam zástupce Správce hesel</translation>
 <translation id="6388799252195623474">pomoz mi s tímhle</translation>
-<translation id="6390800440335263989">Pokud chcete pokračovat, přihlaste se do prohlížeče uwu chromium jako <ph name="EMAIL" />. Použijí se tak zásady vaší organizace.</translation>
-<translation id="6400112897226594999">Logo uwu chromium na obrazovce počítače.</translation>
-<translation id="6403826409255603130">uwu chromium je webový prohlížeč, který spouští webové stránky a aplikace rychlostí blesku. Je rychlý a snadno se používá. Prohlížejte web bezpečněji díky ochraně proti malwaru a phishingu integrované v prohlížeči uwu chromium.</translation>
-<translation id="6414624068245092115">Pokud chcete mít vždy možnost používat a ukládat data prohlížeče uwu chromium ve svém účtu Google, ověřte svou totožnost</translation>
-<translation id="642132557830635295">uwu chromium běží rychleji a funkce využívající JavaScript by měly fungovat tak, jak byly navrženy</translation>
+<translation id="6390800440335263989">Pokud chcete pokračovat, přihlaste se do prohlížeče Uwu Browser jako <ph name="EMAIL" />. Použijí se tak zásady vaší organizace.</translation>
+<translation id="6400112897226594999">Logo Uwu Browser na obrazovce počítače.</translation>
+<translation id="6403826409255603130">Uwu Browser je webový prohlížeč, který spouští webové stránky a aplikace rychlostí blesku. Je rychlý a snadno se používá. Prohlížejte web bezpečněji díky ochraně proti malwaru a phishingu integrované v prohlížeči Uwu Browser.</translation>
+<translation id="6414624068245092115">Pokud chcete mít vždy možnost používat a ukládat data prohlížeče Uwu Browser ve svém účtu Google, ověřte svou totožnost</translation>
+<translation id="642132557830635295">Uwu Browser běží rychleji a funkce využívající JavaScript by měly fungovat tak, jak byly navrženy</translation>
 <translation id="6436260184216827876">Vyhledávání obrázků není k dispozici. Zkuste to později.</translation>
 <translation id="6442900851116057561">Restartujte ChromiumOS</translation>
-<translation id="6443470774889161065">uwu chromium předběžně načítá ještě více stránek, které byste pravděpodobně mohli navštívit. Když je navštívíte, načtou se tak rychleji</translation>
-<translation id="6450948450282634257">Stáhněte si uwu chromium do telefonu, ať můžete sledovat ceny a dostávat upozornění, když na kterémkoli webu klesne cena</translation>
-<translation id="645458117210240797">Vypnuto • uwu chromium nedokáže ověřit, odkud toto rozšíření pochází</translation>
-<translation id="6455857529632101747">Vítejte v profilech uwu chromium</translation>
-<translation id="6460614424172581323">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete uwu chromium, zobrazí se výzva k používání skupin karet.</translation>
-<translation id="6466344609055215035">Odstranit účet z prohlížeče uwu chromium</translation>
-<translation id="6475912303565314141">Také řídí, která stránka se zobrazí při spuštění prohlížeče uwu chromium.</translation>
+<translation id="6443470774889161065">Uwu Browser předběžně načítá ještě více stránek, které byste pravděpodobně mohli navštívit. Když je navštívíte, načtou se tak rychleji</translation>
+<translation id="6450948450282634257">Stáhněte si Uwu Browser do telefonu, ať můžete sledovat ceny a dostávat upozornění, když na kterémkoli webu klesne cena</translation>
+<translation id="645458117210240797">Vypnuto • Uwu Browser nedokáže ověřit, odkud toto rozšíření pochází</translation>
+<translation id="6455857529632101747">Vítejte v profilech Uwu Browser</translation>
+<translation id="6460614424172581323">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete Uwu Browser, zobrazí se výzva k používání skupin karet.</translation>
+<translation id="6466344609055215035">Odstranit účet z prohlížeče Uwu Browser</translation>
+<translation id="6475912303565314141">Také řídí, která stránka se zobrazí při spuštění prohlížeče Uwu Browser.</translation>
 <translation id="648319183876919572">Vylepšené Bezpečné prohlížení vás chrání před nebezpečnými weby a soubory ke stažení</translation>
-<translation id="6510925080656968729">Odinstalovat uwu chromium</translation>
-<translation id="651535675648445253">Zástupci se otevírají v prohlížeči uwu chromium</translation>
-<translation id="6539122709674868420">Když prohlížeč uwu chromium <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace ho zavře. Údaje o prohlížení byly smazány. To může zahrnovat historii, automatické vyplňování a stažené soubory.</translation>
+<translation id="6510925080656968729">Odinstalovat Uwu Browser</translation>
+<translation id="651535675648445253">Zástupci se otevírají v prohlížeči Uwu Browser</translation>
+<translation id="6539122709674868420">Když prohlížeč Uwu Browser <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace ho zavře. Údaje o prohlížení byly smazány. To může zahrnovat historii, automatické vyplňování a stažené soubory.</translation>
 <translation id="6542839706527980775">V každém profilu jsou uloženy soukromé údaje z Chromia, například záložky, historie, hesla a další</translation>
 <translation id="6556755379298048869">Vyhledávat klávesovou zkratkou.</translation>
-<translation id="6563921047760808519"><ph name="BEGIN_LINK" />Další informace o tom, jak prohlížeč uwu chromium uchovává vaše data v soukromí<ph name="END_LINK" /></translation>
-<translation id="6564039629497156115">Změny tohohle nastavení se projeví po restartování prohlížeče uwu chromium.</translation>
-<translation id="6567032987737689854">Rozšíření můžete spravovat kliknutím na Rozšíření v hlavní nabídce prohlížeče uwu chromium.</translation>
-<translation id="656935081669708576">Přepnutím můžete zobrazit hesla z jiného profilu uwu chromium</translation>
-<translation id="6569556444379005948">S aplikací uwu chromium můžete mít na cestách ty nejlepší AI nástroje</translation>
-<translation id="6570579332384693436">Text zadaný do textových polí odesílá uwu chromium kvůli opravě pravopisných chyb do Googlu</translation>
-<translation id="6598877126913850652">Přejít na nastavení oznámení prohlížeče uwu chromium</translation>
+<translation id="6563921047760808519"><ph name="BEGIN_LINK" />Další informace o tom, jak prohlížeč Uwu Browser uchovává vaše data v soukromí<ph name="END_LINK" /></translation>
+<translation id="6564039629497156115">Změny tohohle nastavení se projeví po restartování prohlížeče Uwu Browser.</translation>
+<translation id="6567032987737689854">Rozšíření můžete spravovat kliknutím na Rozšíření v hlavní nabídce prohlížeče Uwu Browser.</translation>
+<translation id="656935081669708576">Přepnutím můžete zobrazit hesla z jiného profilu Uwu Browser</translation>
+<translation id="6569556444379005948">S aplikací Uwu Browser můžete mít na cestách ty nejlepší AI nástroje</translation>
+<translation id="6570579332384693436">Text zadaný do textových polí odesílá Uwu Browser kvůli opravě pravopisných chyb do Googlu</translation>
+<translation id="6598877126913850652">Přejít na nastavení oznámení prohlížeče Uwu Browser</translation>
 <translation id="6600016381025017075">Vyhledat cokoliv na této stránce</translation>
-<translation id="6613594504749178791">Změny se projeví po příštím restartu prohlížeče uwu chromium.</translation>
-<translation id="6637908313088374648">uwu chromium se teď spouští zároveň s Windows a umožňuje tak začít hned procházet internet. Tuto možnost můžete vypnout v nastavení.</translation>
-<translation id="6648212540664651655">Pokračujte od stavu, ve kterém jste skončili: Prohlížeč uwu chromium obnovil karty z poslední relace. Tuto funkci můžete vypnout v</translation>
-<translation id="665732753414869868">K vytvoření 3D mapy vašeho okolí potřebuje uwu chromium přístup k fotoaparátu</translation>
-<translation id="6669284030132180248">Pokud si záložky uložíte také do účtu Google, můžete v prohlížeči uwu chromium sledovat ceny produktů a dostávat upozornění, když cena klesne</translation>
+<translation id="6613594504749178791">Změny se projeví po příštím restartu prohlížeče Uwu Browser.</translation>
+<translation id="6637908313088374648">Uwu Browser se teď spouští zároveň s Windows a umožňuje tak začít hned procházet internet. Tuto možnost můžete vypnout v nastavení.</translation>
+<translation id="6648212540664651655">Pokračujte od stavu, ve kterém jste skončili: Prohlížeč Uwu Browser obnovil karty z poslední relace. Tuto funkci můžete vypnout v</translation>
+<translation id="665732753414869868">K vytvoření 3D mapy vašeho okolí potřebuje Uwu Browser přístup k fotoaparátu</translation>
+<translation id="6669284030132180248">Pokud si záložky uložíte také do účtu Google, můžete v prohlížeči Uwu Browser sledovat ceny produktů a dostávat upozornění, když cena klesne</translation>
 <translation id="6676384891291319759">Přístup k internetu</translation>
 <translation id="668175097507315160">ChromiumOS vaše data nemohl synchronizovat, protože při přihlašování došlo k chybě.</translation>
-<translation id="6691132793308828750">Odstranit z prohlížeče uwu chromium data této aplikace</translation>
-<translation id="6709350901466051922">uwu chromium pro tento web potřebuje přístup k mikrofonu</translation>
+<translation id="6691132793308828750">Odstranit z prohlížeče Uwu Browser data této aplikace</translation>
+<translation id="6709350901466051922">Uwu Browser pro tento web potřebuje přístup k mikrofonu</translation>
 <translation id="6712881677154121168">Chyba stahování: <ph name="DOWNLOAD_ERROR" />.</translation>
-<translation id="6717134281241384636">Nelze použít váš profil, protože byl vytvořen v novější verzi prohlížeče uwu chromium.
+<translation id="6717134281241384636">Nelze použít váš profil, protože byl vytvořen v novější verzi prohlížeče Uwu Browser.
 
-Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu, nebo používejte novější verzi prohlížeče uwu chromium.</translation>
-<translation id="6729124504294600478">Pokud chcete získat personalizaci a další funkce, zahrňte uwu chromium do Aktivity na webu a v aplikacích a do propojených služeb Google</translation>
-<translation id="6734291798041940871">Prohlížeč uwu chromium je na tomto počítači již nainstalován pro všechny uživatele.</translation>
-<translation id="6742093177587589736">Pokud svá hesla, záložky a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium Tato záložka se po přihlášení uloží do vašeho účtu Google.</translation>
-<translation id="6751374565094704799">Zrychluje weby pomocí modulu V8 prohlížeče uwu chromium, ale trochu snižuje odolnost prohlížeče uwu chromium vůči útokům. Toto nastavení je zapnuté.</translation>
-<translation id="6754665438209053659">{count,plural, =1{Některá data prohlížeče uwu chromium ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data (1 položka) se smažou.}few{Některá data prohlížeče uwu chromium ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}many{Některá data prohlížeče uwu chromium ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}other{Některá data prohlížeče uwu chromium ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položek) se smažou.}}</translation>
-<translation id="67706546131546258">uwu chromium doporučuje zkontrolovat tento soubor, protože může být nebezpečný.</translation>
+Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu, nebo používejte novější verzi prohlížeče Uwu Browser.</translation>
+<translation id="6729124504294600478">Pokud chcete získat personalizaci a další funkce, zahrňte Uwu Browser do Aktivity na webu a v aplikacích a do propojených služeb Google</translation>
+<translation id="6734291798041940871">Prohlížeč Uwu Browser je na tomto počítači již nainstalován pro všechny uživatele.</translation>
+<translation id="6742093177587589736">Pokud svá hesla, záložky a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser Tato záložka se po přihlášení uloží do vašeho účtu Google.</translation>
+<translation id="6751374565094704799">Zrychluje weby pomocí modulu V8 prohlížeče Uwu Browser, ale trochu snižuje odolnost prohlížeče Uwu Browser vůči útokům. Toto nastavení je zapnuté.</translation>
+<translation id="6754665438209053659">{count,plural, =1{Některá data prohlížeče Uwu Browser ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data (1 položka) se smažou.}few{Některá data prohlížeče Uwu Browser ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}many{Některá data prohlížeče Uwu Browser ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položky) se smažou.}other{Některá data prohlížeče Uwu Browser ještě nebyla uložena do vašeho účtu Google. Zkuste s odhlášením několik minut počkat. Pokud se teď odhlásíte, tato data ({count} položek) se smažou.}}</translation>
+<translation id="67706546131546258">Uwu Browser doporučuje zkontrolovat tento soubor, protože může být nebezpečný.</translation>
 <translation id="6779406956731413166">Systém ChromiumOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="6831043979455480757">Přeložit</translation>
-<translation id="6847869444787758381">Pokud vaše hesla někdo prolomí, uwu chromium vás o tom bude informovat</translation>
+<translation id="6847869444787758381">Pokud vaše hesla někdo prolomí, Uwu Browser vás o tom bude informovat</translation>
 <translation id="684888714667046800">Nelze se připojit k internetu. Pokud používáte firewall, přidejte program <ph name="PRODUCT_EXE_NAME" /> na seznam povolených.</translation>
-<translation id="6857782730669500492">uwu chromium – <ph name="PAGE_TITLE" /></translation>
+<translation id="6857782730669500492">Uwu Browser – <ph name="PAGE_TITLE" /></translation>
 <translation id="6859580922007887573">Pokračujte stisknutím tabulátoru</translation>
 <translation id="6862030660799253820">Vyhledat tento obrázek pomocí Vyhledávání obrázků</translation>
 <translation id="6869568587896659271">Snadný přístup k webům pod adresním řádkem</translation>
-<translation id="6873893289264747459">Prohlížeč uwu chromium zjistil, že rozšíření <ph name="EXTENSION_NAME" /> obsahuje malware</translation>
+<translation id="6873893289264747459">Prohlížeč Uwu Browser zjistil, že rozšíření <ph name="EXTENSION_NAME" /> obsahuje malware</translation>
 <translation id="6877155553248388166">pravý dolní roh oblasti hledání: vpravo <ph name="RIGHT" /> %, dole <ph name="BOTTOM" /> %</translation>
 <translation id="6896758677409633944">Kopírovat</translation>
 <translation id="6898028264630240901">Kontextové úkoly si můžete připnout a pak pokládat otázky přímo při prohlížení</translation>
-<translation id="6901631050894301805">Nastavte si uwu chromium jako výchozí prohlížeč a připněte ho na hlavní panel</translation>
-<translation id="6909503629704372277">&amp;Spravovat profily prohlížeče uwu chromium</translation>
+<translation id="6901631050894301805">Nastavte si Uwu Browser jako výchozí prohlížeč a připněte ho na hlavní panel</translation>
+<translation id="6909503629704372277">&amp;Spravovat profily prohlížeče Uwu Browser</translation>
 <translation id="6919942714452658456">Provedou se tyto akce:
           <ph name="LINE_BREAKS" />
             • Resetuje se počáteční stránka, stránka Nová karta, vyhledávač a připnuté karty.
@@ -566,208 +566,208 @@ Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu
             <ph name="LINE_BREAK" />
             • Smažou se soubory cookie a jiná dočasná data webů.
             <ph name="LINE_BREAK" />
-            • Resetují se zkratky prohlížeče uwu chromium.
+            • Resetují se zkratky prohlížeče Uwu Browser.
             <ph name="LINE_BREAKS" />
             Záložky, historie ani uložená hesla nebudou dotčeny.</translation>
-<translation id="6948031725951063910">V prohlížeči uwu chromium jste dosáhli limitu <ph name="BOOKMARK_LIMIT" /> záložek. Některé záložky se vám proto zatím neuložily do účtu Google.
+<translation id="6948031725951063910">V prohlížeči Uwu Browser jste dosáhli limitu <ph name="BOOKMARK_LIMIT" /> záložek. Některé záložky se vám proto zatím neuložily do účtu Google.
 
 Nové záložky nebude možné do účtu uložit, dokud některé nesmažete. Pokud se teď odhlásíte, neuložené záložky se smažou.</translation>
-<translation id="6964305034639999644">Otevřít odkaz v &amp;anonymním okně prohlížeče uwu chromium</translation>
+<translation id="6964305034639999644">Otevřít odkaz v &amp;anonymním okně prohlížeče Uwu Browser</translation>
 <translation id="6965382102122355670">OK</translation>
 <translation id="6985329841647292029">Smluvní podmínky systému ChromiumOS</translation>
-<translation id="7003299027384820442">Pokud chcete používat a ukládat data prohlížeče uwu chromium ve svém účtu <ph name="ACCOUNT_EMAIL" />, zadejte heslovou frázi</translation>
+<translation id="7003299027384820442">Pokud chcete používat a ukládat data prohlížeče Uwu Browser ve svém účtu <ph name="ACCOUNT_EMAIL" />, zadejte heslovou frázi</translation>
 <translation id="7011190694940573312">Instalace se nezdařila, protože tato verze operačního systému není podporována.</translation>
 <translation id="7024536598735240744">Chyba rozbalení: <ph name="UNPACK_ERROR" />.</translation>
-<translation id="7045244423563602563">Přizpůsobení prohlížeče uwu chromium</translation>
+<translation id="7045244423563602563">Přizpůsobení prohlížeče Uwu Browser</translation>
 <translation id="7047386856539490735">Jsou tyto výsledky užitečné?</translation>
-<translation id="705851970750939768">Aktualizovat uwu chromium</translation>
-<translation id="7067091210845072982">Pokud obrázek nemá užitečný popis, uwu chromium se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
-<translation id="7074836723476134809">Využívejte sílu AI v aplikaci uwu chromium na zařízení <ph name="DEVICE_TYPE" /></translation>
-<translation id="7134687062119989071">Vezměte si svá hesla, karty a další položky s sebou na cesty s aplikací uwu chromium na telefonu</translation>
+<translation id="705851970750939768">Aktualizovat Uwu Browser</translation>
+<translation id="7067091210845072982">Pokud obrázek nemá užitečný popis, Uwu Browser se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
+<translation id="7074836723476134809">Využívejte sílu AI v aplikaci Uwu Browser na zařízení <ph name="DEVICE_TYPE" /></translation>
+<translation id="7134687062119989071">Vezměte si svá hesla, karty a další položky s sebou na cesty s aplikací Uwu Browser na telefonu</translation>
 <translation id="7141270731789036260">Přizpůsobit Chrome for Testing</translation>
-<translation id="7147227333672430807">uwu chromium můžete použít pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích</translation>
-<translation id="7163519456498498587">Odstranit z prohlížeče uwu chromium rozšíření <ph name="EXTENSION_NAME" /></translation>
-<translation id="7173822816570314652">Když prohlížeč uwu chromium <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace smaže jeho data. To může zahrnovat historii, automatické vyplňování a stažené soubory.</translation>
-<translation id="718435575166326686">uwu chromium pro tento web potřebuje přístup k fotoaparátu</translation>
-<translation id="7196312274710523067">uwu chromium nelze spustit. Zkuste to znovu.</translation>
+<translation id="7147227333672430807">Uwu Browser můžete použít pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích</translation>
+<translation id="7163519456498498587">Odstranit z prohlížeče Uwu Browser rozšíření <ph name="EXTENSION_NAME" /></translation>
+<translation id="7173822816570314652">Když prohlížeč Uwu Browser <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace smaže jeho data. To může zahrnovat historii, automatické vyplňování a stažené soubory.</translation>
+<translation id="718435575166326686">Uwu Browser pro tento web potřebuje přístup k fotoaparátu</translation>
+<translation id="7196312274710523067">Uwu Browser nelze spustit. Zkuste to znovu.</translation>
 <translation id="7204669035546236137">Ptejte s Gemini v Chromiu na cokoli přímo tam, kde jste</translation>
-<translation id="7213008767289637091">Přidejte si prohlížeč uwu chromium do Docku, ať ho máte kdykoli rychle k dispozici</translation>
-<translation id="7213407614656404070">Použít uwu chromium pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích</translation>
+<translation id="7213008767289637091">Přidejte si prohlížeč Uwu Browser do Docku, ať ho máte kdykoli rychle k dispozici</translation>
+<translation id="7213407614656404070">Použít Uwu Browser pokaždé, když kliknete na odkazy ve zprávách, dokumentech a dalších aplikacích</translation>
 <translation id="7216228761061470870">Když na počítači použijete Vyhledávání obrázků, název stránky, adresa URL a obsah, včetně souborů PDF, se odešlou na server</translation>
-<translation id="7223968959479464213">Správce úloh – uwu chromium</translation>
-<translation id="7226331818892775989">Ptejte se na obsah mimo uwu chromium, jako jsou jiné aplikace nebo soubory</translation>
+<translation id="7223968959479464213">Správce úloh – Uwu Browser</translation>
+<translation id="7226331818892775989">Ptejte se na obsah mimo Uwu Browser, jako jsou jiné aplikace nebo soubory</translation>
 <translation id="7227958669698166857">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít své uložené informace a další obsah k dispozici na všech svých zařízeních.</translation>
-<translation id="7252276985725323153">Začněte hned procházet internet: uwu chromium se teď může spouštět při spuštění Windows.</translation>
+<translation id="7252276985725323153">Začněte hned procházet internet: Uwu Browser se teď může spouštět při spuštění Windows.</translation>
 <translation id="7274695763216404502">Připnuto! Příště vyhledávání obrázků použijte z lišty</translation>
 <translation id="7288567540154601580">Karty a rozšíření</translation>
-<translation id="7295544978856094497">{NUM_EXTENSIONS,plural, =1{uwu chromium vám doporučuje odstranit ho}few{uwu chromium vám doporučuje odstranit je}many{uwu chromium vám doporučuje odstranit je}other{uwu chromium vám doporučuje odstranit je}}</translation>
-<translation id="7296334833518879294">Pokud chcete sdílet systémový zvuk, otevřete Nastavení systému a povolte pro uwu chromium možnost Pouze nahrávání systémového zvuku. uwu chromium bude potřeba restartovat.</translation>
+<translation id="7295544978856094497">{NUM_EXTENSIONS,plural, =1{Uwu Browser vám doporučuje odstranit ho}few{Uwu Browser vám doporučuje odstranit je}many{Uwu Browser vám doporučuje odstranit je}other{Uwu Browser vám doporučuje odstranit je}}</translation>
+<translation id="7296334833518879294">Pokud chcete sdílet systémový zvuk, otevřete Nastavení systému a povolte pro Uwu Browser možnost Pouze nahrávání systémového zvuku. Uwu Browser bude potřeba restartovat.</translation>
 <translation id="7299899569525778554">Vyhledávání z plochy</translation>
-<translation id="731795002583552498">Aktualizace prohlížeče uwu chromium</translation>
+<translation id="731795002583552498">Aktualizace prohlížeče Uwu Browser</translation>
 <translation id="7318036098707714271">Soubor nastavení je poškozený nebo neplatný.
 
-uwu chromium nemůže vaše nastavení obnovit.</translation>
+Uwu Browser nemůže vaše nastavení obnovit.</translation>
 <translation id="7324051657739063017">Kontextové úkoly můžete znovu otevřít a pokládat otázky při prohlížení</translation>
-<translation id="734373864078049451">Zde jsou k dispozici vaše weby, záložky a další obsah prohlížeče uwu chromium.</translation>
-<translation id="7347827960336370838">Vaše šifrovaná data mohou číst pouze uživatelé, kteří mají vaši heslovou frázi. Heslová fráze se neodesílá do Googlu a není na Googlu uložena. Pokud heslovou frázi zapomenete nebo toto nastavení budete chtít změnit, budete muset <ph name="BEGIN_LINK" />vymazat data prohlížeče uwu chromium ve svém účtu<ph name="END_LINK" />.</translation>
-<translation id="7349591376906416160">Administrátor systému nakonfiguroval prohlížeč uwu chromium tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel prohlížeč <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="734373864078049451">Zde jsou k dispozici vaše weby, záložky a další obsah prohlížeče Uwu Browser.</translation>
+<translation id="7347827960336370838">Vaše šifrovaná data mohou číst pouze uživatelé, kteří mají vaši heslovou frázi. Heslová fráze se neodesílá do Googlu a není na Googlu uložena. Pokud heslovou frázi zapomenete nebo toto nastavení budete chtít změnit, budete muset <ph name="BEGIN_LINK" />vymazat data prohlížeče Uwu Browser ve svém účtu<ph name="END_LINK" />.</translation>
+<translation id="7349591376906416160">Administrátor systému nakonfiguroval prohlížeč Uwu Browser tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel prohlížeč <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
 <translation id="7352651011704765696">Něco se pokazilo</translation>
-<translation id="7368826207863345663">Pokud chcete v budoucnu dostávat aktualizace prohlížeče uwu chromium, budete potřebovat systém macOS 13 nebo novější. Tento počítač používá systém macOS 12.</translation>
-<translation id="7376384068949534168">V poslední době jste nenavštívili. Prohlížeč uwu chromium odebral tato oprávnění: <ph name="PERMISSION_1" /> a <ph name="PERMISSION_2" />.</translation>
+<translation id="7368826207863345663">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Uwu Browser, budete potřebovat systém macOS 13 nebo novější. Tento počítač používá systém macOS 12.</translation>
+<translation id="7376384068949534168">V poslední době jste nenavštívili. Prohlížeč Uwu Browser odebral tato oprávnění: <ph name="PERMISSION_1" /> a <ph name="PERMISSION_2" />.</translation>
 <translation id="73786666777299047">Otevřít Internetový obchod Chrome</translation>
 <translation id="7394275517973019558">Zobrazovat Gemini v Chromiu na hlavním panelu systému</translation>
 <translation id="7401687852903179959">Vyhledat toto video pomocí Vyhledávání obrázků</translation>
-<translation id="7407655596887111931">uwu chromium je teď váš výchozí prohlížeč</translation>
-<translation id="7413153308467572558">Pokračujte od stavu, ve kterém jste skončili: uwu chromium při restartech obnovuje karty. Tuto funkci můžete vypnout v</translation>
-<translation id="7427879960656355200">Import hesel do prohlížeče uwu chromium</translation>
+<translation id="7407655596887111931">Uwu Browser je teď váš výchozí prohlížeč</translation>
+<translation id="7413153308467572558">Pokračujte od stavu, ve kterém jste skončili: Uwu Browser při restartech obnovuje karty. Tuto funkci můžete vypnout v</translation>
+<translation id="7427879960656355200">Import hesel do prohlížeče Uwu Browser</translation>
 <translation id="744815265653811511">1. Níže klikněte na <ph name="BUTTON_LABEL" />.
 2. V nastavení systému Windows klikněte na <ph name="BUTTON_2" />
-3. Kliknutím na <ph name="BUTTON_3" /> v oznámení systému Windows připněte prohlížeč uwu chromium na hlavní panel, aby byl kdykoli rychle k dispozici.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – uwu chromium Dev</translation>
+3. Kliknutím na <ph name="BUTTON_3" /> v oznámení systému Windows připněte prohlížeč Uwu Browser na hlavní panel, aby byl kdykoli rychle k dispozici.</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Uwu Browser Dev</translation>
 <translation id="7450541714075000668">Text byl zkopírován</translation>
-<translation id="7458892263350425044">Pokud chcete používat mikrofon, udělte prohlížeči uwu chromium přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
-<translation id="7461356015007898716">Pokud chcete v budoucnu dostávat aktualizace prohlížeče uwu chromium, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 7.</translation>
-<translation id="7467949745582939695">Restartovat uwu chromium?</translation>
-<translation id="7483335560992089831">Nelze nainstalovat verzi prohlížeče uwu chromium, která je právě spuštěná. Ukončete prohlížeč uwu chromium a zkuste to znovu.</translation>
+<translation id="7458892263350425044">Pokud chcete používat mikrofon, udělte prohlížeči Uwu Browser přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
+<translation id="7461356015007898716">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Uwu Browser, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 7.</translation>
+<translation id="7467949745582939695">Restartovat Uwu Browser?</translation>
+<translation id="7483335560992089831">Nelze nainstalovat verzi prohlížeče Uwu Browser, která je právě spuštěná. Ukončete prohlížeč Uwu Browser a zkuste to znovu.</translation>
 <translation id="7510190804000607802">Připomenutí: To nejlepší od Googlu v kapse</translation>
-<translation id="751935028865900641">Weby budou pravděpodobně fungovat podle očekávání. Po zavření všech oken prohlížeče uwu chromium budete odhlášeni z většiny webů (s výjimkou účtu Google, pokud jste do prohlížeče uwu chromium přihlášeni).</translation>
-<translation id="753534427205733210">{0,plural, =1{uwu chromium se za 1 minutu restartuje}few{uwu chromium se za # minuty restartuje}many{uwu chromium se za # minuty restartuje}other{uwu chromium se za # minut restartuje}}</translation>
-<translation id="7565444033145385702">Chraňte svá data tím, že prohlížeči uwu chromium povolíte odebírat oprávnění webům, které jste v poslední době nenavštívili.</translation>
-<translation id="7583104404158659071">Spouštět uwu chromium automaticky, aby bylo možné okamžitě začít procházet internet.</translation>
+<translation id="751935028865900641">Weby budou pravděpodobně fungovat podle očekávání. Po zavření všech oken prohlížeče Uwu Browser budete odhlášeni z většiny webů (s výjimkou účtu Google, pokud jste do prohlížeče Uwu Browser přihlášeni).</translation>
+<translation id="753534427205733210">{0,plural, =1{Uwu Browser se za 1 minutu restartuje}few{Uwu Browser se za # minuty restartuje}many{Uwu Browser se za # minuty restartuje}other{Uwu Browser se za # minut restartuje}}</translation>
+<translation id="7565444033145385702">Chraňte svá data tím, že prohlížeči Uwu Browser povolíte odebírat oprávnění webům, které jste v poslední době nenavštívili.</translation>
+<translation id="7583104404158659071">Spouštět Uwu Browser automaticky, aby bylo možné okamžitě začít procházet internet.</translation>
 <translation id="7583399374488819119">instalační program prohlížeče <ph name="COMPANY_NAME" /></translation>
-<translation id="761356813943268536">uwu chromium používá vaši kameru a mikrofon.</translation>
-<translation id="7617377681829253106">Prohlížeč uwu chromium je opět o něco lepší</translation>
+<translation id="761356813943268536">Uwu Browser používá vaši kameru a mikrofon.</translation>
+<translation id="7617377681829253106">Prohlížeč Uwu Browser je opět o něco lepší</translation>
 <translation id="7622753900276619808">V Chromiu teď máte k dispozici víc funkcí</translation>
 <translation id="7624307931717240213">Informace používáme ke zlepšování této služby. Prostudujte si zásady ochrany soukromí a smluvní podmínky.</translation>
 <translation id="7649070708921625228">Nápověda</translation>
-<translation id="7650134251917003571">Stáhnout aplikaci uwu chromium</translation>
+<translation id="7650134251917003571">Stáhnout aplikaci Uwu Browser</translation>
 <translation id="7658239707568436148">Zrušit</translation>
-<translation id="7686590090926151193">uwu chromium není vaším výchozím prohlížečem</translation>
-<translation id="7689606757190482937">Synchronizujte a upravte si uwu chromium na různých zařízeních</translation>
-<translation id="7699779824407626136">Aktualizace prohlížeče uwu chromium</translation>
+<translation id="7686590090926151193">Uwu Browser není vaším výchozím prohlížečem</translation>
+<translation id="7689606757190482937">Synchronizujte a upravte si Uwu Browser na různých zařízeních</translation>
+<translation id="7699779824407626136">Aktualizace prohlížeče Uwu Browser</translation>
 <translation id="7700735928747402058">Vaše práce je v Chromiu zabezpečená</translation>
 <translation id="7716950018788545737">Úlohy byly ukončeny.</translation>
 <translation id="77283119132245232">Poskytuje služby trasování systému pro <ph name="BROWSER_NAME" />. Pokud je tato služba zakázána, trasování výkonu vytvořené prohlížečem nebude zahrnovat celosystémové události, jako jsou přepnutí kontextu a přípravy vláken.</translation>
-<translation id="7745317241717453663">Ze zařízení budou smazány vaše údaje o prohlížení. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče uwu chromium jako <ph name="USER_EMAIL" />.</translation>
+<translation id="7745317241717453663">Ze zařízení budou smazány vaše údaje o prohlížení. Budete-li chtít své údaje později načíst, přihlaste se do prohlížeče Uwu Browser jako <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Instalační soubor nemohl vytvořit dočasný adresář. Zkontrolujte prosím volné místo na disku a povolení instalovat software.</translation>
 <translation id="7750130090210923118">Obnovit výchozí motiv Chromia</translation>
 <translation id="7752521946322750699">Když budete do Chromia přihlášeni, bude moct vaše organizace za účelem zajištění bezpečnosti vaší práce v Chromiu zobrazit nebo spravovat určité informace.</translation>
-<translation id="7781047659465034537">Nastavte si uwu chromium jako výchozí prohlížeč a připněte ho na hlavní panel</translation>
-<translation id="7786760609782648049">Zrychlete svůj prohlížeč uwu chromium</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – uwu chromium Canary</translation>
-<translation id="7803986347287457849">Zajistěte, aby pro lidi s přístupem k vašemu internetovému provozu bylo obtížnější zjistit, které weby navštěvujete. K vyhledání IP adresy webu v systému názvů domén (DNS) používá uwu chromium zabezpečené připojení.</translation>
+<translation id="7781047659465034537">Nastavte si Uwu Browser jako výchozí prohlížeč a připněte ho na hlavní panel</translation>
+<translation id="7786760609782648049">Zrychlete svůj prohlížeč Uwu Browser</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Uwu Browser Canary</translation>
+<translation id="7803986347287457849">Zajistěte, aby pro lidi s přístupem k vašemu internetovému provozu bylo obtížnější zjistit, které weby navštěvujete. K vyhledání IP adresy webu v systému názvů domén (DNS) používá Uwu Browser zabezpečené připojení.</translation>
 <translation id="7810005234485217901">Vyhledávání obrázků si můžete pro snadný přístup připnout</translation>
 <translation id="7828527096541974699">Vyberte, co chcete s Chromiem sdílet</translation>
-<translation id="7828947555739565424">Profil uwu chromium s tímto účtem už v tomto zařízení existuje</translation>
+<translation id="7828947555739565424">Profil Uwu Browser s tímto účtem už v tomto zařízení existuje</translation>
 <translation id="7845233973568007926">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je třeba restartovat počítač.</translation>
-<translation id="7847673590271334840">Mimo uwu chromium byl změněn váš vyhledávač. Prohlížeč uwu chromium ho kvůli vaší ochraně resetoval na původní výchozí nastavení. <ph name="LEARN_MORE_LINK" /></translation>
-<translation id="7853661403199074278">Přizpůsobte si uwu chromium a dodejte mu nový vzhled</translation>
-<translation id="7859018312476869945">Při psaní do adresního řádku nebo vyhledávacího pole odesílá uwu chromium zadaný obsah do výchozího vyhledávače, aby vám mohl nabízet lepší návrhy. V anonymním režimu je tato funkce vypnutá.</translation>
-<translation id="7867198900892795913">uwu chromium nebylo možné aktualizovat na nejnovější verzi. Nemáte proto k dispozici nové funkce a opravy zabezpečení.</translation>
+<translation id="7847673590271334840">Mimo Uwu Browser byl změněn váš vyhledávač. Prohlížeč Uwu Browser ho kvůli vaší ochraně resetoval na původní výchozí nastavení. <ph name="LEARN_MORE_LINK" /></translation>
+<translation id="7853661403199074278">Přizpůsobte si Uwu Browser a dodejte mu nový vzhled</translation>
+<translation id="7859018312476869945">Při psaní do adresního řádku nebo vyhledávacího pole odesílá Uwu Browser zadaný obsah do výchozího vyhledávače, aby vám mohl nabízet lepší návrhy. V anonymním režimu je tato funkce vypnutá.</translation>
+<translation id="7867198900892795913">Uwu Browser nebylo možné aktualizovat na nejnovější verzi. Nemáte proto k dispozici nové funkce a opravy zabezpečení.</translation>
 <translation id="7872446069773932638">Stahování… Zbývající čas: <ph name="SECONDS" /> s</translation>
-<translation id="7873537467422636035">Pokud si heslovou frázi nepamatujete nebo toto nastavení chcete změnit, <ph name="BEGIN_LINK" />vymažte data prohlížeče uwu chromium ve svém účtu<ph name="END_LINK" /></translation>
+<translation id="7873537467422636035">Pokud si heslovou frázi nepamatujete nebo toto nastavení chcete změnit, <ph name="BEGIN_LINK" />vymažte data prohlížeče Uwu Browser ve svém účtu<ph name="END_LINK" /></translation>
 <translation id="7874369989024033742">Umožňuje kdykoli Gemini v Chromiu rychle otevřít</translation>
-<translation id="7888981273428720788">Nastavte si uwu chromium jako výchozí prohlížeč</translation>
-<translation id="7934340546140346950">Pokud je to možné, uwu chromium nezabezpečená připojení automaticky upgraduje na HTTPS</translation>
-<translation id="7937630085815544518">K prohlížeči uwu chromium jste byli přihlášeni s účtem <ph name="USER_EMAIL_ADDRESS" />. Přihlaste se prosím znovu pomocí stejného účtu.</translation>
+<translation id="7888981273428720788">Nastavte si Uwu Browser jako výchozí prohlížeč</translation>
+<translation id="7934340546140346950">Pokud je to možné, Uwu Browser nezabezpečená připojení automaticky upgraduje na HTTPS</translation>
+<translation id="7937630085815544518">K prohlížeči Uwu Browser jste byli přihlášeni s účtem <ph name="USER_EMAIL_ADDRESS" />. Přihlaste se prosím znovu pomocí stejného účtu.</translation>
 <translation id="7944602660083060118">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Navíc budete mít své záložky a další položky k dispozici na všech svých zařízeních.</translation>
-<translation id="7975919845073681630">Toto je druhá instalace prohlížeče uwu chromium. Tuto instalaci nelze nastavit jako výchozí prohlížeč.</translation>
-<translation id="7997934263947464652">Rozšíření, aplikace a motivy z neznámých zdrojů mohou poškodit vaše zařízení. uwu chromium doporučuje instalovat je pouze z tohoto zdroje: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8000759043835159571">S aplikací uwu chromium na zařízení <ph name="DEVICE_TYPE" /> získáte to nejlepší od Googlu</translation>
+<translation id="7975919845073681630">Toto je druhá instalace prohlížeče Uwu Browser. Tuto instalaci nelze nastavit jako výchozí prohlížeč.</translation>
+<translation id="7997934263947464652">Rozšíření, aplikace a motivy z neznámých zdrojů mohou poškodit vaše zařízení. Uwu Browser doporučuje instalovat je pouze z tohoto zdroje: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="8000759043835159571">S aplikací Uwu Browser na zařízení <ph name="DEVICE_TYPE" /> získáte to nejlepší od Googlu</translation>
 <translation id="8004582292198964060">Prohlížeč</translation>
 <translation id="8010081455002666927">Automatická detekce</translation>
-<translation id="8013436988911883588">Až bude mít uwu chromium přístup, budou vás weby moci požádat o přístup.</translation>
-<translation id="8031714377769448844">Připněte si uwu chromium na hlavní panel, abyste ho měli kdykoli rychle k dispozici</translation>
+<translation id="8013436988911883588">Až bude mít Uwu Browser přístup, budou vás weby moci požádat o přístup.</translation>
+<translation id="8031714377769448844">Připněte si Uwu Browser na hlavní panel, abyste ho měli kdykoli rychle k dispozici</translation>
 <translation id="80471789339884597">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je třeba restartovat všechny prohlížeče.</translation>
 <translation id="8054112667659782652">Vždy zobrazovat zástupce vyhledávání obrázků</translation>
 <translation id="8069447462453318634">Vyberte Připnout na lištu</translation>
-<translation id="8077498902115777962">Zakázat uwu chromium na pozadí pro aplikace</translation>
+<translation id="8077498902115777962">Zakázat Uwu Browser na pozadí pro aplikace</translation>
 <translation id="80790299200510644">Vyhledávání obrázků</translation>
 <translation id="8086881907087796310">Instalace se nezdařila, protože váš počítač nesplňuje minimální požadavky na hardware.</translation>
 <translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
-<translation id="8105840573057009683">uwu chromium pro tento web potřebuje přístup k poloze</translation>
-<translation id="8107060931443639922">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete uwu chromium, zobrazí se výzva k zapnutí upozornění na ceny.</translation>
-<translation id="8117908349476699973">Aplikace uwu chromium na telefonu vás upozorní na poklesy cen u položek, které vás zajímají</translation>
+<translation id="8105840573057009683">Uwu Browser pro tento web potřebuje přístup k poloze</translation>
+<translation id="8107060931443639922">Až příště na zařízení <ph name="DEVICE_TYPE" /> otevřete Uwu Browser, zobrazí se výzva k zapnutí upozornění na ceny.</translation>
+<translation id="8117908349476699973">Aplikace Uwu Browser na telefonu vás upozorní na poklesy cen u položek, které vás zajímají</translation>
 <translation id="8118331347066725040">Zpětná vazba k vyhledávání s funkcí Lens</translation>
-<translation id="8130609355518033382">Přizpůsobte si uwu chromium</translation>
+<translation id="8130609355518033382">Přizpůsobte si Uwu Browser</translation>
 <translation id="8133124826068723441">ChromiumOS nemůže synchronizovat data, protože Synchronizace ve vaší doméně není k dispozici.</translation>
 <translation id="813913629614996137">Probíhá inicializace...</translation>
 <translation id="8161503455832158203">Klávesová zkratka k otevření Gemini v Chromiu.</translation>
-<translation id="8164014945047474187">Dodatečné smluvní podmínky prohlížeče uwu chromium</translation>
-<translation id="81770708095080097">Tento soubor je nebezpečný, proto jej prohlížeč uwu chromium zablokoval.</translation>
+<translation id="8164014945047474187">Dodatečné smluvní podmínky prohlížeče Uwu Browser</translation>
+<translation id="81770708095080097">Tento soubor je nebezpečný, proto jej prohlížeč Uwu Browser zablokoval.</translation>
 <translation id="8177472873527554730">Na stránce se nepodařilo najít obsah</translation>
-<translation id="8200109504272824693">Pokud chcete používat a ukládat data prohlížeče uwu chromium ve svém účtu <ph name="USER_EMAIL" />, zadejte heslovou frázi</translation>
+<translation id="8200109504272824693">Pokud chcete používat a ukládat data prohlížeče Uwu Browser ve svém účtu <ph name="USER_EMAIL" />, zadejte heslovou frázi</translation>
 <translation id="820759916613250543">Vyhledat tento obrázek pomocí Vyhledávání obrázků</translation>
 <translation id="8221491193165283816">Obvykle oznámení blokujete. Chcete-li tomuto webu zobrazování oznámení povolit, klikněte sem.</translation>
-<translation id="8223363452568144035">Pokud chcete používat kameru, udělte prohlížeči uwu chromium přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
-<translation id="8232193495299001329">Toto rozšíření nemusí být bezpečné. uwu chromium nedokáže ověřit, odkud pochází. Odstraňte ho z prohlížeče uwu chromium, aby již nemohlo číst a měnit vaše data (včetně osobních údajů) na webech, které navštěvujete.</translation>
-<translation id="8248265253516264921">Pokud obrázek nemá užitečný popis, uwu chromium se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu. Tuto funkci můžete kdykoliv vypnout v nastavení.</translation>
-<translation id="8254601181414348851">Přihlásit se do prohlížeče uwu chromium v novém profilu?</translation>
+<translation id="8223363452568144035">Pokud chcete používat kameru, udělte prohlížeči Uwu Browser přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
+<translation id="8232193495299001329">Toto rozšíření nemusí být bezpečné. Uwu Browser nedokáže ověřit, odkud pochází. Odstraňte ho z prohlížeče Uwu Browser, aby již nemohlo číst a měnit vaše data (včetně osobních údajů) na webech, které navštěvujete.</translation>
+<translation id="8248265253516264921">Pokud obrázek nemá užitečný popis, Uwu Browser se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu. Tuto funkci můžete kdykoliv vypnout v nastavení.</translation>
+<translation id="8254601181414348851">Přihlásit se do prohlížeče Uwu Browser v novém profilu?</translation>
 <translation id="8262224117913639129">Už je přihlášen uživatel <ph name="EXISTING_USER" />. Pokud své procházení chcete oddělit, přihlaste se do Chromia ve svém vlastním profilu jako <ph name="USER_EMAIL_ADDRESS" />. Získáte také svá hesla a další položky z tohoto zařízení: <ph name="DEVICE" />.</translation>
 <translation id="8277334259226003205">Zobrazovat Gemini v Chromiu na hlavním panelu systému a zapnout klávesovou zkratku</translation>
-<translation id="8286943863733751221"><ph name="BEGIN_LINK" />uwu chromium vás varuje<ph name="END_LINK" /> před nebezpečnými weby a soubory ke stažení</translation>
-<translation id="8295827201165805317">V poslední době jste nenavštívili. Prohlížeč uwu chromium odebral toto oprávnění: <ph name="PERMISSION" />.</translation>
-<translation id="8296236834352487533">Nakupujte, překládejte a identifikujte různé věci pomocí fotoaparátu v aplikaci uwu chromium pro iOS</translation>
+<translation id="8286943863733751221"><ph name="BEGIN_LINK" />Uwu Browser vás varuje<ph name="END_LINK" /> před nebezpečnými weby a soubory ke stažení</translation>
+<translation id="8295827201165805317">V poslední době jste nenavštívili. Prohlížeč Uwu Browser odebral toto oprávnění: <ph name="PERMISSION" />.</translation>
+<translation id="8296236834352487533">Nakupujte, překládejte a identifikujte různé věci pomocí fotoaparátu v aplikaci Uwu Browser pro iOS</translation>
 <translation id="8310603974518734211">QR kód k přihlášení do Chromia jako <ph name="USER_NAME" /></translation>
 <translation id="8313851650939857356">Chyba při spuštění: <ph name="STARTUP_ERROR" />.</translation>
-<translation id="8318772038038596122">Když prohlížeč uwu chromium <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace ho zavře.</translation>
+<translation id="8318772038038596122">Když prohlížeč Uwu Browser <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace ho zavře.</translation>
 <translation id="8321888067342493336">Uložit jako obrázek</translation>
-<translation id="8340674089072921962">Před vámi prohlížeč uwu chromium používal uživatel <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="8340674089072921962">Před vámi prohlížeč Uwu Browser používal uživatel <ph name="USER_EMAIL_ADDRESS" /></translation>
 <translation id="8351551329754447960">Povolit dovednosti v Chromiu</translation>
-<translation id="8359544530202147897">Pokud chcete i nadále používat data prohlížeče uwu chromium ve svém účtu Google <ph name="ACCOUNT_EMAIL" />, aktualizujte uwu chromium</translation>
-<translation id="8360718212975266891">Pokud chcete v budoucnu dostávat aktualizace prohlížeče uwu chromium, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.</translation>
+<translation id="8359544530202147897">Pokud chcete i nadále používat data prohlížeče Uwu Browser ve svém účtu Google <ph name="ACCOUNT_EMAIL" />, aktualizujte Uwu Browser</translation>
+<translation id="8360718212975266891">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Uwu Browser, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.</translation>
 <translation id="8362914115861174987">Přeložit do jazyka</translation>
 <translation id="8367705492654390392">Zeptejte se na cokoli</translation>
 <translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Všechna práva vyhrazena.</translation>
-<translation id="8372327902843331129">Pokud svá hesla a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče uwu chromium. Toto heslo se po přihlášení uloží do vašeho účtu Google.</translation>
-<translation id="837460953767177950">Budete prohlížeč uwu chromium muset restartovat.</translation>
-<translation id="8397248745433792218">uwu chromium vám doporučuje odstranit ho. <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" /></translation>
-<translation id="8401454788024434101">Toto rozšíření přestal vývojář publikovat a může být nebezpečné. Odstraňte ho z prohlížeče uwu chromium, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
-<translation id="8416884904046428725">Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje uwu chromium ověřit, že jste to vy. Pokud se teď odhlásíte, tato data budou smazána.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Do jednoho dne uwu chromium restartujte}few{Do # dní uwu chromium restartujte}many{Do # dne uwu chromium restartujte}other{Do # dní uwu chromium restartujte}}</translation>
+<translation id="8372327902843331129">Pokud svá hesla a další položky chcete mít na všech svých zařízeních, přihlaste se do prohlížeče Uwu Browser. Toto heslo se po přihlášení uloží do vašeho účtu Google.</translation>
+<translation id="837460953767177950">Budete prohlížeč Uwu Browser muset restartovat.</translation>
+<translation id="8397248745433792218">Uwu Browser vám doporučuje odstranit ho. <ph name="BEGIN_LINK" />Další informace o podporovaných rozšířeních<ph name="END_LINK" /></translation>
+<translation id="8401454788024434101">Toto rozšíření přestal vývojář publikovat a může být nebezpečné. Odstraňte ho z prohlížeče Uwu Browser, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
+<translation id="8416884904046428725">Před uložením některých dat do vašeho účtu Google k použití na všech vašich zařízeních potřebuje Uwu Browser ověřit, že jste to vy. Pokud se teď odhlásíte, tato data budou smazána.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Do jednoho dne Uwu Browser restartujte}few{Do # dní Uwu Browser restartujte}many{Do # dne Uwu Browser restartujte}other{Do # dní Uwu Browser restartujte}}</translation>
 <translation id="8438543370129609977">Když použijete Vyhledávání obrázků, název stránky, adresa URL a obsah, včetně souborů PDF, se odešlou na server. <ph name="LEARN_MORE" /></translation>
-<translation id="8447525028100794994">Další informace o vyhledávání pomocí Vyhledávání obrázků v prohlížeči uwu chromium</translation>
-<translation id="8453117565092476964">Archiv instalačního programu je poškozený nebo neplatný. Stáhněte prosím uwu chromium znovu.</translation>
-<translation id="8458614432758743027">uwu chromium vyžaduje systém Windows 10 nebo vyšší.</translation>
+<translation id="8447525028100794994">Další informace o vyhledávání pomocí Vyhledávání obrázků v prohlížeči Uwu Browser</translation>
+<translation id="8453117565092476964">Archiv instalačního programu je poškozený nebo neplatný. Stáhněte prosím Uwu Browser znovu.</translation>
+<translation id="8458614432758743027">Uwu Browser vyžaduje systém Windows 10 nebo vyšší.</translation>
 <translation id="8463672209299734063">Volitelné: Pomozte se zlepšováním funkcí a výkonu operačního systému ChromiumOS tím, že budete do Googlu automaticky odesílat diagnostické údaje a údaje o využití.</translation>
-<translation id="8471947159125090285">Pokud chcete používat a ukládat data prohlížeče uwu chromium ve svém účtu Google, ověřte svou totožnost</translation>
+<translation id="8471947159125090285">Pokud chcete používat a ukládat data prohlížeče Uwu Browser ve svém účtu Google, ověřte svou totožnost</translation>
 <translation id="8482493977473846331">Zobrazuje výzvy k přihlášení do Chromia</translation>
-<translation id="8493179195440786826">Prohlížeč uwu chromium je zastaralý</translation>
-<translation id="850264194101621529">Děkujeme, že jste si uwu chromium vybrali jako výchozí prohlížeč.</translation>
-<translation id="8522801943730206384">uwu chromium může hesla zkontrolovat, pouze když si je uložíte</translation>
+<translation id="8493179195440786826">Prohlížeč Uwu Browser je zastaralý</translation>
+<translation id="850264194101621529">Děkujeme, že jste si Uwu Browser vybrali jako výchozí prohlížeč.</translation>
+<translation id="8522801943730206384">Uwu Browser může hesla zkontrolovat, pouze když si je uložíte</translation>
 <translation id="8525579356836940628">Instalace byla zastavena</translation>
-<translation id="8545729292258443488">Vezměte si svá hesla, karty a další položky s sebou na cesty s aplikací uwu chromium na zařízení <ph name="DEVICE_TYPE" /></translation>
-<translation id="8548787790260785208">Nechte se upozornit, pokud uwu chromium některé z vašich hesel najde ve veřejném seznamu dat prozrazených při porušení zabezpečení údajů</translation>
+<translation id="8545729292258443488">Vezměte si svá hesla, karty a další položky s sebou na cesty s aplikací Uwu Browser na zařízení <ph name="DEVICE_TYPE" /></translation>
+<translation id="8548787790260785208">Nechte se upozornit, pokud Uwu Browser některé z vašich hesel najde ve veřejném seznamu dat prozrazených při porušení zabezpečení údajů</translation>
 <translation id="8555465886620020932">Chyba služby: <ph name="SERVICE_ERROR" />.</translation>
-<translation id="8556055872671007529">Některé funkce a rozšíření prohlížeče uwu chromium mají zkratky. Můžete je znovu zapnout.</translation>
+<translation id="8556055872671007529">Některé funkce a rozšíření prohlížeče Uwu Browser mají zkratky. Můžete je znovu zapnout.</translation>
 <translation id="8556420416730706394">Vyhledávání obrázků si můžete pro snadný přístup připnout. Stačí v horní části postranního panelu kliknout na tlačítko Připnout.</translation>
 <translation id="856656450041460113">Vyhledat v seznamu jazyků</translation>
-<translation id="8576826849825683917">uwu chromium spravuje několik organizací</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> Autoři prohlížeče uwu chromium. Všechna práva vyhrazena.</translation>
-<translation id="8619360774459241877">Spouštění prohlížeče uwu chromium...</translation>
+<translation id="8576826849825683917">Uwu Browser spravuje několik organizací</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> Autoři prohlížeče Uwu Browser. Všechna práva vyhrazena.</translation>
+<translation id="8619360774459241877">Spouštění prohlížeče Uwu Browser...</translation>
 <translation id="8624541899164515475">Nastavení, otevře se na nové kartě.</translation>
 <translation id="8648201657708811153">Google Chrome for Testing nelze nastavit jako výchozí prohlížeč.</translation>
-<translation id="8676101123715131330">Vyhledávejte pomocí prohlížeče uwu chromium odkudkoli</translation>
-<translation id="8697124171261953979">Také řídí, která stránka se zobrazí po spuštění prohlížeče uwu chromium nebo při vyhledávání v omniboxu.</translation>
-<translation id="8704119203788522458">Toto je váš prohlížeč uwu chromium</translation>
+<translation id="8676101123715131330">Vyhledávejte pomocí prohlížeče Uwu Browser odkudkoli</translation>
+<translation id="8697124171261953979">Také řídí, která stránka se zobrazí po spuštění prohlížeče Uwu Browser nebo při vyhledávání v omniboxu.</translation>
+<translation id="8704119203788522458">Toto je váš prohlížeč Uwu Browser</translation>
 <translation id="8712637175834984815">Hotovo</translation>
-<translation id="8719993436687031146">Přihlásit se do prohlížeče uwu chromium?</translation>
+<translation id="8719993436687031146">Přihlásit se do prohlížeče Uwu Browser?</translation>
 <translation id="8747073452963259673">levý dolní roh oblasti hledání: vlevo <ph name="LEFT" /> %, dole <ph name="BOTTOM" /> %</translation>
 <translation id="878572486461146056">Chyba instalace: Správce sítě použil zásady skupiny, které brání instalaci: <ph name="INSTALL_ERROR" /></translation>
 <translation id="8813277370772331957">Připomenout později</translation>
 <translation id="8816416449795340678">Sdílejte tento dokument s Gemini v Chromiu, ať získáte rychlý přehled a můžete klást doplňující otázky</translation>
-<translation id="8818550178040858407">Přihlásit se do prohlížeče uwu chromium?</translation>
-<translation id="8823401858233292222">Nastavit uwu chromium jako výchozí prohlížeč a připnout ho na hlavní panel</translation>
+<translation id="8818550178040858407">Přihlásit se do prohlížeče Uwu Browser?</translation>
+<translation id="8823401858233292222">Nastavit Uwu Browser jako výchozí prohlížeč a připnout ho na hlavní panel</translation>
 <translation id="8826492472752484139">Klikněte na Správce hesel</translation>
 <translation id="8833697763442816810">Systém ChromiumOS</translation>
-<translation id="8852026904190808918">Tento jazyk se používá k zobrazení nabídek, nastavení, upozornění a dalšího textu v prohlížeči uwu chromium</translation>
+<translation id="8852026904190808918">Tento jazyk se používá k zobrazení nabídek, nastavení, upozornění a dalšího textu v prohlížeči Uwu Browser</translation>
 <translation id="8862326446509486874">Nemáte práva nutná k provádění instalací na úrovni systému. Zkuste spustit instalační program jako správce.</translation>
-<translation id="8876044221123442390">Přidat profil uwu chromium</translation>
-<translation id="8890569919834781711">ChromiumOS nemohl uložit data prohlížeče uwu chromium do vašeho účtu Google, protože při přihlašování došlo k chybě</translation>
-<translation id="8891709362986793894">Vaše organizace vyžaduje, abyste se do prohlížeče uwu chromium přihlásili</translation>
-<translation id="8907580949721785412">Aplikace uwu chromium se pokouší zobrazit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
-<translation id="8932992523185907506">uwu chromium už není vaším výchozím prohlížečem. Nastavit uwu chromium jako výchozí prohlížeč?</translation>
-<translation id="8941642502866065432">uwu chromium nelze aktualizovat</translation>
+<translation id="8876044221123442390">Přidat profil Uwu Browser</translation>
+<translation id="8890569919834781711">ChromiumOS nemohl uložit data prohlížeče Uwu Browser do vašeho účtu Google, protože při přihlašování došlo k chybě</translation>
+<translation id="8891709362986793894">Vaše organizace vyžaduje, abyste se do prohlížeče Uwu Browser přihlásili</translation>
+<translation id="8907580949721785412">Aplikace Uwu Browser se pokouší zobrazit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="8932992523185907506">Uwu Browser už není vaším výchozím prohlížečem. Nastavit Uwu Browser jako výchozí prohlížeč?</translation>
+<translation id="8941642502866065432">Uwu Browser nelze aktualizovat</translation>
 <translation id="8944232836376404813">Provedou se tyto akce:
           <ph name="LINE_BREAKS" />
             • Resetuje se počáteční stránka, stránka Nová karta, vyhledávač a připnuté karty.
@@ -778,42 +778,42 @@ uwu chromium nemůže vaše nastavení obnovit.</translation>
             <ph name="LINE_BREAKS" />
             Záložky, historie ani uložená hesla nebudou dotčeny.</translation>
 <translation id="8966875421152977384">Zobrazovat v Chromiu zkratky webů</translation>
-<translation id="897581876605952338">Logo uwu chromium Enterprise</translation>
-<translation id="8980139959902937527">Mějte zabezpečení od Googlu vždy po ruce s aplikací uwu chromium na zařízení <ph name="DEVICE_TYPE" /></translation>
-<translation id="8981150672034878610">uwu chromium nelze spustit, protože při otevírání vašeho profilu došlo k chybě. Zkuste uwu chromium restartovat.</translation>
+<translation id="897581876605952338">Logo Uwu Browser Enterprise</translation>
+<translation id="8980139959902937527">Mějte zabezpečení od Googlu vždy po ruce s aplikací Uwu Browser na zařízení <ph name="DEVICE_TYPE" /></translation>
+<translation id="8981150672034878610">Uwu Browser nelze spustit, protože při otevírání vašeho profilu došlo k chybě. Zkuste Uwu Browser restartovat.</translation>
 <translation id="8981886272598860786">– aktivuje vyhledávání v Chromiu. Lze přizpůsobit v <ph name="BEGIN_LINK" />Nastavení<ph name="END_LINK" />.</translation>
-<translation id="8988036198400390003">Spravovat profily uwu chromium</translation>
+<translation id="8988036198400390003">Spravovat profily Uwu Browser</translation>
 <translation id="8993855408334954620">Pomocí klávesnice můžete přecházet mezi Gemini v Chromiu a otevřenou kartou.</translation>
 <translation id="9018218886431812662">Instalace byla dokončena</translation>
-<translation id="9019929317751753759">Aby byl prohlížeč uwu chromium bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a pravděpodobně bylo přidáno bez vašeho vědomí.</translation>
-<translation id="9022552996538154597">Přihlásit se do prohlížeče uwu chromium</translation>
+<translation id="9019929317751753759">Aby byl prohlížeč Uwu Browser bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a pravděpodobně bylo přidáno bez vašeho vědomí.</translation>
+<translation id="9022552996538154597">Přihlásit se do prohlížeče Uwu Browser</translation>
 <translation id="9035791714111278917">Zobrazovat vyhledávání v Chromiu na liště s nabídkou na Macu a zapnout klávesovou zkratku</translation>
-<translation id="904366664621834601">Prohlížeč uwu chromium toto stahování zablokoval, protože tento soubor archivu obsahuje další soubory, které mohou skrývat malware</translation>
-<translation id="9053882453960391422">Mějte hesla, záložky a historii dokonale synchronizované mezi zařízeními. Aktualizujte svůj výchozí prohlížeč na uwu chromium. Budete tak mít snadno přístup k funkcím, které znáte a máte rádi. Prohlížeč uwu chromium bude připnutý na hlavní panel, kde bude kdykoli snadno rychle k dispozici.</translation>
-<translation id="9056398481763999048">Používejte nejlepší AI nástroje od Googlu s aplikací uwu chromium na telefonu</translation>
-<translation id="9062666675513499497">Přihlášení do prohlížeče uwu chromium při přihlášení do jiných služeb Google</translation>
-<translation id="9078733879136747090">Prohlížeč uwu chromium byl automaticky ukončen</translation>
-<translation id="9089354809943900324">Prohlížeč uwu chromium je zastaralý</translation>
-<translation id="9093206154853821181">{0,plural, =1{uwu chromium se za hodinu restartuje}few{uwu chromium se za # hodiny restartuje}many{uwu chromium se za # hodiny restartuje}other{uwu chromium se za # hodin restartuje}}</translation>
+<translation id="904366664621834601">Prohlížeč Uwu Browser toto stahování zablokoval, protože tento soubor archivu obsahuje další soubory, které mohou skrývat malware</translation>
+<translation id="9053882453960391422">Mějte hesla, záložky a historii dokonale synchronizované mezi zařízeními. Aktualizujte svůj výchozí prohlížeč na Uwu Browser. Budete tak mít snadno přístup k funkcím, které znáte a máte rádi. Prohlížeč Uwu Browser bude připnutý na hlavní panel, kde bude kdykoli snadno rychle k dispozici.</translation>
+<translation id="9056398481763999048">Používejte nejlepší AI nástroje od Googlu s aplikací Uwu Browser na telefonu</translation>
+<translation id="9062666675513499497">Přihlášení do prohlížeče Uwu Browser při přihlášení do jiných služeb Google</translation>
+<translation id="9078733879136747090">Prohlížeč Uwu Browser byl automaticky ukončen</translation>
+<translation id="9089354809943900324">Prohlížeč Uwu Browser je zastaralý</translation>
+<translation id="9093206154853821181">{0,plural, =1{Uwu Browser se za hodinu restartuje}few{Uwu Browser se za # hodiny restartuje}many{Uwu Browser se za # hodiny restartuje}other{Uwu Browser se za # hodin restartuje}}</translation>
 <translation id="9106236359747881194">Vyberte text, který chcete vyhledat</translation>
-<translation id="9106612006984859720">Pokud chcete v budoucnu dostávat aktualizace prohlížeče uwu chromium, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.1.</translation>
-<translation id="91086099826398415">Otevřít odkaz na nové kar&amp;tě prohlížeče uwu chromium</translation>
+<translation id="9106612006984859720">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Uwu Browser, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.1.</translation>
+<translation id="91086099826398415">Otevřít odkaz na nové kar&amp;tě prohlížeče Uwu Browser</translation>
 <translation id="911206726377975832">Vymazat také všechna data procházení?</translation>
 <translation id="9134482777260927479">Pomoc s domácími úkoly</translation>
 <translation id="9148058034647219655">Ukončit</translation>
-<translation id="9155105544013854680">Pokračujte od stavu, ve kterém jste skončili: uwu chromium může při každém restartu obnovit karty. Tuto funkci můžete zapnout v</translation>
-<translation id="9158494823179993217">Administrátor systému nakonfiguroval prohlížeč uwu chromium tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel alternativní prohlížeč.</translation>
-<translation id="9185526690718004400">Znovu spustit a aktualizovat &amp;uwu chromium</translation>
-<translation id="9190841055450128916">uwu chromium (mDNS-In)</translation>
-<translation id="924957577793602335">Přizpůsobte si uwu chromium</translation>
-<translation id="93478295209880648">Prohlížeč uwu chromium nemusí fungovat správně, protože v systémech Windows XP a Windows Vista již není podporován</translation>
+<translation id="9155105544013854680">Pokračujte od stavu, ve kterém jste skončili: Uwu Browser může při každém restartu obnovit karty. Tuto funkci můžete zapnout v</translation>
+<translation id="9158494823179993217">Administrátor systému nakonfiguroval prohlížeč Uwu Browser tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel alternativní prohlížeč.</translation>
+<translation id="9185526690718004400">Znovu spustit a aktualizovat &amp;Uwu Browser</translation>
+<translation id="9190841055450128916">Uwu Browser (mDNS-In)</translation>
+<translation id="924957577793602335">Přizpůsobte si Uwu Browser</translation>
+<translation id="93478295209880648">Prohlížeč Uwu Browser nemusí fungovat správně, protože v systémech Windows XP a Windows Vista již není podporován</translation>
 <translation id="945098430667185067">S Chromiem můžete mít špičkové bezpečnostní funkce od Googlu i na cestách.</translation>
 <translation id="945522503751344254">Odeslat zpětnou vazbu</translation>
-<translation id="965162752251293939">Kdo uwu chromium používá?</translation>
-<translation id="967427899662692980">Aktivujte si v prohlížeči uwu chromium maximální zabezpečení</translation>
+<translation id="965162752251293939">Kdo Uwu Browser používá?</translation>
+<translation id="967427899662692980">Aktivujte si v prohlížeči Uwu Browser maximální zabezpečení</translation>
 <translation id="983803489796659991">Instalace se nezdařila, protože server s aktualizací nemá hashovací data pro aplikaci.</translation>
-<translation id="985498048907240953">Použít uwu chromium bez účtu</translation>
-<translation id="985602178874221306">Autoři prohlížeče uwu chromium</translation>
+<translation id="985498048907240953">Použít Uwu Browser bez účtu</translation>
+<translation id="985602178874221306">Autoři prohlížeče Uwu Browser</translation>
 <translation id="989970834842471429">Vyberte libovolný text nebo obrázek, který chcete vyhledat pomocí Vyhledávání obrázků</translation>
-<translation id="992780518932311116">Pokud chcete používat polohu, udělte prohlížeči uwu chromium přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
+<translation id="992780518932311116">Pokud chcete používat polohu, udělte prohlížeči Uwu Browser přístup v <ph name="BEGIN_LINK" />nastavení systému<ph name="END_LINK" /></translation>
 </translationbundle>

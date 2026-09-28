@@ -183,7 +183,7 @@
   <release seq="1">
     <messages fallback_to_english="true">
       <message name="IDS_IOS_ABOUT_PRODUCT_NAME" desc="The menu item to access information about the application.">
-        About uwu chromium
+        About Uwu Browser
       </message>
       <message name="IDS_IOS_ABOUT_VERSION_COMPANY_NAME" desc="Company name on the about pages">
         The Chromium Authors
@@ -192,83 +192,83 @@
         Copyright <ph name="YEAR">$1</ph> The Chromium Authors. All rights reserved.
       </message>
       <message name="IDS_IOS_ACCOUNT_TABLE_ERROR_ENTER_PASSPHRASE_MESSAGE" desc="The error message to show in the account table when there is a passphrase error. [iOS only]">
-        To use and save uwu chromium data in your Google Account, enter your passphrase.
+        To use and save Uwu Browser data in your Google Account, enter your passphrase.
       </message>
       <message name="IDS_IOS_ACCOUNT_TABLE_ERROR_HAS_TRUSTED_VAULT_RECOVERABILITY_DEGRADED_FOR_EVERYTHING_MESSAGE" desc="The error message to show in the account table when there is an error related to trusted vault recoverability degraded for everything. [iOS only]">
-        To use and save uwu chromium data in your Google Account, verify it's you.
+        To use and save Uwu Browser data in your Google Account, verify it's you.
       </message>
       <message name="IDS_IOS_ACCOUNT_TABLE_ERROR_NEEDS_TRUSTED_VAULT_KEY_FOR_EVERYTHING_MESSAGE" desc="The error message to show in the account table when there is an error related to trusted vault key for everything. [iOS only]">
-        To use and save uwu chromium data in your Google Account, verify it's you.
+        To use and save Uwu Browser data in your Google Account, verify it's you.
       </message>
       <message name="IDS_IOS_ACCOUNT_TABLE_ERROR_VERIFY_ITS_YOU_MESSAGE" desc="The error message to show in the account table when there is an authentication error. [iOS only]">
-        To use and save uwu chromium data in your Google Account, verify it's you.
+        To use and save Uwu Browser data in your Google Account, verify it's you.
       </message>
       <message name="IDS_IOS_AGE_MISMATCH_FOLLOW_UP_SUBTITLE" desc="Explanatory body copy in a full-screen notice. This string is shown to users who are using an iPhone that has age settings for a child, but their Chrome app is signed in to a Google Account with age settings for an adult. The user already saw the initial info screen, so this string emphasizes Chrome’s two available solutions: the user can use Chrome with child restrictions by signing in to a child’s account; or, they can use Chrome with child restrictions by signing out and using the basic child safety limits. The tone should be informative and neutral.">
-        To get child safety features, you can either use a Google Account that's set up for a child or use uwu chromium without an account. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
+        To get child safety features, you can either use a Google Account that's set up for a child or use Uwu Browser without an account. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_AGE_MISMATCH_SUBTITLE_PART1" desc="First part of the explanatory body copy in a full-screen notice shown to users whose device is set up for a child but Chrome is signed into an adult account. Provides solutions: use a child's Google Account or use without an account.">
-        To get child safety features in uwu chromium, you can either use a Google Account that's set up for a child or use uwu chromium without an account.
+        To get child safety features in Uwu Browser, you can either use a Google Account that's set up for a child or use Uwu Browser without an account.
       </message>
       <message name="IDS_IOS_APPLICATION_SHORTCUT_SET_DEFAULT_BROWSER" desc="The title of the spotlight item to set Chrome as a default browser. [Length: unlimited] [iOS only]." meaning="Spotlight item title for setting default browser.">
-        Set uwu chromium as default browser
+        Set Uwu Browser as default browser
       </message>
       <message name="IDS_IOS_AUTOFILL_ADDRESS_MIGRATE_IN_ACCOUNT_FOOTER" desc="Footer text shown in the address migration prompt to account. [iOS only]">
-          This address is currently saved to uwu chromium. To use it across Google products, save it in your Google Account, <ph name="USER_EMAIL">$1<ex>janedoe@google.com</ex></ph>.
+          This address is currently saved to Uwu Browser. To use it across Google products, save it in your Google Account, <ph name="USER_EMAIL">$1<ex>janedoe@google.com</ex></ph>.
       </message>
       <message name="IDS_IOS_BANDWIDTH_MANAGEMENT_DESCRIPTION_LEARN_MORE" desc="Description text bandwidth management panel in settings with explicit Learn More link [iOS only]">
-        uwu chromium has features that help you manage your internet data and how quickly you're able to load webpages.
+        Uwu Browser has features that help you manage your internet data and how quickly you're able to load webpages.
 <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_BEST_FEATURES_LOCKED_INCOGNITO_FIRST_STEP" desc="The first step to setting up Locked Incognito tabs">
-        Open uwu chromium Settings
+        Open Uwu Browser Settings
       </message>
       <message name="IDS_IOS_BEST_FEATURES_LOCKED_INCOGNITO_SUBTITLE" desc="Subtitle for the Locked Incognito tabs Chrome iOS Best Features Promo">
-        Keep your browsing private with device authentication when you close uwu chromium
+        Keep your browsing private with device authentication when you close Uwu Browser
       </message>
       <message name="IDS_IOS_BEST_FEATURES_LOCKED_INCOGNITO_THIRD_STEP" desc="The third step to setting up Locked Incognito tabs">
-        Turn on "Lock Incognito tabs when you close uwu chromium"
+        Turn on "Lock Incognito tabs when you close Uwu Browser"
       </message>
       <message name="IDS_IOS_BEST_FEATURES_NEVER_FORGET_PASSWORDS_CAPTION" desc="Caption for the Never Forget Passwords button on the Chrome iOS Best Features Promo">
-        Save and autofill passwords in uwu chromium
+        Save and autofill passwords in Uwu Browser
       </message>
       <message name="IDS_IOS_BEST_FEATURES_NEVER_FORGET_PASSWORDS_SECOND_STEP" desc="The second step to set up save and autofill passwords">
-        uwu chromium will offer to save your password
+        Uwu Browser will offer to save your password
       </message>
       <message name="IDS_IOS_BEST_FEATURES_PASSWORDS_IN_OTHER_APPS_STEP_4_TOGGLE" desc="The fourth step to enable Passwords in other apps. OS must be iOS 18 or later.">
-        Toggle uwu chromium
+        Toggle Uwu Browser
       </message>
       <message name="IDS_IOS_BEST_FEATURES_PASSWORDS_IN_OTHER_APPS_SUBTITLE" desc="Subtitle for the Passwords in other apps Chrome iOS Best Features Promo">
-        To easily get your saved passwords in your other apps, choose uwu chromium for Autofill
+        To easily get your saved passwords in your other apps, choose Uwu Browser for Autofill
       </message>
       <message name="IDS_IOS_BEST_FEATURES_SHARE_PASSWORDS_STEP_1" desc="The first step to share passwords with others">
-        Open uwu chromium
+        Open Uwu Browser
       </message>
       <message name="IDS_IOS_BEST_FEATURES_SHARE_PASSWORDS_SUBTITLE" desc="Subtitle for the Share Passwords Chrome iOS Best Features Promo">
         Easily and securely share a copy of a password with your family group in Google Password Manager
       </message>
       <message name="IDS_IOS_BWG_LOCATION_FOOTER_TEXT" desc="The footer text of the BWG location settings page.">
-        Gemini may use your precise location, depending on the permission you’ve already given uwu chromium
+        Gemini may use your precise location, depending on the permission you’ve already given Uwu Browser
       </message>
       <message name="IDS_IOS_BWG_SETTINGS_TITLE" desc="Title for BWG settings dialog [Length: 29em] [iOS only]">
-        Gemini in uwu chromium
+        Gemini in Uwu Browser
       </message>
       <message name="IDS_IOS_CALENDARS_USAGE_DESCRIPTION" desc="Specifies the reason for accessing the user's calendar while the app is in use [Length: unlimited] [iOS only].">
-        This will be used to create events in your Apple Calendar from uwu chromium and Google Lens.
+        This will be used to create events in your Apple Calendar from Uwu Browser and Google Lens.
       </message>
       <message name="IDS_IOS_CHANGE_COMPROMISED_PASSWORD_DESCRIPTION_BRANDED" desc="Text inside Password Details screen shown when password was compromised. [iOS only]" meaning="Text which explains the user that current password is compromised and it should be changed.">
         Your password was exposed in a data breach. Password Manager recommends changing it now.
       </message>
       <message name="IDS_IOS_CLEAR_BROWSING_DATA_HISTORY_NOTICE_TITLE" desc="Title of a dialog that informs the user that the deletion of Chromium's browsing data has been completed.">
-        Deleted uwu chromium data
+        Deleted Uwu Browser data
       </message>
       <message name="IDS_IOS_CONSISTENCY_PROMO_DEFAULT_ACCOUNT_LABEL" desc="Dialog label to invite the user to sign-in on the web. [iOS only]">
-        Sign in to this site and uwu chromium.
+        Sign in to this site and Uwu Browser.
       </message>
       <message name="IDS_IOS_CONSISTENCY_PROMO_DEFAULT_ACCOUNT_TITLE" meaning="Title" desc="Dialog title to invite the user to sign-in on the web, related to IDS_IOS_CONSISTENCY_PROMO_DEFAULT_ACCOUNT_TITLE.">
-        Sign in to uwu chromium
+        Sign in to Uwu Browser
       </message>
       <message name="IDS_IOS_CONTEXTUAL_PANEL_BRANDING_ACCESSIBILITY_LABEL" desc="Accessibility text for the title of the Contextual Panel screen.">
-        From uwu chromium
+        From Uwu Browser
       </message>
     <message name="IDS_IOS_CONTEXTUAL_PANEL_BRANDING_TITLE" desc="Branded title on the Contextual Panel screen. The string is lowercase on purpose.">
         chromium
@@ -286,244 +286,244 @@
         Import to Password Manager
       </message>
       <message name="IDS_IOS_CREDENTIAL_PROVIDER_PROMO_INSTRUCTIONS_SUBTITLE" desc="Subitle text of the instructions page on how to set up Chromium as the Credential Provider. [iOS only]">
-        From "<ph name="TEXT_OF_THE_SETTINGS_MENU_ITEM">$1<ex>Password Options</ex></ph>" settings, toggle "uwu chromium" on
+        From "<ph name="TEXT_OF_THE_SETTINGS_MENU_ITEM">$1<ex>Password Options</ex></ph>" settings, toggle "Uwu Browser" on
       </message>
       <message name="IDS_IOS_CREDENTIAL_PROVIDER_PROMO_LEARN_MORE_TITLE" desc="Title text of the 'Learn More' step Credential Provider Exention promo. [iOS only]">
-        Choose uwu chromium for AutoFill
+        Choose Uwu Browser for AutoFill
       </message>
       <message name="IDS_IOS_CREDENTIAL_PROVIDER_PROMO_SUBTITLE" desc="Subtitle text of the Credential Provider Exention promo. [iOS only]">
-        Get easy access to your passwords and passkeys with uwu chromium for AutoFill
+        Get easy access to your passwords and passkeys with Uwu Browser for AutoFill
       </message>
       <message name="IDS_IOS_CREDENTIAL_PROVIDER_PROMO_TITLE" desc="Title text of the Credential Provider Exention promo for iOS 18 and above. [iOS only]">
-        Sign in with your saved passwords &amp; passkeys from any app using uwu chromium for AutoFill
+        Sign in with your saved passwords &amp; passkeys from any app using Uwu Browser for AutoFill
       </message>
       <message name="IDS_IOS_DATA_NOT_UPLOADED_SWITCH_DIALOG_BODY" desc="Body of a dialog that is shown when the user starts to switch accounts; the user chooses to sync some or all data types, but some data hasn't been saved in their Google Account yet (for example, if there was an error). This string follows the heading 'Some Data Isn't Saved Yet', and the user can choose to tap on the buttons 'Cancel' or 'Delete and Switch'. If the user chooses to continue to switch accounts, then any of their data (such as bookmarks, passwords, history, settings, and more) that isn't saved in their account will be deleted. The tone should be helpful and instructive. [iOS only]">
-        Some of your uwu chromium data hasn't been saved in <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph> yet.
+        Some of your Uwu Browser data hasn't been saved in <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph> yet.
 Try waiting a few minutes before switching accounts. If you switch accounts now, this data will be deleted.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_BANNER_PROMO_TEXT" desc="Text for the default browser banner promo [iOS only]">
-        Open links in uwu chromium by Default
+        Open links in Uwu Browser by Default
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_CONTEXTUAL_GEMINI_SUBTITLE" desc="Subtitle for the contextual default browser promo for Gemini [iOS only].">
-        Make uwu chromium your default to get Gemini insights anywhere you browse
+        Make Uwu Browser your default to get Gemini insights anywhere you browse
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_LEARN_MORE_INSTRUCTIONS_MESSAGE" desc="Description to user about how to reach the default browser setting in their device. [iOS only]">
-        To make uwu chromium your default:
+        To make Uwu Browser your default:
 1. Open Settings
 2. Tap Default Browser App
-3. Select uwu chromium
+3. Select Uwu Browser
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_1P_APP_DESCRIPTION" desc="Description for the non-modal default browser promotion banner when Chromium is opened from a first-party app.">
-        Open links from Gmail, Maps, Youtube and other apps in uwu chromium
+        Open links from Gmail, Maps, Youtube and other apps in Uwu Browser
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation.">
-        Open uwu chromium anytime you tap on links in other apps
+        Open Uwu Browser anytime you tap on links in other apps
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP1" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Copy/Paste Friction experiment) [iOS only].">
-        Set uwu chromium as default to open links in one tap instead of copying them.
+        Set Uwu Browser as default to open links in one tap instead of copying them.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP10" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Experience Upgrade experiment) [iOS only].">
-        Make uwu chromium your default to stop copying links from other apps.
+        Make Uwu Browser your default to stop copying links from other apps.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP2" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (One-Tap Open experiment) [iOS only].">
-        Open links directly in uwu chromium next time without copying URLs first.
+        Open links directly in Uwu Browser next time without copying URLs first.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP3" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Smooth Transitions experiment) [iOS only].">
-        Make uwu chromium your default browser to launch links here instantly.
+        Make Uwu Browser your default browser to launch links here instantly.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP4" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Time Saving experiment) [iOS only].">
-        Avoid the hassle of copying. Launch links straight into uwu chromium.
+        Avoid the hassle of copying. Launch links straight into Uwu Browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP5" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Direct Loading experiment) [iOS only].">
-        Make uwu chromium your default and open web content automatically.
+        Make Uwu Browser your default and open web content automatically.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP6" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Convenience experiment) [iOS only].">
-        Set uwu chromium as default to open links instantly from other apps.
+        Set Uwu Browser as default to open links instantly from other apps.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP7" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Speed experiment) [iOS only].">
-        Stop copying URLs. Set uwu chromium as default to load pages directly.
+        Stop copying URLs. Set Uwu Browser as default to load pages directly.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP8" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Seamless Web Flow experiment) [iOS only].">
-        Open links from messages and documents directly in uwu chromium.
+        Open links from messages and documents directly in Uwu Browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_DESCRIPTION_EXP9" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation (Direct Action experiment) [iOS only].">
-        Avoid copying. Set uwu chromium as your default iOS browser.
+        Avoid copying. Set Uwu Browser as your default iOS browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_OMNIBOX_NAVIGATION_TITLE" desc="Title for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation.">
-        Set uwu chromium as default?
+        Set Uwu Browser as default?
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_PROMO_STRINGS_FEWER_STEPS_SUBTITLE" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation [iOS only].">
-        Make uwu chromium your default browser to open links in one tap
+        Make Uwu Browser your default browser to open links in one tap
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_PROMO_STRINGS_SKIP_COPY_PASTE_SUBTITLE" desc="Description for the non-modal default browser promotion banner after Omnibox URL copy/paste and navigation [iOS only].">
-        Set uwu chromium as your default browser to open links in one tap
+        Set Uwu Browser as your default browser to open links in one tap
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_SHARE_DESCRIPTION" desc="Description for the non-modal default browser promotion banner when sharing a URL via the 'Share Chromium' action or the share icon in the Omnibox.">
-        Set uwu chromium as your default browser to easily share and open links
+        Set Uwu Browser as your default browser to easily share and open links
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_NON_MODAL_SHARE_TITLE" desc="Title for the non-modal default browser promotion banner when sharing a URL via the 'Share Chromium' action or the share icon in the Omnibox.">
-        Make uwu chromium your own
+        Make Uwu Browser your own
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_PICTURE_IN_PICTURE_TITLE_TEXT" desc="Title for the default browser picture in picture promo. [iOS only]">
-        Set uwu chromium as default
+        Set Uwu Browser as default
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_PIP_ACCESSIBILITY_ANNOUNCEMENT" desc="Accessibility announcement for the default browser fullscreen video instructions. [iOS only]" is_accessibility_with_no_ui="true">
-        Full screen video of how to set uwu chromium as default
+        Full screen video of how to set Uwu Browser as default
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_PIP_TEXT_VIDEO_ACCESSIBILITY_DESCRIPTION" desc="Accessibility description for the default browser picture-in-picture text video instructions. [iOS only]" is_accessibility_with_no_ui="true">
-        Full screen video of how to set uwu chromium as default: Open uwu chromium settings in iOS, tap on "Default Browser App", and select uwu chromium.
+        Full screen video of how to set Uwu Browser as default: Open Uwu Browser settings in iOS, tap on "Default Browser App", and select Uwu Browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_ALL_TABS_DESCRIPTION" desc="Chromium version of the description for the 'All your tabs' default browser promotion modal. [iOS only]">
-        Set uwu chromium as default to sync your tabs, passwords, and payment info on all your devices
+        Set Uwu Browser as default to sync your tabs, passwords, and payment info on all your devices
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_BUILT_FOR_IOS_DESCRIPTION" desc="Chromium version of the description for the 'Built for iOS' default browser promotion modal. [iOS only]">
-        Use uwu chromium by default to open links, search from widgets, and autofill passwords in other apps
+        Use Uwu Browser by default to open links, search from widgets, and autofill passwords in other apps
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_STAY_SAFE_DESCRIPTION" desc="Chromium version of the description for the 'Stay safe' default browser promotion modal. [iOS only]">
-        Use uwu chromium as your default browser to stay protected from dangerous sites &amp; keep your passwords safe
+        Use Uwu Browser as your default browser to stay protected from dangerous sites &amp; keep your passwords safe
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_STAY_SAFE_TITLE" desc="Chromium version of the title for the 'Stay safe' default browser promotion modal. [iOS only]">
-        Stay safe with uwu chromium
+        Stay safe with Uwu Browser
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_VIDEO_PROMO_APP_SETTINGS" desc="Chromium version of Text in the default browser video the app settings. [iOS only]">
-        uwu chromium settings
+        Uwu Browser settings
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_VIDEO_PROMO_DEFAULT_APPS_SUBTITLE_TEXT" desc="Subtitle for the default browser video promo. 'Default Apps' must use the same translation that iOS uses for the 'Default Apps' item in the iOS settings. [iOS only]">
-        Open Default Apps settings in iOS, then tap on "Browser App" and select uwu chromium.
+        Open Default Apps settings in iOS, then tap on "Browser App" and select Uwu Browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_VIDEO_PROMO_SUBTITLE_TEXT" desc="Chromium version of the subtitle for the default browser video promo. [iOS only]">
-        Open uwu chromium settings in iOS, then tap on "Default Browser App" and select uwu chromium.
+        Open Uwu Browser settings in iOS, then tap on "Default Browser App" and select Uwu Browser.
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_VIDEO_PROMO_TITLE_TEXT" desc="Chromium version of the title for the default browser video promo. [iOS only]">
-        Set uwu chromium as your default browser
+        Set Uwu Browser as your default browser
       </message>
       <message name="IDS_IOS_DEFAULT_PAGE_MODE_DESKTOP_SUBTITLE" desc="The subtitle explaining what the choosen mode (here desktop, the other possible state is mobile) will do in the browser">
-        This means uwu chromium will request the desktop site every time.
+        This means Uwu Browser will request the desktop site every time.
       </message>
       <message name="IDS_IOS_DEFAULT_PAGE_MODE_MOBILE_SUBTITLE" desc="The subtitle explaining what the choosen mode (here mobile, the other possible state is desktop) will do in the browser">
-        This means uwu chromium will request the mobile site every time.
+        This means Uwu Browser will request the mobile site every time.
       </message>
       <message name="IDS_IOS_DELETE_BROWSING_DATA_IN_PROGRESS_NOTICE" desc="VoiceOver text that informs the user that the deletion of Chromium's browsing data is in progress.">
-        Deleting uwu chromium data…
+        Deleting Uwu Browser data…
       </message>
       <message name="IDS_IOS_DISCONNECT_DIALOG_TITLE" desc="The title of the disconnect dialog [Length: 30em].">
-        Sign out of uwu chromium?
+        Sign out of Uwu Browser?
       </message>
       <message name="IDS_IOS_DOCKING_PROMO_FIRST_INSTRUCTION" desc="Title of the first step instruction shown in the Docking Promo, which tells users to hold down on the Chromium icon to put their iOS device into Edit Mode.">
-        Press and hold the uwu chromium icon and click "Edit home screen"
+        Press and hold the Uwu Browser icon and click "Edit home screen"
       </message>
       <message name="IDS_IOS_DOCKING_PROMO_TITLE" desc="Title of the fullscreen, instructional Docking Promo which shows users how to add the Chromium app to their iOS dock.">
-        Access uwu chromium faster from your home screen dock
+        Access Uwu Browser faster from your home screen dock
       </message>
       <message name="IDS_IOS_ENHANCED_SAFE_BROWSING_PROMO_INSTRUCTIONS_STEP1" desc="Step 1 of instructions telling the user how to enable Enhanced Safe Browsing.">
-        Open uwu chromium Settings
+        Open Uwu Browser Settings
       </message>
       <message name="IDS_IOS_ENHANCED_SAFE_BROWSING_PROMO_TITLE" desc="Title of the fullscreen Enhanced Safe Browsing promo which shows users how to enable Enhanced Safe Browsing.">
-        Get uwu chromium's Strongest Security
+        Get Uwu Browser's Strongest Security
       </message>
       <message name="IDS_IOS_ENTERPRISE_BROWSER_MANAGED" desc="Text displayed to inform the user that the browser is managed by Enterprise policies (without link). [iOS only]">
-        uwu chromium is managed
+        Uwu Browser is managed
       </message>
       <message name="IDS_IOS_ENTERPRISE_FORCED_SIGNIN_MESSAGE" desc="Text displayed in the popover to inform the user that the browser is managed by Enterprise policies. (Force Sign In) [iOS only]">
-          Your organization requires you to sign in to use uwu chromium.
+          Your organization requires you to sign in to use Uwu Browser.
       </message>
       <message name="IDS_IOS_ENTERPRISE_FORCED_SIGNIN_MESSAGE_WITH_LEARN_MORE" desc="Text to inform the user about the forced sign-in policy with a Learn More link that redirects to a page that gives more details. (Force Sign In) [iOS only]">
-        Your organization requires you to sign in to use uwu chromium. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
+        Your organization requires you to sign in to use Uwu Browser. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_ENTERPRISE_SWITCH_TO_MANAGED_BROWSER_WIDE_SCREEN" desc="The snackbar message subtitle to confirm the signed-in account after a successful account switch. For enterprise users, we remind them that their browser is managed by their company, school, or organization. This string does not have line break, so terminal punctuation is required for sentence fragments. [iOS only]">
-        <ph name="EMAIL">$1<ex>johndoe@acme.com</ex></ph>. uwu chromium is managed.
+        <ph name="EMAIL">$1<ex>johndoe@acme.com</ex></ph>. Uwu Browser is managed.
       </message>
       <message name="IDS_IOS_ENTERPRISE_SYNC_DISABLED_MESSAGE_WITH_UNO" desc="Message displayed in a prompt when saving data (like bookmarks/reading list/passwords...) is disabled due to an enterprise policy. Related with IDS_IOS_ENTERPRISE_SYNC_DISABLED_TITLE_UNO.">
-        Your organization turned off the ability to use and save uwu chromium data in your Google Account. New bookmarks, passwords, and more will be saved only to this device.
+        Your organization turned off the ability to use and save Uwu Browser data in your Google Account. New bookmarks, passwords, and more will be saved only to this device.
       </message>
       <message name="IDS_IOS_EXPANDED_MANUAL_FILL_VIEW_ACCESSIBILITY_ANNOUNCEMENT" desc="Accessibility announcement read by VoiceOver when the expanded manual fill view is shown.">
-         uwu chromium Autofill expanded view
+         Uwu Browser Autofill expanded view
       </message>
       <message name="IDS_IOS_FACE_ID_USAGE_DESCRIPTION" desc="Specifies the reason for using the device's Face ID capabilities.">
-        uwu chromium keeps your sensitive data secure with Face ID.
+        Uwu Browser keeps your sensitive data secure with Face ID.
       </message>
       <message name="IDS_IOS_FIRST_RUN_DEFAULT_BROWSER_SCREEN_SUBTITLE" desc="Subtitle of the Default Browser screen on First run page explaining the default browser feature's utility [iOS only]">
-        You can now use uwu chromium anytime you tap links in messages, documents, and other apps.
+        You can now use Uwu Browser anytime you tap links in messages, documents, and other apps.
       </message>
       <message name="IDS_IOS_FIRST_RUN_DEFAULT_BROWSER_SCREEN_SUBTITLE_IPAD" desc="Subtitle of the Default Browser screen on First run page explaining the default browser feature's utility - iPad expermental version. [iOS only]">
-        You can now use uwu chromium anytime you tap links in emails, documents, and other apps.
+        You can now use Uwu Browser anytime you tap links in emails, documents, and other apps.
       </message>
       <message name="IDS_IOS_FIRST_RUN_DEFAULT_BROWSER_SCREEN_THIRD_STEP" desc="Text of the row indicating the third step of setting the default browser [iOS only]">
-        Select <ph name="BEGIN_BOLD">BEGIN_BOLD</ph>uwu chromium<ph name="END_BOLD">END_BOLD</ph>
+        Select <ph name="BEGIN_BOLD">BEGIN_BOLD</ph>Uwu Browser<ph name="END_BOLD">END_BOLD</ph>
       </message>
       <message name="IDS_IOS_FIRST_RUN_DEFAULT_BROWSER_SCREEN_TITLE" desc="Title of the screen suggesting to the user to use Chrome by default [iOS only]">
-        Use uwu chromium by default
+        Use Uwu Browser by default
       </message>
       <message name="IDS_IOS_FIRST_RUN_DEFAULT_BROWSER_SCREEN_TITLE_IPAD" desc="Title of the screen suggesting to the user to use Chrome by default - iPad experimental version [iOS only]">
-        Use uwu chromium for iPad by default
+        Use Uwu Browser for iPad by default
       </message>
       <message name="IDS_IOS_FIRST_RUN_GUIDED_TOUR_PROMO_TEXT" desc="The text of the screen prompting the user to learn more about the basics of the app. [iOS only]">
-          Learn helpful uwu chromium basics to get you started
+          Learn helpful Uwu Browser basics to get you started
       </message>
       <message name="IDS_IOS_FIRST_RUN_GUIDED_TOUR_PROMO_TITLE" desc="Title of the screen welcoming the user to the app. [iOS only]">
-        Welcome to uwu chromium
+        Welcome to Uwu Browser
       </message>
       <message name="IDS_IOS_FIRST_RUN_LAUNCH_SCREEN_ENTERPRISE" desc="The text of the launch screen presented to the user on First Run when the browser is managed [iOS only]">
-        Your organization is setting up uwu chromium...
+        Your organization is setting up Uwu Browser...
       </message>
       <message name="IDS_IOS_FIRST_RUN_SIGNIN_SUBTITLE" desc="Subtitle of the screen suggesting to the user to sign in. [iOS only]">
-        To get the most out of uwu chromium, sign in to uwu chromium with your Google Account.
+        To get the most out of Uwu Browser, sign in to Uwu Browser with your Google Account.
       </message>
       <message name="IDS_IOS_FIRST_RUN_SIGNIN_SUBTITLE_SHORT" desc="This string is on a promotion about signing in to Chrome with the user's Google Account. It explains the overarching user benefit of signing in (access to bookmarks, passwords, history, settings, etc.). However, we introduce a caveat, because the user has a managed account (such as Enterprise); this means that, depending on their organization's settings, the user might not be able to save all types of data in their Google Account. We want users to understand why signing in is beneficial, and click 'Continue as name' to sign in to their Google Account.">
-          Sign in to get the most out of uwu chromium.
+          Sign in to get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_FIRST_RUN_SIGNIN_SUBTITLE_SIGNIN_FORCED" desc="Subtitle of a dialog to sign in to Chrome when sign-in is required because of an enterprise policy. [iOS only]">
-        Your organization requires you to sign in to use uwu chromium.
+        Your organization requires you to sign in to use Uwu Browser.
       </message>
       <message name="IDS_IOS_FIRST_RUN_SIGNIN_TITLE_SIGNIN_FORCED" meaning="Title" desc="Title of a dialog to sign in to Chrome when sign-in is required because of an enterprise policy. [iOS only]">
-        Sign in to uwu chromium
+        Sign in to Uwu Browser
       </message>
       <message name="IDS_IOS_FIRST_RUN_UMA_DIALOG_CHECKBOX" desc="Checkbox to accept the metrics reporting consent. Related to IDS_IOS_FIRST_RUN_UMA_DIALOG_EXPLANATION and IDS_IOS_FIRST_RUN_UMA_DIALOG_TITLE. [iOS only]">
-        Help improve uwu chromium's features and performance
+        Help improve Uwu Browser's features and performance
         </message>
       <message name="IDS_IOS_FIRST_RUN_UMA_DIALOG_EXPLANATION_NO_SYNC" desc="Text to explain how the user can help to improve Chrome by accepting the metrics reporting consent. Bullet points lines should start with 2 spaces, followed by • and with a space right after. Related to IDS_IOS_FIRST_RUN_UMA_DIALOG_CHECKBOX and IDS_IOS_FIRST_RUN_UMA_DIALOG_TITLE. [iOS only]">
         When on:
-<ph name="BEGIN_INDENT">BEGIN_INDENT</ph>  • Help make uwu chromium better for people who use it the way you do.<ph name="END_INDENT">END_INDENT</ph>
+<ph name="BEGIN_INDENT">BEGIN_INDENT</ph>  • Help make Uwu Browser better for people who use it the way you do.<ph name="END_INDENT">END_INDENT</ph>
 
 Things to consider:
-<ph name="BEGIN_INDENT">BEGIN_INDENT</ph>  • Info is sent to Google about your uwu chromium usage, but it isn't tied to you.
+<ph name="BEGIN_INDENT">BEGIN_INDENT</ph>  • Info is sent to Google about your Uwu Browser usage, but it isn't tied to you.
 
-  • If uwu chromium crashes, details about the crash may include some personal info.
+  • If Uwu Browser crashes, details about the crash may include some personal info.
 
   • If you sync your history to your Google Account, metrics may also include info about URLs you visit.<ph name="END_INDENT">END_INDENT</ph>
       </message>
       <message name="IDS_IOS_FIRST_RUN_UMA_DIALOG_TITLE" desc="Title of the dialog where users can change their Chrome metrics sharing settings, like usage data. The title communicates that allowing Chrome to see this data can improve Chrome; this happens because we can better invent/improve features based on usage. This appears when they open the Chrome app for the first time on their phone. [iOS only]">
-        Make uwu chromium better
+        Make Uwu Browser better
         </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_METRIC_REPORTING" desc="The text is displayed in a footer on the very first screen of Chrome. Make sure 'usage' and 'crash' are translated consistently with the “Usage statistics and crash reports” section of the Chrome Privacy Policy (google.com/chrome/privacy). The ‘Manage’ link opens a dialog to change the corresponding setting. [iOS only]">
-        To help improve the app, uwu chromium sends usage and crash data to Google. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Manage<ph name="END_LINK">END_LINK</ph>
+        To help improve the app, Uwu Browser sends usage and crash data to Google. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Manage<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_SUBTITLE" desc="The subtitle of the welcome screen presented to the user on First Run [iOS only]">
-        Get more done with a simple, secure, and faster-than-ever uwu chromium.
+        Get more done with a simple, secure, and faster-than-ever Uwu Browser.
       </message>
       <message name="IDS_IOS_GEMINI_SUGGESTIONS_ADAPT_DESCRIPTION" desc="Description explaining that Chromium adapts suggestions based on user selection or ignoring.">
-        If you select or ignore a suggestion, uwu chromium will adapt to help show you more relevant suggestions in the future.
+        If you select or ignore a suggestion, Uwu Browser will adapt to help show you more relevant suggestions in the future.
       </message>
       <message name="IDS_IOS_GEMINI_SUGGESTIONS_PRIVATE_SPACE_DESCRIPTION" desc="Description explaining that Chromium processes page titles and URLs in a private space in the cloud.">
-        uwu chromium processes page titles and URLs in a private space in the cloud
+        Uwu Browser processes page titles and URLs in a private space in the cloud
       </message>
       <message name="IDS_IOS_GEMINI_SUGGESTIONS_TURNING_OFF_DESCRIPTION" desc="Description explaining that turning off suggestions does not affect processing for other features and points to sync settings.">
-        Turning off suggestions doesn't control uwu chromium's processing of page titles and URLs for other features. You can manage access to this data in your <ph name="BEGIN_LINK">BEGIN_LINK</ph>sync settings<ph name="END_LINK">END_LINK</ph>.
+        Turning off suggestions doesn't control Uwu Browser's processing of page titles and URLs for other features. You can manage access to this data in your <ph name="BEGIN_LINK">BEGIN_LINK</ph>sync settings<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_ALLOW_SIGNIN_DETAIL" desc="Feature detail text in the Google services Settings for the user to enable/disable Chrome express sign-in from the web [iOS only]">
-        Shows prompts to sign in to uwu chromium.
+        Shows prompts to sign in to Uwu Browser.
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_ALLOW_SIGNIN_TEXT" desc="Feature title in the Google services Settings for the user to enable/disable Chrome express sign-in from the web [iOS only]">
-        Allow uwu chromium sign-in
+        Allow Uwu Browser sign-in
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_IMPROVE_CHROME_TEXT" desc="Feature title in the settings for the user enable or disable. Related with 'Automatically sends usage statistics and crash reports to Google'. [iOS only]">
-        Help improve uwu chromium's features and performance
+        Help improve Uwu Browser's features and performance
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_IMPROVE_SEARCH_SUGGESTIONS_DETAIL" desc="Feature detail text in the settings for the user to enable/disable, to send omnibox input to the user's default search engine to get additional suggestions. Text related to 'Improve search suggestions' [iOS only]">
-        When you type in the address bar or search box, uwu chromium sends what you type to your default search engine to get better suggestions. This is off in Incognito.
+        When you type in the address bar or search box, Uwu Browser sends what you type to your default search engine to get better suggestions. This is off in Incognito.
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_SYNC_CHROME_DATA" desc="Turns off and on all the sync data (like bookmarks, history and others). [iOS only]">
-        Sync your uwu chromium data
+        Sync your Uwu Browser data
       </message>
       <message name="IDS_IOS_HOME_CUSTOMIZATION_DISCOVER_PAGE_HEADER" desc="The header text for the Discover page in the Home Customization menu.">
         A custom feed made for you. Including news, sports and weather.
@@ -532,28 +532,28 @@ Things to consider:
         A custom feed made for you
       </message>
       <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_KEEP_USING_YOUR_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to keep using your Chromium data in your Google account. [iOS only]">
-        Keep using the uwu chromium data in your Google Account
+        Keep using the Uwu Browser data in your Google Account
       </message>
       <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_MAKE_SURE_YOU_CAN_ALWAYS_USE_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to making sure your can always use Chromium data in your Google account. [iOS only]">
-        Make sure you can always use the uwu chromium data in your Google Account
+        Make sure you can always use the Uwu Browser data in your Google Account
       </message>
       <message name="IDS_IOS_IDLE_TIMEOUT_CONTINUE_USING_CHROME" desc="Button label to indicate browser activity and stop the browser from running idle timeout actions.">
-         Continue using uwu chromium
+         Continue using Uwu Browser
       </message>
       <message name="IDS_IOS_IDLE_TIMEOUT_SUBTITLE_WITHOUT_CLEAR_DATA" desc="Subtitle of the idle timeout policy dialog explaining when the idle action usually happens.">
           {THRESHOLD, plural,
-          =1 {This happens when uwu chromium isn't used for {THRESHOLD} minute}
-          other {This happens when uwu chromium isn't used for {THRESHOLD} minutes}}
+          =1 {This happens when Uwu Browser isn't used for {THRESHOLD} minute}
+          other {This happens when Uwu Browser isn't used for {THRESHOLD} minutes}}
       </message>
       <message name="IDS_IOS_IDLE_TIMEOUT_SUBTITLE_WITH_CLEAR_DATA" desc="Subtitle of the idle timeout policy dialog explaining when the idle action usually happens. It also informs the user that browsing data will be cleared.">
           {THRESHOLD, plural,
-            =1 {This happens when uwu chromium isn't used for {THRESHOLD} minute. This could include history and autofill.}
-            other {This happens when uwu chromium isn't used for {THRESHOLD} minutes. This could include history and autofill.}}
+            =1 {This happens when Uwu Browser isn't used for {THRESHOLD} minute. This could include history and autofill.}
+            other {This happens when Uwu Browser isn't used for {THRESHOLD} minutes. This could include history and autofill.}}
       </message>
       <message name="IDS_IOS_IDLE_TIMEOUT_SUBTITLE_WITH_CLEAR_DATA_ON_SIGNOUT" desc="Subtitle of the idle timeout policy dialog explaining when the idle action usually happens. It also informs the user that data will be cleared when they are signed out.">
           {THRESHOLD, plural,
-            =1 {This happens when uwu chromium isn't used for {THRESHOLD} minute. Data saved only to this device while you were signed in will be deleted. This could include history and passwords.}
-            other {This happens when uwu chromium isn't used for {THRESHOLD} minutes. Data saved only to this device while you were signed in will be deleted. This could include history and passwords.}}
+            =1 {This happens when Uwu Browser isn't used for {THRESHOLD} minute. Data saved only to this device while you were signed in will be deleted. This could include history and passwords.}
+            other {This happens when Uwu Browser isn't used for {THRESHOLD} minutes. Data saved only to this device while you were signed in will be deleted. This could include history and passwords.}}
       </message>
       <message name="IDS_IOS_IMPORT_INVALID_PASSKEY_LIST_DESCRIPTION" desc="Descriptive text showing under the title on the view that lists all invalid passkeys. [iOS only]">
         The following passkeys were not imported to Password Manager, because they don't match with the requirements.
@@ -568,181 +568,181 @@ Things to consider:
         You already have passwords or passkeys in Password Manager for the sites shown. Select an account to keep the shown sign-in info, overwriting what's in Password Manager.
       </message>
       <message name="IDS_IOS_INCOGNITO_INTERSTITIAL_OPEN_IN_CHROME" desc="Button to open a link from an external app in a regular tab rather than in Incognito mode. [iOS only]">
-        Open in uwu chromium
+        Open in Uwu Browser
       </message>
       <message name="IDS_IOS_INCOGNITO_INTERSTITIAL_OPEN_IN_CHROME_INCOGNITO" desc="Button to open a link from an external app in Incognito mode rather than a regular tab. [iOS only]">
-        Open in uwu chromium Incognito
+        Open in Uwu Browser Incognito
       </message>
       <message name="IDS_IOS_INCOGNITO_LOCK_HEADER" desc="Header string for incognito lock settings page.  This appears in the incognito lock settings page under privacy and security. [iOS only]">
-       Hide open Incognito tabs when you leave uwu chromium
+       Hide open Incognito tabs when you leave Uwu Browser
       </message>
       <message name="IDS_IOS_INCOGNITO_REAUTH_SETTING_NAME" desc="Name of the Setting to protect Incognito tabs with biometric authentication, e.g. Face ID or Touch ID. [iOS only]">
-       Lock Incognito tabs when you close uwu chromium
+       Lock Incognito tabs when you close Uwu Browser
       </message>
       <message name="IDS_IOS_INCOGNITO_REAUTH_SET_UP_SYSTEM_DIALOG_REASON" desc="Text for system biometric authentication dialog to explain why authentication is required when the user attempts to enable the setting to protect Incognito tabs with biometric auth. [iOS only]">
-       Let uwu chromium lock your Incognito tabs.
+       Let Uwu Browser lock your Incognito tabs.
       </message>
       <message name="IDS_IOS_INTENTS_ADD_BOOKMARK_DESCRIPTION" desc="Shortcut description to add a bookmark to Chromium [iOS only].">
-        Adds the inputted URLs to your bookmarks in uwu chromium.
+        Adds the inputted URLs to your bookmarks in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_ADD_BOOKMARK_TITLE" desc="Shortcut name to add bookmarks to Chromium [iOS only].">
-        Add bookmarks to uwu chromium
+        Add bookmarks to Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_ADD_READING_LIST_ITEM_DESCRIPTION" desc="Shortcut description to add a reading list item to Chromium [iOS only].">
-        Adds the inputted URLs to your reading list in uwu chromium.
+        Adds the inputted URLs to your reading list in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_ADD_READING_LIST_ITEM_TITLE" desc="Shortcut name to add a reading list item to Chrome [iOS only].">
-        Add reading list item to uwu chromium
+        Add reading list item to Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_CLEAR_BROWSING_DATA_DESCRIPTION" desc="Shortcut description to open Delete Browsing Data dialog in Chrome [iOS only].">
-        Delete browsing data in uwu chromium.
+        Delete browsing data in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_CLEAR_BROWSING_DATA_TITLE" desc="Siri Shortcut for open Delete Browsing Data dialog [iOS only]">
-        Delete browsing data in uwu chromium
+        Delete browsing data in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_PASSWORDS_DESCRIPTION" desc="Siri Shortcut description to manage passwords [iOS only]">
-        Opens the Password Manager in uwu chromium.
+        Opens the Password Manager in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_PASSWORDS_TITLE" desc="Siri Shortcut for manage passwords title [iOS only]">
-        Manage passwords in uwu chromium
+        Manage passwords in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_PAYMENT_METHODS_DESCRIPTION" desc="Siri Shortcut description to manage payment methods [iOS only]">
-        Opens the payment methods setting page in uwu chromium.
+        Opens the payment methods setting page in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_PAYMENT_METHODS_TITLE" desc="Siri Shortcut for manage payment methods title [iOS only]">
-        Manage payment methods in uwu chromium
+        Manage payment methods in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_SETTINGS_DESCRIPTION" desc="Siri Shortcut description to manage settings in chromium [iOS only]">
-        Opens the settings in uwu chromium.
+        Opens the settings in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_MANAGE_SETTINGS_TITLE" desc="Siri Shortcut for manage settings title [iOS only]">
-        Manage uwu chromium settings
+        Manage Uwu Browser settings
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_BOOKMARKS_DESCRIPTION" desc="Shortcut description to open bookmarks in chrome [iOS only].">
-        Opens the uwu chromium bookmarks.
+        Opens the Uwu Browser bookmarks.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_BOOKMARKS_TITLE" desc="Siri Shortcut for open bookmarks title [iOS only]">
-        See uwu chromium bookmarks
+        See Uwu Browser bookmarks
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_CHROME_INCOGNITO_TAB_DESCRIPTION" desc="Siri Shortcut description to open chromium incognito tab [iOS only]">
-        Opens a new uwu chromium Incognito tab.
+        Opens a new Uwu Browser Incognito tab.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_CHROME_INCOGNITO_TAB_TITLE" desc="Siri Shortcut for open chromium incognito tab title [iOS only]">
-        Open uwu chromium Incognito tab
+        Open Uwu Browser Incognito tab
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_DESCRIPTION" desc="Shortcut description to open URLs in Chrome in Incognito [iOS only].">
-        Opens the inputted URLs in uwu chromium in Incognito.
+        Opens the inputted URLs in Uwu Browser in Incognito.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_TITLE" desc="Shortcut name to open URL in Chrome in Incognito [iOS only].">
-        Open URLs in uwu chromium in Incognito
+        Open URLs in Uwu Browser in Incognito
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_LATEST_TAB_DESCRIPTION" desc="Siri Shortcut description to latest tab in chromium [iOS only]">
-        Open my latest tab in uwu chromium.
+        Open my latest tab in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_LATEST_TAB_TITLE" desc="Siri Shortcut for open latest tab title [iOS only]">
-        Open my latest tab in uwu chromium
+        Open my latest tab in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_LENS_DESCRIPTION" desc="Siri Shortcut description to open Lens(Visual Search) [iOS only]">
-        Search visuals in uwu chromium.
+        Search visuals in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_LENS_TITLE" desc="Siri Shortcut for opening Lens (Visual Search) [iOS only]">
-        Search visuals in uwu chromium
+        Search visuals in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_NEW_TAB_DESCRIPTION" desc="Siri Shortcut description to open new tab in chromium [iOS only]">
-        Opens a new tab in uwu chromium.
+        Opens a new tab in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_NEW_TAB_TITLE" desc="Siri Shortcut for open new tab title [iOS only]">
-        Open new tab in uwu chromium
+        Open new tab in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_READING_LIST_DESCRIPTION" desc="Shortcut description to open reading list in chrome [iOS only].">
-        Opens the uwu chromium Reading List.
+        Opens the Uwu Browser Reading List.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_READING_LIST_TITLE" desc="Siri Shortcut for open reading list title [iOS only]">
-        See uwu chromium Reading List
+        See Uwu Browser Reading List
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_RECENT_TABS_DESCRIPTION" desc="Shortcut description to open recent tabs in chrome [iOS only].">
-        Opens the uwu chromium Recent Tabs.
+        Opens the Uwu Browser Recent Tabs.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_RECENT_TABS_TITLE" desc="Siri Shortcut for open recent tabs title [iOS only]">
-        See uwu chromium Recent Tabs
+        See Uwu Browser Recent Tabs
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_TAB_GRID_DESCRIPTION" desc="Shortcut description to open tab grid in chrome [iOS only].">
-        Opens the uwu chromium Tab Grid.
+        Opens the Uwu Browser Tab Grid.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_TAB_GRID_TITLE" desc="Siri Shortcut for open tab grid title [iOS only]">
-        Visit the Tab Grid in uwu chromium
+        Visit the Tab Grid in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_PLAY_DINO_GAME_DESCRIPTION" desc="Siri Shortcut description to open dino game in chromium [iOS only]">
-        Opens the uwu chromium Dino Game.
+        Opens the Uwu Browser Dino Game.
       </message>
       <message name="IDS_IOS_INTENTS_PLAY_DINO_GAME_TITLE" desc="Siri Shortcut for play dino game title [iOS only]">
-        Play uwu chromium Dino Game
+        Play Uwu Browser Dino Game
       </message>
       <message name="IDS_IOS_INTENTS_RUN_SAFETY_CHECK_DESCRIPTION" desc="Siri Shortcut description to run safety check [iOS only]">
-        Opens and Runs Safety Check in uwu chromium.
+        Opens and Runs Safety Check in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_RUN_SAFETY_CHECK_TITLE" desc="Siri Shortcut for run safety check title [iOS only]">
-        Run uwu chromium Safety Check
+        Run Uwu Browser Safety Check
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_DESCRIPTION" desc="Siri Shortcut for search in chrome description [iOS only].">
-        Start a search in a new uwu chromium tab.
+        Start a search in a new Uwu Browser tab.
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_INVOCATION_PHRASE" desc="Siri Shortcut, spoken suggestion for search in chrome [iOS only].">
-        Search in uwu chromium
+        Search in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_PARAMETER_COMBINATION_TITLE" desc="Apple Shortcuts App's format for displaying the user search phrase input, shown by the Siri Shortcut app when the           user is adding or editing a Search in Chromium shortcut[iOS only].">
-          Search ${searchPhrase} in uwu chromium
+          Search ${searchPhrase} in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_SUGGEST_TITLE" desc="Siri Shortcut for search in chrome title [iOS only].">
-        Search in uwu chromium
+        Search in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_TITLE" desc="Siri Shortcut for search in chrome title [iOS only].">
-          Search in uwu chromium
+          Search in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_WITH_VOICE_DESCRIPTION" desc="Siri Shortcut description for searching with voice [iOS only]">
-        Search with voice in uwu chromium.
+        Search with voice in Uwu Browser.
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_WITH_VOICE_TITLE" desc="Siri Shortcut for search with voice title [iOS only]">
-        Search with voice in uwu chromium
+        Search with voice in Uwu Browser
       </message>
       <message name="IDS_IOS_INTENTS_SET_CHROME_DEFAULT_BROWSER_DESCRIPTION" desc="Siri Shortcut description to set Chromium as default browser [iOS only]">
-        Opens the uwu chromium Setting to set uwu chromium as Default Browser.
+        Opens the Uwu Browser Setting to set Uwu Browser as Default Browser.
       </message>
       <message name="IDS_IOS_INTENTS_SET_CHROME_DEFAULT_BROWSER_TITLE" desc="Siri Shortcut for set Chromium as default browser title [iOS only]">
-        Set uwu chromium As default browser
+        Set Uwu Browser As default browser
       </message>
       <message name="IDS_IOS_INTENTS_VIEW_CHROME_HISTORY_DESCRIPTION" desc="Siri Shortcut description to view Chromium history [iOS only]">
-        Opens your uwu chromium History page.
+        Opens your Uwu Browser History page.
       </message>
       <message name="IDS_IOS_INTENTS_VIEW_CHROME_HISTORY_TITLE" desc="Siri Shortcut for view chromium history title [iOS only]">
-        View Your uwu chromium History
+        View Your Uwu Browser History
       </message>
       <message name="IDS_IOS_INTERACTIVE_LENS_OVERLAY_PROMO_SUBTITLE" desc="The subtitle for the interactive lens overlay promo in the First Run Experience.">
-        You can use Google Lens in uwu chromium to search anything you see
+        You can use Google Lens in Uwu Browser to search anything you see
       </message>
       <message name="IDS_IOS_LENS_PROMO_IPH_TEXT" desc="The text of an iph bubble that points to the Fakebox's Lens icon">
         You can open Lens here.
       </message>
       <message name="IDS_IOS_LEVEL_UP_PROMO_SUBTITLE" desc="Text for the Level Up promo subtitle. [iOS only]">
-        Complete quick tasks and discover ways to get the most out of uwu chromium:
+        Complete quick tasks and discover ways to get the most out of Uwu Browser:
       </message>
       <message name="IDS_IOS_LOCATION_SETTINGS_HELP_DETAIL" desc="Body of modal dialog shown when the user browses to a page trying to use location but we lack permission to use the geolocation. This body tells the user he'll be redirected to the Settings app. [iOS only].">
-        To share your location with websites, tap on Settings to let uwu chromium use your location.
+        To share your location with websites, tap on Settings to let Uwu Browser use your location.
       </message>
       <message name="IDS_IOS_LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION" desc="Specifies the reason for accessing the user's location information while the app is in use [Length: unlimited] [iOS only].">
-        uwu chromium shares your location with sites you allow.
+        Uwu Browser shares your location with sites you allow.
       </message>
       <message name="IDS_IOS_LOCKDOWN_MODE_INFO_BUTTON_SUMMARY_FOR_IPAD" desc="iPad summary for lockdown mode info button">
-        To disable Lockdown Mode in uwu chromium turn it off on your iPad.
+        To disable Lockdown Mode in Uwu Browser turn it off on your iPad.
       </message>
       <message name="IDS_IOS_LOCKDOWN_MODE_INFO_BUTTON_SUMMARY_FOR_IPHONE" desc="iPhone summary for lockdown mode info button">
-        To disable Lockdown Mode in uwu chromium turn it off on your iPhone.
+        To disable Lockdown Mode in Uwu Browser turn it off on your iPhone.
       </message>
       <message name="IDS_IOS_LOGIN_ERROR_AUTHENTICATING_HOSTED" desc="Couldn't sign in because hosted account is used.">
-        Your account does not work on uwu chromium. Please contact your domain administrator or use a regular Google Account to sign in.
+        Your account does not work on Uwu Browser. Please contact your domain administrator or use a regular Google Account to sign in.
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_CONTEXT_MENU_DESCRIPTION" desc="The description of the context menu for the Chrome Tips Magic Stack card.">
-        This card shows you suggestions on how to get the most out of uwu chromium.
+        This card shows you suggestions on how to get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_LENS_DEFAULT_TITLE" desc="The default title of the Lens tip for the Magic Stack.">
         Search
@@ -754,171 +754,171 @@ Things to consider:
         Translate
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_SAFE_BROWSING_TITLE" desc="The title of the Safe Browsing tip for the Magic Stack.">
-        Get uwu chromium's Strongest Security
+        Get Uwu Browser's Strongest Security
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_SAVE_PASSWORDS_TUTORIAL_STEP_2" desc="The second step of the Save Passwords tutorial for the Magic Stack.">
-        uwu chromium will offer to save your password.
+        Uwu Browser will offer to save your password.
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_SAVE_PASSWORD_TITLE" desc="The title of the Save Password tip for the Magic Stack.">
-        Save Your Passwords in uwu chromium
+        Save Your Passwords in Uwu Browser
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_SET_UP_COMPLETION_DESCRIPTION" desc="The description of the Set Up List completion for the Magic Stack.">
-        Check back here for more useful tips to get the most out of uwu chromium.
+        Check back here for more useful tips to get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_MAGIC_STACK_TIP_TITLE" desc="The name of the Chrome Tips Magic Stack.">
-        uwu chromium Tips
+        Uwu Browser Tips
       </message>
       <message name="IDS_IOS_MANAGED_DISCONNECT_DIALOG_INFO_UNITY" desc="Message explaining that signing out of a managed account will clear all the Chromium data.[Length: 200em, may be line wrapped to multiple lines at run time.] [iOS only].">
-        Because you're signing out of an account managed by <ph name="SIGNOUT_MANAGED_DOMAIN">$1<ex>google.com</ex></ph>, your uwu chromium data will be deleted from this device. Your data will remain in your Google Account.
+        Because you're signing out of an account managed by <ph name="SIGNOUT_MANAGED_DOMAIN">$1<ex>google.com</ex></ph>, your Uwu Browser data will be deleted from this device. Your data will remain in your Google Account.
       </message>
       <message name="IDS_IOS_MANAGED_SIGNIN_WITH_USER_POLICY_SUBTITLE" desc="The subtitle of the Sign in with a managed account dialog when user policies are enabled. [iOS only]">
-        Your organization, <ph name="DOMAIN">$1<ex>doe.com</ex></ph>, manages the account you're signing in to and how uwu chromium can be used. Your administrator can set up or restrict certain features.
+        Your organization, <ph name="DOMAIN">$1<ex>doe.com</ex></ph>, manages the account you're signing in to and how Uwu Browser can be used. Your administrator can set up or restrict certain features.
       </message>
       <message name="IDS_IOS_MANAGE_DATA_IN_YOUR_ACCOUNT_TITLE" desc="Title for the cell to open 'Review data in your account' web page where the user can control all their data data from sync.">
-        uwu chromium data in your account
+        Uwu Browser data in your account
       </message>
       <message name="IDS_IOS_MANAGE_SYNC_DATA_FROM_CHROME_SYNC_TITLE" desc="Title for the cell to open 'Data from Chromium sync' web page where the user can control all their data data from sync.">
-        Data from uwu chromium sync
+        Data from Uwu Browser sync
       </message>
       <message name="IDS_IOS_MINI_MAP_CONSENT_SUBTITLE" desc="The subtitle of the consent screen for mini map [iOS only].">
-        Allow uwu chromium to use Google Maps to give you directions and local info on detected addresses.
+        Allow Uwu Browser to use Google Maps to give you directions and local info on detected addresses.
       </message>
       <message name="IDS_IOS_MINI_MAP_FOOTER_STRING" desc="The text of the footer string displayed at the bottom of the minimap [iOS only].">
-        uwu chromium uses Google Maps to give you directions and local info on detected addresses.
+        Uwu Browser uses Google Maps to give you directions and local info on detected addresses.
       </message>
       <message name="IDS_IOS_MINI_MAP_IPH_TITLE" desc="The text of the iph string displayed on Mini Map screen on first trigger [iOS only].">
-        uwu chromium detects addresses and uses Google Maps to give you directions and local info.
+        Uwu Browser detects addresses and uses Google Maps to give you directions and local info.
       </message>
       <message name="IDS_IOS_MINI_MAP_URL_FOOTER_STRING" desc="The text of the footer string displayed at the bottom of the native preview for maps links [iOS only].">
-        uwu chromium uses Google Maps to give you directions and local info on maps links
+        Uwu Browser uses Google Maps to give you directions and local info on maps links
       </message>
       <message name="IDS_IOS_NEW_IA_PROMO_IPH_GEMINI_TITLE" desc="Title for the second in-product help bubble suggesting Gemini built-in. [Length: unlimited] [iOS only]">
-        Gemini in uwu chromium
+        Gemini in Uwu Browser
       </message>
       <message name="IDS_IOS_NEW_SYNC_ENCRYPTION_PASSPHRASE_INFO_UNO" desc="The information text for encrypting sync using a passphrase, shown on the passphrase screen [iOS only]">
-        Payment methods and addresses won’t be encrypted. Browsing history from uwu chromium won’t sync.
+        Payment methods and addresses won’t be encrypted. Browsing history from Uwu Browser won’t sync.
 
-Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the uwu chromium data in your account<ph name="END_LINK">END_LINK</ph>.
+Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Uwu Browser data in your account<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_NON_MODAL_SIGNIN_PROMO_PROMPT" meaning="Title" desc="Infobar title for non modal signin promo.">
-        Sign in to uwu chromium
+        Sign in to Uwu Browser
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_ALERT_MESSAGE" desc="Text for the Notifications UI Alert Prompt that redirects the user to the iOS notifications permission page">
-        To receive notifications from uwu chromium, turn on notifications in your iOS Settings.
+        To receive notifications from Uwu Browser, turn on notifications in your iOS Settings.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_OPT_IN_SIGN_IN_MESSAGE_CONTENT" desc="The label for the sign-in view after the user selects the tips notifications toggle.">
-        To receive personalized content based on your interests, sign in to uwu chromium.
+        To receive personalized content based on your interests, sign in to Uwu Browser.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_OPT_IN_SUBTITLE" desc="The subtitle of the screen that prompts to select which notifications to opt-in to.">
-        You can update your selections anytime in uwu chromium settings.
+        You can update your selections anytime in Uwu Browser settings.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_OPT_IN_TIPS_SETTINGS_TOGGLE_MESSSAGE" desc="The label for the notification opt-in toggle message for tips notifications.">
-        Tips on getting the most out of uwu chromium.
+        Tips on getting the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_AUTOFILL_TITLE" desc="Text for the title of a Tips notification that encourages the user to save their passwords.">
-        uwu chromium Tip: Save Passwords
+        Uwu Browser Tip: Save Passwords
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_CPE_BODY" desc="Text for the body of a Tips notification that encourages the user to enable the CPE.">
-        To easily get your saved passwords in other apps, choose uwu chromium for Autofill.
+        To easily get your saved passwords in other apps, choose Uwu Browser for Autofill.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_CPE_TITLE" desc="Text for the title of a Tips notification that encourages the user to enable the CPE.">
-        uwu chromium Tip: Get your passwords in any app
+        Uwu Browser Tip: Get your passwords in any app
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DEFAULT_BROWSER_ALT_TITLE" desc="Text for the title of a Tips notification that encourages the user to set the app as their default browser">
-         Use uwu chromium by default
+         Use Uwu Browser by default
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DEFAULT_BROWSER_BODY" desc="Text for the body of a Tips notification that encourages the user to set the app as their default browser">
-        Use uwu chromium anytime you tap links in messages or other apps.
+        Use Uwu Browser anytime you tap links in messages or other apps.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DEFAULT_BROWSER_TITLE" desc="Text for the title of a Tips notification that encourages the user to set the app as their default browser">
-        uwu chromium Tip: use uwu chromium by default
+        Uwu Browser Tip: use Uwu Browser by default
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_ALT_BODY_IPAD" desc="Text for the body of a Tips notification that encourages the user to put the app into the iOS dock">
-         Access uwu chromium faster from your iPad's Home Screen.
+         Access Uwu Browser faster from your iPad's Home Screen.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_ALT_BODY_IPHONE" desc="Text for the body of a Tips notification that encourages the user to put the app into the iOS dock">
-         Access uwu chromium faster from your iPhone's Home Screen.
+         Access Uwu Browser faster from your iPhone's Home Screen.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_ALT_TITLE" desc="Text for the title of a Tips notification that encourages the user to put the app into the iOS dock">
-         uwu chromium Tip: Move uwu chromium to your home screen
+         Uwu Browser Tip: Move Uwu Browser to your home screen
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_BODY_IPAD" desc="Text for the body of a Tips notification that encourages the user to put the app into the iOS dock">
-        Access uwu chromium faster from your iPad's home screen dock.
+        Access Uwu Browser faster from your iPad's home screen dock.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_BODY_IPHONE" desc="Text for the body of a Tips notification that encourages the user to put the app into the iOS dock">
-        Access uwu chromium faster from your iPhone's home screen dock.
+        Access Uwu Browser faster from your iPhone's home screen dock.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_DOCKING_TITLE" desc="Text for the title of a Tips notification that encourages the user to put the app into the iOS dock">
-        uwu chromium Tip: Move uwu chromium to the dock
+        Uwu Browser Tip: Move Uwu Browser to the dock
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_ENHANCED_SAFE_BROWSING_TITLE" desc="Text for the title of a Tips notification that encourages the user to enable Enhanced Safe Browsing">
-        uwu chromium Tip: Get uwu chromium's strongest security
+        Uwu Browser Tip: Get Uwu Browser's strongest security
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_ENHANCED_SAFE_BROWSING_TITLE_FROM_DESKTOP" desc="Text for the title of a Tips notification that encourages the user to enable Enhanced Safe Browsing.">
-        uwu chromium Tip: Enhanced Safe Browsing
+        Uwu Browser Tip: Enhanced Safe Browsing
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_LENS_ALT_TITLE" desc="Text for the title of a Tips notification that encourages the user to search with Lens">
-         uwu chromium Tip: Search what you see with Google Lens
+         Uwu Browser Tip: Search what you see with Google Lens
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_LENS_OVERLAY_TITLE" desc="Text for the title of a Tips notification that encourages the user to use the Lens Overlay feature.">
-        uwu chromium Tip: Search what you see
+        Uwu Browser Tip: Search what you see
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_LENS_TITLE" desc="Text for the title of a Tips notification that encourages the user to search with Lens">
-        uwu chromium Tip: Search with Lens
+        Uwu Browser Tip: Search with Lens
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_OMNIBOX_POSITION_TITLE" desc="Text for the title of a Tips notification that reminds the user to set their preferred omnibox position">
-        uwu chromium Tip: Choose your address bar position
+        Uwu Browser Tip: Choose your address bar position
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SETUPLIST_CONTINUATION_ALT_BODY_IPAD" desc="Text for the body of a Tips notification that encourages the user to complete the Set Up List">
-         Tap here to get the most out of uwu chromium on your iPad.
+         Tap here to get the most out of Uwu Browser on your iPad.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SETUPLIST_CONTINUATION_ALT_BODY_IPHONE" desc="Text for the body of a Tips notification that encourages the user to complete the Set Up List">
-         Tap here to get the most out of uwu chromium on your iPhone.
+         Tap here to get the most out of Uwu Browser on your iPhone.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SETUPLIST_CONTINUATION_BODY" desc="Text for the body of a Tips notification that encourages the user to complete the Set Up List">
-        Get the most out of uwu chromium by continuing setting up your browser.
+        Get the most out of Uwu Browser by continuing setting up your browser.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SETUPLIST_CONTINUATION_TITLE" desc="Text for the title of a Tips notification that encourages the user to complete the Set Up List">
-        Finish setting up uwu chromium
+        Finish setting up Uwu Browser
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SIGNIN_BODY" desc="Text for the body of a Tips notification that encourages the user to sign in to their account">
         Sign in with your Google Account to sync your passwords, bookmarks, and more.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_SIGNIN_TITLE" desc="Text for the title of a Tips notification that encourages the user to sign in to their account">
-        uwu chromium Tip: Sign in to uwu chromium
+        Uwu Browser Tip: Sign in to Uwu Browser
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_TRUSTED_VAULT_KEY_RETRIVAL_TITLE" desc="Text for the title of a Tips notification that starts a re-authentication flow, which will allow users to access their passwords.">
-        uwu chromium Tip: Get your passwords
+        Uwu Browser Tip: Get your passwords
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_WHATS_NEW_BODY" desc="Text for the body of a Tips notification that takes the user to the Whats New page">
-        Explore new features that help you get the most out of uwu chromium.
+        Explore new features that help you get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_TIPS_WHATS_NEW_TITLE" desc="Text for the title of a Tips notification that takes the user to the Whats New page">
-        What's New in uwu chromium
+        What's New in Uwu Browser
       </message>
       <message name="IDS_IOS_OVERFLOW_MENU_HIDE_DESTINATION_USE_CHROME_AS_DEFAULT" desc="The title for the context menu item to hide Use Chromium as Default. This should match the title of the Use Chromium as Default destination in the menu." meaning="[iOS only] [Length: Unlimited]">
-        Hide Use uwu chromium as Default
+        Hide Use Uwu Browser as Default
       </message>
       <message name="IDS_IOS_OVERFLOW_MENU_SET_CHROME_AS_DEFAULT" desc="The iOS menu item for setting Chromium as the default browser." meaning="[iOS only] [Length: Unlimited]">
-        Set uwu chromium as Default
+        Set Uwu Browser as Default
       </message>
       <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME" desc="The iOS menu item for opening a share sheet with the URL to the Chrome app in the iOS app store" meaning="[iOS only] [Length: Unlimited]">
-        Share uwu chromium
+        Share Uwu Browser
       </message>
       <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_DESC" desc="The description displayed along with the app store link to Chrome, when sharing the chrome app" meaning="[iOS only] [Length: Unlimited]">
-        Download uwu chromium here.
+        Download Uwu Browser here.
       </message>
       <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_TITLE" desc="The title displayed along with the app store link to Chrome, when sharing the chrome app" meaning="[iOS only] [Length: Unlimited]">
-        uwu chromium for iOS
+        Uwu Browser for iOS
       </message>
       <message name="IDS_IOS_PAGE_INFO_CHROME_PAGE_LABEL" desc="Label to display at the top of the site information screen when the page you are on is a Chromium page.">
-        uwu chromium page
+        Uwu Browser page
       </message>
       <message name="IDS_IOS_PAGE_INFO_SECURITY_TAB_SECURE_IDENTITY" desc="The text of the identity section for iOS.">
-        uwu chromium verified that <ph name="ISSUER">$1<ex>VeriSign</ex></ph> issued this website's certificate.
+        Uwu Browser verified that <ph name="ISSUER">$1<ex>VeriSign</ex></ph> issued this website's certificate.
       </message>
       <message name="IDS_IOS_PARCEL_TRACKING_INFOBAR_PACKAGE_ALREADY_TRACKED_SUBTITLE" desc="Text for the subtitle string of the Parcel Tracking 'Package Already Tracked' infobar.">
-        This package has already been tracked on uwu chromium.
+        This package has already been tracked on Uwu Browser.
       </message>
       <message name="IDS_IOS_PASSKEY_ENROLLMENT_FOOTER_MESSAGE" desc="Message displayed at the bottom of the passkey enrollement welcome screen, but just over the primary action button. Lets the user know to which account the passkey they're creating will be saved in if they do to tap the primary action button and keep going with the enrollment process.">
         This passkey will be saved to Password Manager for <ph name="USER_EMAIL">$1<ex>peter.parker@gmail.com</ex></ph>
@@ -929,175 +929,175 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
       <message name="IDS_IOS_PASSKEY_PARTIAL_BOOTSTRAPPING_SUBTITLE" desc="Subtitle of the screen shown when the user needs to create their Password Manager pin to set up passkeys on their device.">
         To keep your passkeys safe, you’ll first need to create a recovery PIN.
 
-        Passkeys are saved in Password Manager, which lets you use them in uwu chromium on any device.
+        Passkeys are saved in Password Manager, which lets you use them in Uwu Browser on any device.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR" desc="Description of the password check cell, explaining that Password Check failed. [iOS only]" meaning="Password Check failed due to some error.">
-        uwu chromium can't check your passwords.
+        Uwu Browser can't check your passwords.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_NO_PASSWORDS" desc="Description text for when password check cannot be run because the user has no saved passwords">
-        No saved passwords. uwu chromium can check your passwords when you save them.
+        No saved passwords. Uwu Browser can check your passwords when you save them.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_OFFLINE" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The user has no internet connection and can't check passwords.">
-        uwu chromium couldn't check your passwords. Try checking your internet connection.
+        Uwu Browser couldn't check your passwords. Try checking your internet connection.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_OTHER" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="Password check failed due to specific reason (out of memory).">
-        uwu chromium couldn't check all passwords. Try again later.
+        Uwu Browser couldn't check all passwords. Try again later.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_QUOTA_LIMIT" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The user has more passwords than allowed for check.">
-        uwu chromium couldn't check all passwords. Try again tomorrow.
+        Uwu Browser couldn't check all passwords. Try again tomorrow.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_QUOTA_LIMIT_VISIT_GOOGLE" desc="Text with link inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The user has more passwords than allowed for check but he can check in Google Account.">
-        uwu chromium couldn't check all passwords. Try again tomorrow or <ph name="BEGIN_LINK">BEGIN_LINK</ph>check passwords in your Google Account.<ph name="END_LINK">END_LINK</ph>
+        Uwu Browser couldn't check all passwords. Try again tomorrow or <ph name="BEGIN_LINK">BEGIN_LINK</ph>check passwords in your Google Account.<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_PASSWORD_CHECKUP_ERROR_SIGNED_OUT" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The user is not signed in and can't check passwords.">
-        uwu chromium can check your passwords when you sign in with your Google Account.
+        Uwu Browser can check your passwords when you sign in with your Google Account.
       </message>
       <message name="IDS_IOS_PASSWORD_CHECK_ERROR" desc="Description of the password check cell, explaining that Password Check failed. [iOS only]" meaning="Password Check failed due to some error.">
-        uwu chromium can't check your passwords
+        Uwu Browser can't check your passwords
       </message>
       <message name="IDS_IOS_PASSWORD_MANAGER_PASSPHRASE_ERROR_INFOBAR_SUBTITLE" desc="Infobar subtitle for fixing sync passphrase error before saving a password on the account.">
-        Enter passphrase to save this password and get uwu chromium data on all your devices
+        Enter passphrase to save this password and get Uwu Browser data on all your devices
       </message>
       <message name="IDS_IOS_PASSWORD_MANAGER_SIGN_IN_ERROR_INFOBAR_SUBTITLE" desc="Infobar subtitle for fixing sign-in error before saving a password on the account.">
-        Verify it's you to save this password and get uwu chromium data on all your devices
+        Verify it's you to save this password and get Uwu Browser data on all your devices
       </message>
       <message name="IDS_IOS_PASSWORD_SAVED_INFOBAR_MESSAGE" desc="Message displayed on an infobar confirming that the password was saved to the specified account. [iOS only]">
         To Password Manager for <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph>
       </message>
       <message name="IDS_IOS_PASSWORD_SETTINGS_PASSWORDS_IN_OTHER_APPS_DESCRIPTION" desc="Help text explaining the benefits of having Chromium set as a credential provider for other apps. [iOS Only]">
-        Sign in quickly to apps and sites by autofilling your passwords &amp; passkeys from uwu chromium
+        Sign in quickly to apps and sites by autofilling your passwords &amp; passkeys from Uwu Browser
       </message>
       <message name="IDS_IOS_PASSWORD_SHARING_FAMILY_MEMBER_INELIGIBLE" desc="Info text in the recipient picker view of the password sharing flow explaining why one of the family members is not eligible to be a recipient. [iOS Only]">
-        Your family member can't receive passwords right now. Ask them to update uwu chromium and sync their passwords. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
+        Your family member can't receive passwords right now. Ask them to update Uwu Browser and sync their passwords. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_PASSWORD_SHARING_FETCHING_RECIPIENTS_ERROR" desc="Description on the alert view explaining an error in the password sharing flow. [iOS only]">
-        Your password wasn't shared. Check your internet connection and make sure you're signed in to uwu chromium. Then, try again.
+        Your password wasn't shared. Check your internet connection and make sure you're signed in to Uwu Browser. Then, try again.
       </message>
       <message name="IDS_IOS_PERSONALIZE_GOOGLE_SERVICES_HEADER" desc="This is the body text of a settings page that directs users to other settings where they can control how Chrome history can be used to personalize other Google services. This text appears in Chrome’s Advanced Sync settings, on the subpage that links out to Web &amp; App Activity and Linked Google services.">
-        To get personalization and other features, include uwu chromium in <ph name="FEATURE_NAME_1">$1<ex>Web &amp; App Activity</ex></ph> and <ph name="FEATURE_NAME_2">$2<ex>Linked Google services</ex></ph>
+        To get personalization and other features, include Uwu Browser in <ph name="FEATURE_NAME_1">$1<ex>Web &amp; App Activity</ex></ph> and <ph name="FEATURE_NAME_2">$2<ex>Linked Google services</ex></ph>
       </message>
       <message name="IDS_IOS_PERSONALIZE_GOOGLE_SERVICES_LINKED_SERVICES_DESCRIPTION" desc="This is the subtitle of a setting that links to “Linked Google services” in the Google Account’s Data &amp; privacy settings. This subtitle appears on a subpage from Chrome’s Advanced Sync settings, and is after the “Linked Google services” string.">
-        Link uwu chromium and other Google services for personalization and other purposes
+        Link Uwu Browser and other Google services for personalization and other purposes
       </message>
       <message name="IDS_IOS_POST_RESTORE_DEFAULT_BROWSER_PROMO_TITLE" desc="The text of the title for the post restore default browser promo.">
-        Make uwu chromium your default browser?
+        Make Uwu Browser your default browser?
       </message>
       <message name="IDS_IOS_POST_RESTORE_SIGN_IN_ALERT_PROMO_TITLE" desc="The title text of the alert post restore sign-in promo. [iOS only]">
-        uwu chromium is signed out
+        Uwu Browser is signed out
       </message>
       <message name="IDS_IOS_PRICE_NOTIFICATIONS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_MESSAGE" desc="The description that argues why push notification permission is necessary for price tracking.">
-          uwu chromium notifications are currently turned off in your device settings.
+          Uwu Browser notifications are currently turned off in your device settings.
       </message>
       <message name="IDS_IOS_PRICE_NOTIFICATIONS_PRICE_TRACK_PERMISSION_REDIRECT_ALERT_TITLE" desc="The title for the UIAlert that redirects the user to iOS' application settings for Chrome.">
-          Allow uwu chromium notifications to get price drop alerts
+          Allow Uwu Browser notifications to get price drop alerts
       </message>
       <message name="IDS_IOS_PRIVACY_ACCOUNT_SETTINGS_AND_GOOGLE_SERVICES_FOOTER" desc="Footer to invite the user to open the Account Settings and Google Services settings.">
-        You can <ph name="BEGIN_LINK">BEGIN_LINK</ph>manage what uwu chromium data is saved<ph name="END_LINK">END_LINK</ph> in your Google Account.
+        You can <ph name="BEGIN_LINK">BEGIN_LINK</ph>manage what Uwu Browser data is saved<ph name="END_LINK">END_LINK</ph> in your Google Account.
 
-For more settings that use data to improve your uwu chromium experience, go to <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph>.
+For more settings that use data to improve your Uwu Browser experience, go to <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_PRIVACY_SIGNED_OUT_FOOTER" desc="Footer to invite the signed out user to open the Google Services settings.">
-        For more settings that use data to improve your uwu chromium experience, go to <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph>.
+        For more settings that use data to improve your Uwu Browser experience, go to <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_PRODUCT_NAME" desc="The Chrome application name" translateable="false">
-        uwu chromium
+        Uwu Browser
       </message>
       <message name="IDS_IOS_RECENT_TABS_OTHER_DEVICES_EMPTY_MESSAGE" desc="To use the Other Devices section of the Recent Tabs view, a user must be signed in and activate Tabs synchronization on multiple devices. This message is shown in this section when the user is signed in and has activated Tabs synchronization only on this device.">
-          To see your tabs from wherever you use uwu chromium, sign in on all your devices
+          To see your tabs from wherever you use Uwu Browser, sign in on all your devices
       </message>
       <message name="IDS_IOS_RECENT_TABS_OTHER_DEVICES_SIGNED_OUT_MESSAGE" desc="To use the Other Devices section of the Recent Tabs view, a user must be signed in and activate Tabs synchronization on multiple devices. This message is shown in this section when the user is not signed in.">
-          To see your tabs from wherever you use uwu chromium, sign in and turn on sync
+          To see your tabs from wherever you use Uwu Browser, sign in and turn on sync
       </message>
       <message name="IDS_IOS_RECENT_TABS_OTHER_DEVICES_SYNC_IS_OFF_MESSAGE" desc="To use the Other Devices section of the Recent Tabs view, a user must be signed in and activate Tabs synchronization on multiple devices. This message is shown in this section when the user is signed in, but Tabs synchronization is turned off.">
-          To see your tabs from wherever you use uwu chromium, turn on sync
+          To see your tabs from wherever you use Uwu Browser, turn on sync
       </message>
       <message name="IDS_IOS_REMINDER_NOTIFICATIONS_ALERT_MESSAGE" desc="Message body for the alert explaining why notifications are needed for the Tab Reminders feature. [iOS only]">
-        To receive Tab Reminders from uwu chromium, turn on notifications in your iOS Settings.
+        To receive Tab Reminders from Uwu Browser, turn on notifications in your iOS Settings.
       </message>
       <message name="IDS_IOS_REMOVE_ACCOUNT_CONFIRMATION_MESSAGE" desc="Dialog message to emphasize the effects of removing an account.">
-        This account and any unsaved data will be removed from uwu chromium.
+        This account and any unsaved data will be removed from Uwu Browser.
       </message>
       <message name="IDS_IOS_SAFARI_IMPORT_ENTRY_POINT_PRIMARY_ACTION" desc="Safari import entry point screen - Button text to start the workflow to import data from Safari to Chromium. [iOS only]" meaning="mport data from other browser to be used on Chromium">
-        Import to uwu chromium
+        Import to Uwu Browser
       </message>
       <message name="IDS_IOS_SAFARI_IMPORT_ENTRY_POINT_SUBTITLE" desc="Safari import entry point screen - Subtitle. [iOS only]">
-        Import your data to use your passwords, history, bookmarks and credit cards on uwu chromium
+        Import your data to use your passwords, history, bookmarks and credit cards on Uwu Browser
       </message>
       <message name="IDS_IOS_SAFARI_IMPORT_EXPORT_STATIC_INSTRUCTION_STEP_5" desc="Safari import export education screen - Step 5 to export Safari data. Displayed in the static text instructions below the animated tutorial. [iOS only]">
-        Return to uwu chromium to upload your file
+        Return to Uwu Browser to upload your file
       </message>
       <message name="IDS_IOS_SAFARI_IMPORT_IMPORT_SUBTITLE" desc="Safari import import screen - Subtitle. [iOS only]">
-        Use your Safari passwords, history, bookmarks, and credit cards in uwu chromium
+        Use your Safari passwords, history, bookmarks, and credit cards in Uwu Browser
       </message>
       <message name="IDS_IOS_SAFETY_CHECK_COMPACT_DESCRIPTION_UPDATE_CHROME" desc="Tag label description displayed for the Safety Check module in the Magic Stack when the Update Chrome check finds an issue. [iOS only]">
-        Your uwu chromium is out of date.
+        Your Uwu Browser is out of date.
       </message>
       <message name="IDS_IOS_SAFETY_CHECK_DESCRIPTION_UPDATE_CHROME" desc="Tag label description displayed for the Safety Check module in the Magic Stack when the Update Chrome check finds an issue. [iOS only]">
-        Your uwu chromium is out of date. Update it to stay safe.
+        Your Uwu Browser is out of date. Update it to stay safe.
       </message>
       <message name="IDS_IOS_SAFETY_CHECK_NOTIFICATIONS_ALERTS_ON_ISSUES" desc="Description of the alerts provided by Safety Check, specifically mentioning privacy or security issues detected by Chromium.">
-        Alerts on any privacy or security issues that uwu chromium detects for you.
+        Alerts on any privacy or security issues that Uwu Browser detects for you.
       </message>
       <message name="IDS_IOS_SAFETY_CHECK_NOTIFICATIONS_DESCRIPTION_LONG" desc="Long description of Safety Check, emphasizing its protection against data breaches, unsafe websites, and more, and mentioning alerts for detected privacy or security issues.">
-        Safety Check keeps you safe from data breaches, unsafe websites and more. Receive alerts on any privacy or security issues that uwu chromium detects for you.
+        Safety Check keeps you safe from data breaches, unsafe websites and more. Receive alerts on any privacy or security issues that Uwu Browser detects for you.
       </message>
       <message name="IDS_IOS_SAFETY_CHECK_NOTIFICATIONS_RECEIVE_ALERTS" desc="Description of the Safety Check feature, highlighting that it provides alerts on privacy or security issues detected by Chromium.">
-        Receive alerts on any privacy or security issues that uwu chromium automatically detects for you.
+        Receive alerts on any privacy or security issues that Uwu Browser automatically detects for you.
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_BULLET_TWO" desc="Second bullet point under the Safe Browsing enhanced protection mode">
-        Keeps you safe on uwu chromium and may be used to improve your security in other Google apps when you are signed in.
+        Keeps you safe on Uwu Browser and may be used to improve your security in other Google apps when you are signed in.
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_DATA_ICON_DESCRIPTION" desc="Description for Safe Browsing enhanced protection data icon.">
-        Warns you about dangerous sites, even ones Google didn’t know about before, by analyzing more data from sites than standard protection. You can choose to skip uwu chromium warnings.
+        Warns you about dangerous sites, even ones Google didn’t know about before, by analyzing more data from sites than standard protection. You can choose to skip Uwu Browser warnings.
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_FOOTER" desc="Footer for Safe Browsing enhanced protection mode.">
-        Learn more about <ph name="BEGIN_LINK">BEGIN_LINK</ph>how uwu chromium keeps your data private<ph name="END_LINK">END_LINK</ph>
+        Learn more about <ph name="BEGIN_LINK">BEGIN_LINK</ph>how Uwu Browser keeps your data private<ph name="END_LINK">END_LINK</ph>
       </message>
-      <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_INFOBAR_DESCRIPTION" desc="The Enhanced Safe Browsing infobar promo's description.">uwu chromium recommends enhanced protection</message>
+      <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_INFOBAR_DESCRIPTION" desc="The Enhanced Safe Browsing infobar promo's description.">Uwu Browser recommends enhanced protection</message>
       <message name="IDS_IOS_SAFE_BROWSING_ENHANCED_PROTECTION_INLINE_PROMO_DESCRIPTION" desc="The Enhanced Safe Browsing inline promo's description.">
-          Get uwu chromium's strongest security from dangerous sites
+          Get Uwu Browser's strongest security from dangerous sites
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_BULLET_TWO" desc="Second bullet point under the Safe Browsing standard protection mode.">
-        Checks URLs with a list of unsafe sites stored in uwu chromium. If a site tries to steal your password, or when you download a harmful file, uwu chromium may also send URLs, including bits of page content, to Safe Browsing.
+        Checks URLs with a list of unsafe sites stored in Uwu Browser. If a site tries to steal your password, or when you download a harmful file, Uwu Browser may also send URLs, including bits of page content, to Safe Browsing.
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_LEAK_CHECK_FRIENDLIER_SUMMARY" desc="Friendlier summary for the switch toggling whether Chrome should check that entered credentials have been part of a leak.">
-        When you use a password, uwu chromium warns you if it has been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.
+        When you use a password, Uwu Browser warns you if it has been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.
       </message>
       <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_LEAK_CHECK_SUMMARY" desc="Summary for the switch toggling whether Chrome should check that entered credentials have been part of a leak.">
-        uwu chromium periodically checks your passwords against lists that have been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.
+        Uwu Browser periodically checks your passwords against lists that have been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.
       </message>
       <message name="IDS_IOS_SAFE_MODE_NAMED_TWEAKS_FOUND" desc="The message indicating a 3rd party tweak has been found that is known to crash Chromium.  After the ':', we will list the names of the libraries. [Length: 140em]">
-        Some add-ons cause uwu chromium to crash. Please uninstall:
+        Some add-ons cause Uwu Browser to crash. Please uninstall:
       </message>
       <message name="IDS_IOS_SAFE_MODE_TWEAKS_FOUND" desc="The message indicating one or more 3rd party tweaks have been found, but none that we know specifically cause crashes. [Length: 140em]">
-        Some add-ons cause uwu chromium to crash. Please try uninstalling them.
+        Some add-ons cause Uwu Browser to crash. Please try uninstalling them.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE" desc="Message to inform user that Save Image failed due to insufficient privilege in Privacy Settings. Directs user to adjust Privacy Settings for Chrome. This message is displayed as the message body in an alert box with a single OK button. [Length: 120em]">
-        uwu chromium does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
+        Uwu Browser does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE_GO_TO_SETTINGS" desc="Body of the alert shown when the user tries to save an image but we lack permission to add photos. This body tells the user he'll be redirected to the Settings app. [Length: 100em] [iOS only].">
-        To save images, tap on Settings to let uwu chromium add to your photos
+        To save images, tap on Settings to let Uwu Browser add to your photos
       </message>
       <message name="IDS_IOS_SAVE_PASSWORD_FOOTER_NOT_SYNCING" desc="Helper text above the save credentials modal's primary action button. [Length: unlimited] [iOS only]">
         Passwords are saved to Password Manager on this device only.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_IN_USE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR or credit card scanner but the camera is in use by another application. [Length: 140em] [iOS only]">
-        uwu chromium can't use your camera because it's in use by another application
+        Uwu Browser can't use your camera because it's in use by another application
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_DETAIL" desc="Body of modal dialog shown when the user tries to open the QR or credit card scanner but the application lacks permission to use the camera. The text instructs the user how to change the permissions setting. [Length: 140em] [iOS only]">
-        Open Settings &gt; Privacy &gt; Camera &gt; uwu chromium and turn on the camera.
+        Open Settings &gt; Privacy &gt; Camera &gt; Uwu Browser and turn on the camera.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE" desc="Title of modal dialog shown when the user tries to open the QR or Credit Card scanner but the application lacks permission to use the camera. The body of this dialog instructs the user how to change the permissions setting. [Length: 50em] [iOS only]">
-        Start using uwu chromium scanner
+        Start using Uwu Browser scanner
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE_GO_TO_SETTINGS" desc="Title of modal dialog shown when the user tries to open the QR or credit card scanner but the application lacks permission to use the camera. [Length: 40em] [iOS only]">
-        Turn on uwu chromium scanner
+        Turn on Uwu Browser scanner
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_UNAVAILABLE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR or credit card scanner but the camera is unavailable. [Length: 140em] [iOS only]">
-        uwu chromium can't use your camera right now
+        Uwu Browser can't use your camera right now
       </message>
       <message name="IDS_IOS_SCANNER_MULTIPLE_FOREGROUND_APPS_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR or credit card scanner in a Split View mode, when the camera is unavailable. [Length: 140em] [iOS only]">
-        uwu chromium can't use your camera in Split View mode
+        Uwu Browser can't use your camera in Split View mode
       </message>
       <message name="IDS_IOS_SETTINGS_ADD_PASSWORD_FOOTER" desc="Disclaimer telling users what will happen to their passwords">
         Your password will be saved in your Account (<ph name="EMAIL">$1<ex>example@gmail.com</ex></ph>).
@@ -1106,258 +1106,258 @@ For more settings that use data to improve your uwu chromium experience, go to <
         Your password will be saved to Password Manager for <ph name="EMAIL">$1<ex>example@gmail.com</ex></ph>.
       </message>
       <message name="IDS_IOS_SETTINGS_DEFAULT_BROWSER_PASSIVE_CARD_SUBTITLE" desc="Subtitle of the passive Default Browser card settings row. [iOS only]">
-        You can use uwu chromium any time you tap links in messages, documents and other apps
+        You can use Uwu Browser any time you tap links in messages, documents and other apps
       </message>
       <message name="IDS_IOS_SETTINGS_DEFAULT_BROWSER_PASSIVE_CARD_TITLE" desc="Title of the passive Default Browser card settings row. [iOS only]">
-        Make uwu chromium your default browser
+        Make Uwu Browser your default browser
       </message>
       <message name="IDS_IOS_SETTINGS_DEFAULT_BROWSER_PASSIVE_CELL_SUBTITLE" desc="Subtitle of the passive Default Browser cell settings row. [iOS only]">
-        Open links faster when you set uwu chromium as default
+        Open links faster when you set Uwu Browser as default
       </message>
       <message name="IDS_IOS_SETTINGS_DEFAULT_BROWSER_PASSIVE_CELL_TITLE" desc="Title of the passive Default Browser cell settings row. [iOS only]">
-        Set uwu chromium as default
+        Set Uwu Browser as default
       </message>
       <message name="IDS_IOS_SETTINGS_IN_OVERFLOW_MENU_IPH_TEXT" desc="An in product help message to inform the user that they can find Settings in the overflow menu.">
-        You can find uwu chromium settings and more here
+        You can find Uwu Browser settings and more here
       </message>
       <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_4" desc="Text of the row indicating the fourth step of full instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
-        4. Select uwu chromium
+        4. Select Uwu Browser
       </message>
       <message name="IDS_IOS_SETTINGS_PASSWORDS_PASSKEYS_IN_OTHER_APPS_SHORTENED_STEP_2" desc="Text of the row indicating the second step of shortened instruction of turning on iOS AutoFill from password manager [iOS only]">
-        Toggle uwu chromium
+        Toggle Uwu Browser
       </message>
       <message name="IDS_IOS_SETTINGS_PASSWORDS_PASSKEYS_IN_OTHER_APPS_SUBTITLE" desc="The subtitle of the view that teaches users to turn on iOS AutoFill from Chromium password manager [iOS Only]">
-        Sign in faster with uwu chromium autofill
+        Sign in faster with Uwu Browser autofill
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_MAGIC_STACK_PAGE_HEADER" desc="Informational header at the top of the safety check page when opened via the Magic Stack">
-        uwu chromium automatically runs Safety Check every day to keep you safe from data breaches, unsafe websites and more. You can find more about Safety Check in Settings.
+        Uwu Browser automatically runs Safety Check every day to keep you safe from data breaches, unsafe websites and more. You can find more about Safety Check in Settings.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_PAGE_HEADER" desc="Informational header at the top of the safety check page">
-        uwu chromium can help keep you safe from data breaches, unsafe websites and more.
+        Uwu Browser can help keep you safe from data breaches, unsafe websites and more.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_CHANNEL_BETA_DESC" desc="Description text for when the app is on Beta and unable to run the check">
-        Not supported on uwu chromium Beta
+        Not supported on Uwu Browser Beta
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_CHANNEL_CANARY_DESC" desc="Description text for when the app is on Canary and unable to run the check">
-        Not supported on uwu chromium Canary
+        Not supported on Uwu Browser Canary
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_DESCRIPTION" desc="Description text on the update element describing what the update check does.">
-        Keep uwu chromium up to date
+        Keep Uwu Browser up to date
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_ERROR_DESC" desc="Description text for when updates can't be checked because there was an issue with the check">
-        uwu chromium can't check for updates
+        Uwu Browser can't check for updates
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_ERROR_INFO" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="An error occurred while performing the update check.">
-        uwu chromium couldn't check for updates. Try again later.
+        Uwu Browser couldn't check for updates. Try again later.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OFFLINE_DESC" desc="Description text for when updates can't be checked because the user is offline">
-        Offline, uwu chromium can't check for updates
+        Offline, Uwu Browser can't check for updates
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OFFLINE_INFO" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The user has no internet connection and can't check for updates.">
-        uwu chromium couldn't check for updates. Try checking your internet connection.
+        Uwu Browser couldn't check for updates. Try checking your internet connection.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OUT_OF_DATE_DESC" desc="Description text for when Chromium is out of date">
-        uwu chromium is out of date
+        Uwu Browser is out of date
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UNABLE_DESC" desc="Description text for when the device is not able to update to the newest version">
-        uwu chromium can't update
+        Uwu Browser can't update
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UNABLE_INFO" desc="Text inside popover which is shown when the user wants to see detailed information about the error. [iOS only]" meaning="The device is not able to update to the newest version.">
-        uwu chromium is out of date. If no update is available in the <ph name="BEGIN_LINK">BEGIN_LINK</ph>App Store<ph name="END_LINK">END_LINK</ph>, it's possible that your device doesn't support new versions of uwu chromium anymore.
+        Uwu Browser is out of date. If no update is available in the <ph name="BEGIN_LINK">BEGIN_LINK</ph>App Store<ph name="END_LINK">END_LINK</ph>, it's possible that your device doesn't support new versions of Uwu Browser anymore.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UP_TO_DATE_DESC" desc="Description text for when Chromium is up to date">
-        uwu chromium is up to date
+        Uwu Browser is up to date
       </message>
       <message name="IDS_IOS_SETTINGS_SIGNIN_DISABLED_POPOVER_TEXT" desc="This text is shown when sign-in is disabled by policy and the user taps on the info pop-over of the 'Sign in to Chromium' button in the settings. [iOS only]">
-        Your organization requires you to stay signed out of uwu chromium.
+        Your organization requires you to stay signed out of Uwu Browser.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_ALL_SET_DESCRIPTION" desc="Description for the Set Up List item that tells the user they have completed all tasks.">
-        You'll now get the most out of uwu chromium on your device.
+        You'll now get the most out of Uwu Browser on your device.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_AUTOFILL_DESCRIPTION" desc="Description for the Set Up List item that encourages the user to set up Chromium's autofill settings.">
-        Access your uwu chromium passwords and more across other apps on this device.
+        Access your Uwu Browser passwords and more across other apps on this device.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_AUTOFILL_MAGIC_STACK_DESCRIPTION" desc="Description for the Set Up List item in the Magic Stack that encourages the user to set up Chromium's autofill settings.">
-        Access your uwu chromium passwords and more across other apps.
+        Access your Uwu Browser passwords and more across other apps.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_AUTOFILL_TITLE" desc="Title for the Set Up List item that encourages the user to set up Chromium's autofill settings.">
-        Use uwu chromium for Autofill
+        Use Uwu Browser for Autofill
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DEFAULT_BROWSER_DESCRIPTION" desc="Description for the Set Up List item that encourages the user to set Chromium as their default browser.">
-        Use uwu chromium anytime you tap links in messages, documents, and other apps.
+        Use Uwu Browser anytime you tap links in messages, documents, and other apps.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DEFAULT_BROWSER_MAGIC_STACK_DESCRIPTION" desc="Description for the Set Up List item in the Magic Stack that encourages the user to set Chromium as their default browser.">
-        Use uwu chromium anytime you tap links in messages and other apps.
+        Use Uwu Browser anytime you tap links in messages and other apps.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DEFAULT_BROWSER_SEE_MORE_DESCRIPTION" desc="Description for the Set Up List item in the See More modal that encourages the user to set Chromium as their default browser.">
-        Use uwu chromium anytime you tap links in other apps.
+        Use Uwu Browser anytime you tap links in other apps.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DEFAULT_BROWSER_TITLE" desc="Title for the Set Up List item that encourages the user to set Chromium as their default browser.">
-        Use uwu chromium by default
+        Use Uwu Browser by default
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DEFAULT_BROWSER_TITLE_IPAD" desc="Title for the Set Up List item that encourages the user to set Chrome as their default browser.">
-        Use uwu chromium on iPad by Default
+        Use Uwu Browser on iPad by Default
       </message>
       <message name="IDS_IOS_SET_UP_LIST_DESCRIPTION" desc="Description for the Set Up List - a list of tasks the user might want to complete when first using Chromium.">
-          Complete these suggested actions below to get the most out of uwu chromium.
+          Complete these suggested actions below to get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_NOTIFICATIONS_DESCRIPTION" desc="Description for the Set Up List item that encourages the user to enable Chrome notifications.">
-        Keep up with price tracking updates and uwu chromium tips.
+        Keep up with price tracking updates and Uwu Browser tips.
       </message>
       <message name="IDS_IOS_SET_UP_LIST_NOTIFICATIONS_SHORT_DESCRIPTION" desc="Description for the Set Up List item that encourages the user to enable Chrome notifications.">
-        Keep up with helpful uwu chromium tips and more.
+        Keep up with helpful Uwu Browser tips and more.
       </message>
       <message name="IDS_IOS_SHORT_PRODUCT_NAME" desc="The Chrome application short name.">
-        uwu chromium
+        Uwu Browser
       </message>
       <message name="IDS_IOS_SIGNIN_ACCOUNT_NOTIFICATION_TITLE" desc="Notification title for the user's signed-in state [iOS only]">
-      Signed in to uwu chromium
+      Signed in to Uwu Browser
       </message>
       <message name="IDS_IOS_SIGNIN_GROUP_COLLABORATION_SUBTITLE" desc="Subtitle displayed to the user when they attempt to access a shared group while being signed out.">
-        Sign in to uwu chromium to share and join tab groups, and work together on ideas
+        Sign in to Uwu Browser to share and join tab groups, and work together on ideas
       </message>
       <message name="IDS_IOS_SIGNIN_SHEET_LABEL_FOR_WEB_SIGNIN" desc="This string is on a sign-in page, after the user taps to sign in to a website with their Google Account. It offers to sign the user in to both the website and to Chromium with the account. It highlights the overarching user benefit of signing in to Chromium (access to data from other devices like bookmarks, passwords, history, settings, etc.). We want users to understand why signing in is beneficial, and click 'Continue as name' to sign in to their Google Account. The tone should be informative and lightweight. [iOS only]">
-        Sign in to this site and uwu chromium to get your bookmarks and more on all your devices.
+        Sign in to this site and Uwu Browser to get your bookmarks and more on all your devices.
       </message>
       <message name="IDS_IOS_SIGNOUT_DIALOG_MESSAGE_WITH_BOOKMARKS_LIMIT_EXCEEDED" desc="Body of a dialog shown to users when they sign out of Chrome but Chrome hasn't synced some data yet, which is permanently deleted if the user proceeds.  [iOS only].">
-        You reached uwu chromium's limit of <ph name="LIMIT">$1<ex>100,000</ex></ph> bookmarks, so some of your bookmarks haven’t been saved in your Google Account yet.
+        You reached Uwu Browser's limit of <ph name="LIMIT">$1<ex>100,000</ex></ph> bookmarks, so some of your bookmarks haven’t been saved in your Google Account yet.
 
 New bookmarks can’t be saved in your account until you delete some. If you sign out now, unsaved bookmarks will be deleted.
       </message>
       <message name="IDS_IOS_SIGNOUT_DIALOG_MESSAGE_WITH_NOT_SAVED_DATA" desc="Body of a dialog shown to users when they sign out of Chrome but Chrome hasn't synced some data yet, which is permanently deleted if the user proceeds.  [iOS only].">
-        Some of your uwu chromium data hasn't been saved in your Google Account yet.
+        Some of your Uwu Browser data hasn't been saved in your Google Account yet.
 Try waiting a few minutes before signing out. If you sign out now, this data will be deleted.
       </message>
       <message name="IDS_IOS_SIGNOUT_DIALOG_TITLE_WITH_SYNCING_MANAGED_ACCOUNT" desc="The signout dialog title. This dialog is used when the user have a managed account (other than gmail account) [iOS only].">
-        Your account is managed by <ph name="HOSTED_DOMAIN">$1<ex>google.com</ex></ph>, so your uwu chromium data will be cleared from this device
+        Your account is managed by <ph name="HOSTED_DOMAIN">$1<ex>google.com</ex></ph>, so your Uwu Browser data will be cleared from this device
       </message>
       <message name="IDS_IOS_SIGN_IN_TO_CHROME_SETTING_TITLE" meaning="Title" desc="The title for the setting item to Sign in to Chromium [iOS only]">
-        Sign in to uwu chromium
+        Sign in to Uwu Browser
       </message>
       <message name="IDS_IOS_SPOTLIGHT_CHROME_ACTIONS_LABEL" desc="Tag label title displayed for chrome actions spotlight items. [iOS only]">
-        uwu chromium actions
+        Uwu Browser actions
       </message>
       <message name="IDS_IOS_SUGGESTED_STRONG_PASSWORD_HINT_DISPLAYING_EMAIL" desc="Text shown alongside a suggested password to tell user that generated passwords are recorded by chrome. [Length: unlimited] [iOS only]">
         You won't need to remember this password. It will be saved to Password Manager for <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph>
       </message>
       <message name="IDS_IOS_SYNC_DATATYPE_IOS_THEME" desc="The label for the sync switch item to sync iOS themes. [iOS only]">
-        uwu chromium theme for iPhone and iPad
+        Uwu Browser theme for iPhone and iPad
       </message>
       <message name="IDS_IOS_SYNC_ENCRYPTION_PASSPHRASE_HINT_UNO" desc="The information text on how to reset encryption passphrase for sync, shown on the sync encryption settings [Length: 300em] [iOS only]">
         Passphrase encryption doesn’t include payment methods and addresses.
 
-To change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the uwu chromium data in your account<ph name="END_LINK">END_LINK</ph>.
+To change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Uwu Browser data in your account<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_SYNC_ENTER_PASSPHRASE_BODY_WITH_EMAIL" desc="Instructions for the dialog where the user enters the passphrase.">
         Signed in as <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph>.
 
-Your data is encrypted with your passphrase. Enter it to use and save uwu chromium data in your Google Account.
+Your data is encrypted with your passphrase. Enter it to use and save Uwu Browser data in your Google Account.
       </message>
       <message name="IDS_IOS_SYNC_ENTER_PASSPHRASE_BODY_WITH_EMAIL_AND_DATE" desc="Instructions for the dialog where the user enters the passphrase.">
         Signed in as <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph>.
 
-Your data was encrypted with your passphrase on <ph name="TIME">$2<ex>Sept 1, 2012</ex></ph>. Enter it to use and save uwu chromium data in your Google Account.
+Your data was encrypted with your passphrase on <ph name="TIME">$2<ex>Sept 1, 2012</ex></ph>. Enter it to use and save Uwu Browser data in your Google Account.
       </message>
       <message name="IDS_IOS_SYNC_LOGIN_INFO_OUT_OF_DATE_WITH_UNO" desc="Body of a message that is shown certain error states, such as when account was removed in another app or the password was changed. This string follows the heading &quot;Verify it's you&quot;, and we want the user to tap on the button &quot;Verify&quot;. We are asking the user to sign back in to their Google Account, so that the user can sign back into Chrome and resume access to their Chrome data (such as bookmarks, passwords, history, settings, and more). The tone should be helpful and instructive.">
-        Keep using the uwu chromium data in your Google Account.
+        Keep using the Uwu Browser data in your Google Account.
       </message>
       <message name="IDS_IOS_SYNC_PASSPHRASE_RECOVER" desc="Message about how to recover from a lost passphrase. [Length:100em, may be multiple lines] [iOS only]">
-        If you forgot your passphrase or want to change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the uwu chromium data in your account<ph name="END_LINK">END_LINK</ph>.
+        If you forgot your passphrase or want to change this setting, <ph name="BEGIN_LINK">BEGIN_LINK</ph>delete the Uwu Browser data in your account<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_TAB_SWITCHER_NO_TABS_TO_SYNC_PROMO" desc="The title of the paragraph IDS_OPEN_TABS_NO_SESSION_INSTRUCTIONS_IOS. The paragraph explains that tabs opened on other devices where the user is signed in will appear here, in the Tab Switcher. [iOS only]">
-        Use uwu chromium everywhere
+        Use Uwu Browser everywhere
       </message>
       <message name="IDS_IOS_TAILORED_SECURITY_CONSENTED_DISABLE_MESSAGE_DESCRIPTION" desc="Description shown in the iOS message when the account tailored security setting changes for a consented primary account">
         You're getting standard security protection on this device
       </message>
       <message name="IDS_IOS_TAILORED_SECURITY_CONSENTED_ENABLE_MESSAGE_DESCRIPTION" desc="Description shown in the iOS message when the account tailored security setting changes for a consented primary account">
-        You have uwu chromium's strongest security against harmful websites
+        You have Uwu Browser's strongest security against harmful websites
       </message>
       <message name="IDS_IOS_TAILORED_SECURITY_UNCONSENTED_ENABLE_MESSAGE_DESCRIPTION" desc="Description shown in the iOS message when the account tailored security setting changes for a consented primary account">
-        Get Enhanced Safe Browsing for this uwu chromium profile, too
+        Get Enhanced Safe Browsing for this Uwu Browser profile, too
       </message>
       <message name="IDS_IOS_TIPS_NOTIFICATIONS_SETTINGS_ALERT_SUBTITLE" desc="Subtitle of the alert to enable notifications in the iOS settings for tips.">
-        To get helpful uwu chromium tips, turn on notifications in your iOS settings.
+        To get helpful Uwu Browser tips, turn on notifications in your iOS settings.
       </message>
       <message name="IDS_IOS_TIPS_NOTIFICATION_SETTINGS_FOOTER" desc="Text for the footer of the Chromium Tips toggle in the notification settings page.">
-        Tips on getting the most out of uwu chromium.
+        Tips on getting the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_TOOLS_MENU_USE_CHROME_AS_DEFAULT" desc="The iOS menu item for setting Chrome as the default browser in the overflow menu." meaning="[iOS only] [Length: Unlimited]">
-        Use uwu chromium as Default
+        Use Uwu Browser as Default
       </message>
       <message name="IDS_IOS_TRANSLATE_INFOBAR_NEVER_MESSAGE" desc="Message for the Translate infobar to allow the user to opt out. [Length: 250em]">
-        Would you like uwu chromium to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
+        Would you like Uwu Browser to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
       </message>
       <message name="IDS_IOS_TRANSLATE_SETTING_DESCRIPTION" desc="Description for the Translate setting. [Length: unlimited] [iOS only]">
-        When this feature is turned on, uwu chromium will offer to translate pages written in other languages using Google Translate. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
+        When this feature is turned on, Uwu Browser will offer to translate pages written in other languages using Google Translate. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_UI_BLOCKED_USE_OTHER_WINDOW_DESCRIPTION" desc="Explanatory text that appears when the user has multiple windows open, and one window is showing a dialog that has to be interacted with before any other window can be used. [iOS only]">
-          Finish what you were doing in your other open uwu chromium window.
+          Finish what you were doing in your other open Uwu Browser window.
       </message>
       <message name="IDS_IOS_UNO_UPGRADE_PROMO_SIGNIN_SUBTITLE_SYNC_DISABLED" desc="This string is on a sign-in page, shown several weeks after the user has installed Chrome. It explains the overarching user benefit of signing in (access to bookmarks, passwords, history, settings, etc.). However, we introduce a caveat, because the user has a managed account (such as Enterprise); this means that, depending on their organization's settings, the user might not be able to save all types of data in their Google Account. We want users to understand why signing in is beneficial, and click 'Continue as name' to sign in to their Google Account.">
-        Get the most out of uwu chromium.
+        Get the most out of Uwu Browser.
       </message>
       <message name="IDS_IOS_UPGRADE_AVAILABLE" desc="Text to inform the user of the presence of a new version of the application">
-        uwu chromium just got better! A new version is available.
+        Uwu Browser just got better! A new version is available.
       </message>
       <message name="IDS_IOS_USER_POLICY_NOTIFICATION_NO_SIGNOUT_SUBTITLE" desc="The subtitle of the User Policy notification dialog. [iOS only] [300em]">
-        Your organization, <ph name="DOMAIN">$1<ex>doe.com</ex></ph>, manages the account you're signed in to and how uwu chromium is used.
+        Your organization, <ph name="DOMAIN">$1<ex>doe.com</ex></ph>, manages the account you're signed in to and how Uwu Browser is used.
       </message>
       <message name="IDS_IOS_WHATS_CHROME_TIP_CHROME_DEFAULT_TITLE" desc="Use Chrome By Default title displayed in What's New. [iOS only]">
-        Use uwu chromium by default
+        Use Uwu Browser by default
       </message>
       <message name="IDS_IOS_WHATS_NEW_APP_SETTINGS" desc="Chromium version of Text of the row indicating the step of opening the app settings. [iOS only]">
-        Go to uwu chromium Settings
+        Go to Uwu Browser Settings
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_ACTIONS_TITLE" desc="Chrome Actions title displayed in What's New. [iOS only]">
-        Use uwu chromium actions on iOS
+        Use Uwu Browser actions on iOS
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_SUBTITLE" desc="Use Chrome By Default subtitle displayed in What's New. [iOS only]">
-        You can now use uwu chromium anytime you browse or tap links in messages, documents, and other apps.
+        You can now use Uwu Browser anytime you browse or tap links in messages, documents, and other apps.
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_PASSWORDS_IN_OTHER_APPS_STEP_2" desc="Text of the row indicating the second step of Passwords In Other Apps in What's New. [iOS only]">
-        Select uwu chromium
+        Select Uwu Browser
       </message>
       <message name="IDS_IOS_WHATS_NEW_FEATURE_NEW_MENU_STEP_1" desc="Text of the row indicating the first step of New Menu in What's New. [iOS only]">
-        Open the uwu chromium menu
+        Open the Uwu Browser menu
       </message>
       <message name="IDS_IOS_WHATS_NEW_INCOGNITO_LOCK_STEP_3" desc="Chromium version of Text of the row indicating the third step to turn on Incognito Lock. [iOS only]">
-        Turn on “Lock Incognito tabs when you close uwu chromium.”
+        Turn on “Lock Incognito tabs when you close Uwu Browser.”
       </message>
       <message name="IDS_IOS_WHATS_NEW_INCOGNITO_LOCK_SUBTITLE" desc="Chromium version of Incognito Lock subtitle displayed in What's New. [iOS only]">
-        Lock your Incognito tabs when you leave uwu chromium or switch to a different app.
+        Lock your Incognito tabs when you leave Uwu Browser or switch to a different app.
       </message>
       <message name="IDS_IOS_WHATS_NEW_MINI_MAPS_STEP_2" desc="Chromium version of Text of the row indicating the second step of of the Mini Maps feature. [iOS only]">
-        Tap “View with Google Maps on uwu chromium.”
+        Tap “View with Google Maps on Uwu Browser.”
       </message>
       <message name="IDS_IOS_WHATS_NEW_MINI_MAPS_TITLE" desc="Chromium version of Mini Maps title displayed in What's New. [iOS only]">
-        Maps in uwu chromium
+        Maps in Uwu Browser
       </message>
       <message name="IDS_IOS_WHATS_NEW_SECTION_CHROME_TIP_TITLE" desc="Title of a section in a table view to inform users about a chrome tip.">
-        uwu chromium tip
+        Uwu Browser tip
       </message>
       <message name="IDS_IOS_WIDGET_PROMO_INSTRUCTIONS_STEP_3" desc="Third step of the instructions for the Password Manager widget's installation.">
-        In the Search Widgets box, enter uwu chromium
+        In the Search Widgets box, enter Uwu Browser
       </message>
       <message name="IDS_IOS_WINDOW_COUNT_CHANGE" is_accessibility_with_no_ui="true" desc="VoiceOver text spoken when the count of visible windows changes -- note: this text is only spoken, never displayed on screen">
         {count, plural,
-          =1 {Now showing 1 uwu chromium window}
-          other {Now showing {count} uwu chromium windows}}
+          =1 {Now showing 1 Uwu Browser window}
+          other {Now showing {count} Uwu Browser windows}}
       </message>
       <message name="IDS_IOS_YOUTUBE_INCOGNITO_SHEET_SUBTITLE" desc="Subtitle of the Youtube Incognito Sheet explaining that Chromium automatically opens Youtube Incognito links in Incognito">
-          uwu chromium automatically opens Youtube Incognito links in Incognito.
+          Uwu Browser automatically opens Youtube Incognito links in Incognito.
       </message>
       <message name="IDS_IOS_YOUTUBE_INCOGNITO_SHEET_TITLE" desc="Title of the Youtube Incognito Sheet informing the user that the URL will be opened in Chrome Incognito">
-        You're in uwu chromium Incognito
+        You're in Uwu Browser Incognito
       </message>
       <message name="IDS_IOS_YOUTUBE_INCOGNITO_SNACKBAR_MESSAGE" desc="The message displayed in the left corner of the snackbar">
-          Opened in uwu chromium Incognito
+          Opened in Uwu Browser Incognito
       </message>
       <message name="IDS_SEND_TAB_TO_SELF_NO_TARGET_DEVICE_LABEL" desc="Text shown when a user with no available target devices attempts to use send-tab-to-self.">
-        To send this tab to another device, sign in to uwu chromium there.
+        To send this tab to another device, sign in to Uwu Browser there.
       </message>
       <message name="IDS_SEND_TAB_TO_SELF_SIGN_IN_PROMO_LABEL" desc="Text when a signed out user attempts to use send-tab-to-self, then sees a sign-in promo.">
-        To send this tab to another device, sign in to uwu chromium on both devices.
+        To send this tab to another device, sign in to Uwu Browser on both devices.
       </message>
       </messages>
   </release>

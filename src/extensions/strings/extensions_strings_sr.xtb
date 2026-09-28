@@ -8,7 +8,7 @@
 <translation id="1076698951459398590">Омогући тему</translation>
 <translation id="1135328998467923690">Пакет је неважећи: „<ph name="ERROR_CODE" />“.</translation>
 <translation id="1140871961407805696">Задња</translation>
-<translation id="1171831736360285680"><ph name="PARTNER_NAME" /> је додао додатак који може да промени начин на који uwu chromium функционише.
+<translation id="1171831736360285680"><ph name="PARTNER_NAME" /> је додао додатак који може да промени начин на који Uwu Browser функционише.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="1196338895211115272">Извоз приватног кључа није успео.</translation>
@@ -51,7 +51,7 @@
 <translation id="3144135466825225871">Замена crx датотеке није успела. Проверите да ли се датотека користи.</translation>
 <translation id="3163201441334626963">Непознати производ <ph name="PRODUCT_ID" /> продавца <ph name="VENDOR_ID" /></translation>
 <translation id="3174723475300476613">Организација је блокирала приступ овом додатку.</translation>
-<translation id="3183357154200327217">Други програм на рачунару је додао тему која може да промени начин на који uwu chromium функционише.
+<translation id="3183357154200327217">Други програм на рачунару је додао тему која може да промени начин на који Uwu Browser функционише.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="3242289508736283383">Апликација са атрибутом манифеста „kiosk_only“ мора да се инсталира у режиму киоска у Chrome ОС-у</translation>
@@ -67,7 +67,7 @@
 <translation id="3927932062596804919">Одбиј</translation>
 <translation id="3984413272403535372">Дошло је до грешке приликом потписивања додатка.</translation>
 <translation id="4014432863917027322">Желите ли да поправите „<ph name="EXTENSION_NAME" />“?</translation>
-<translation id="4061696872429826774">Други програм на рачунару је додао додатак који може да промени начин на који uwu chromium функционише.
+<translation id="4061696872429826774">Други програм на рачунару је додао додатак који може да промени начин на који Uwu Browser функционише.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="4094452115117798451">Организација је блокирала приступ овој категорији додатака.</translation>
@@ -100,7 +100,7 @@
 <translation id="5972529113578162692">Администратор овог рачунара захтева да додатак <ph name="EXTENSION_NAME" /> буде инсталиран. Не можете да га деинсталирате.</translation>
 <translation id="6027032947578871493">Непознати производ <ph name="PRODUCT_ID" /> продавца <ph name="VENDOR_NAME" /> (серијски број <ph name="SERIAL_NUMBER" />)</translation>
 <translation id="6068932090455285721"><ph name="PRODUCT_NAME" /> продавца <ph name="VENDOR_ID" /></translation>
-<translation id="6204922163963157461">Други програм на рачунару је додао апликацију која може да промени начин на који uwu chromium функционише.
+<translation id="6204922163963157461">Други програм на рачунару је додао апликацију која може да промени начин на који Uwu Browser функционише.
 
 <ph name="EXTENSION_NAME" /></translation>
 <translation id="6220413761270491930">Грешка при учитавању додатка</translation>

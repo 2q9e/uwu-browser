@@ -11,14 +11,14 @@
           &gt;
           <ph name="PROXIES_TITLE" />
           руу очиж, таны тохиргоог "прокси байхгүй" эсвэл "шууд" гэж тохируулсан эсэхийг шалгана уу.</translation>
-<translation id="275588974610408078">uwu chromium гэмтэл гарсан тухай мэдээлэх боломжгүй.</translation>
+<translation id="275588974610408078">Uwu Browser гэмтэл гарсан тухай мэдээлэх боломжгүй.</translation>
 <translation id="3064346599913645280">Ta Chromium-н аюулгүй хуудсыг харж байна</translation>
-<translation id="3255926992597692024">uwu chromium төлбөрийн хэрэгсэл бөглөх тохиргоог өөрчлөхөөр оролдож байна.</translation>
-<translation id="358997566136285270">uwu chromium лого</translation>
+<translation id="3255926992597692024">Uwu Browser төлбөрийн хэрэгсэл бөглөх тохиргоог өөрчлөхөөр оролдож байна.</translation>
+<translation id="358997566136285270">Uwu Browser лого</translation>
 <translation id="3837584850181228767">Chromium-н зөвлөгөө: Сайжруулсан аюулгүй хөтөч</translation>
-<translation id="4050599136622776556">uwu chromium төлбөрийн хэрэгслийг засахаар оролдож байна.</translation>
-<translation id="4365115785552740256">Chromium-ыг <ph name="BEGIN_LINK_CHROMIUM" />-аас ажиллуулж байна. uwu chromium нь <ph name="END_LINK_CHROMIUM" /> нээлттэй эхийн төсөл болон бусад <ph name="BEGIN_LINK_OSS" /> нээлттэй эхийн программ хангамжийг нээнэ <ph name="END_LINK_OSS" /> .</translation>
-<translation id="4622039161600275920">Энэ хуудсыг uwu chromium блоклосон байна</translation>
+<translation id="4050599136622776556">Uwu Browser төлбөрийн хэрэгслийг засахаар оролдож байна.</translation>
+<translation id="4365115785552740256">Chromium-ыг <ph name="BEGIN_LINK_CHROMIUM" />-аас ажиллуулж байна. Uwu Browser нь <ph name="END_LINK_CHROMIUM" /> нээлттэй эхийн төсөл болон бусад <ph name="BEGIN_LINK_OSS" /> нээлттэй эхийн программ хангамжийг нээнэ <ph name="END_LINK_OSS" /> .</translation>
+<translation id="4622039161600275920">Энэ хуудсыг Uwu Browser блоклосон байна</translation>
 <translation id="48558539577516920">Chromium-г галт хана эсвэл вирусны эсрэг программын тохиргоонд хандахыг 
        зөвшөөрөх.</translation>
 <translation id="4949828774841497663">Аппликейшн &gt; Системийн толхиргоо &gt; Сүлжээ рүү очиж,
@@ -36,11 +36,11 @@
           руу очиж, "Тохиргоог автоматаар илрүүлэх" сонголтыг цуцална уу.</translation>
 <translation id="648062525172759633">Эдгээр хуудас Chromium-н хөгжүүлэгчдийн ашиглалтад зориулагдсан бөгөөд идэвхтэйгээр үргэлжлүүлэхгүй эсвэл туршихгүй байж магадгүй. Тэдгээрийг идэвхжүүлэхийн тулд <ph name="BEGIN_LINK" />chrome://chrome-urls<ph name="LINK_END" /> руу шилжиж, хуудаснуудыг дебаг хийхийг идэвхжүүлэхийн тулд товчин дээр товшиж, дараа нь энэ хуудас руу дахин шилжинэ үү.</translation>
 <translation id="6549378540556750549">Chromium-г мөн <ph name="BEGIN_LINK_OSS" />нээлттэй эх кодтой бусад программ хангамжаар<ph name="END_LINK_OSS" /> боломжтой болгосон.</translation>
-<translation id="6613594504749178791">Таныг uwu chromium дахин эхлүүлэхэд өөрчлөлт идэвхжинэ.</translation>
+<translation id="6613594504749178791">Таныг Uwu Browser дахин эхлүүлэхэд өөрчлөлт идэвхжинэ.</translation>
 <translation id="691026815377248078">Үргэлжлүүлэн хослуулахын тулд Chromium-д Bluetooth-н 
  хандалт шаардлагатай. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">Chromium-г мөн <ph name="BEGIN_LINK_CHROMIUM" />Chromium-н<ph name="END_LINK_CHROMIUM" /> нээлттэй эх кодын төслөөр боломжтой болгосон.</translation>
-<translation id="7861509383340276692">uwu chromium цэс&gt; рүү орж
+<translation id="7861509383340276692">Uwu Browser цэс&gt; рүү орж
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />

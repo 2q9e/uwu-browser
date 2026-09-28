@@ -3,561 +3,561 @@
 <translationbundle lang="en-GB">
 <translation id="1026101648481255140">Resume installation</translation>
 <translation id="1029669172902658969">Relaunch to update &amp;Chromium OS</translation>
-<translation id="1040916596585577953">uwu chromium recommends that you review this extension</translation>
+<translation id="1040916596585577953">Uwu Browser recommends that you review this extension</translation>
 <translation id="1042552502243217427">When a site asks to privately preload links on their page, Chrome uses Google servers. This hides your identity from the preloaded site, but Google learns what sites get preloaded.</translation>
 <translation id="1051793555070215510">Help us improve Incognito by taking this 1-minute survey.</translation>
 <translation id="1065672644894730302">Your preferences cannot be read.
 
 Some features may be unavailable and changes to preferences won't be saved.</translation>
-<translation id="1083934481477628225">Your parent has turned off 'Permissions for sites, apps and extensions' for uwu chromium.</translation>
-<translation id="1090946077924227754">To search a specific uwu chromium feature or extension, type its shortcut in the address bar, followed by your selected keyboard key</translation>
-<translation id="1098493699368672217">Show search with uwu chromium in system tray and turn on keyboard shortcut</translation>
-<translation id="1104942323762546749">uwu chromium wants to export your passwords. Type your Windows password to allow this.</translation>
+<translation id="1083934481477628225">Your parent has turned off 'Permissions for sites, apps and extensions' for Uwu Browser.</translation>
+<translation id="1090946077924227754">To search a specific Uwu Browser feature or extension, type its shortcut in the address bar, followed by your selected keyboard key</translation>
+<translation id="1098493699368672217">Show search with Uwu Browser in system tray and turn on keyboard shortcut</translation>
+<translation id="1104942323762546749">Uwu Browser wants to export your passwords. Type your Windows password to allow this.</translation>
 <translation id="112640046208448578">Identify things or places and copy or translate text. When you use image search, a screenshot of the page is sent to the server. <ph name="LEARN_MORE" /></translation>
-<translation id="113122355610423240">uwu chromium is your default browser</translation>
-<translation id="1131805035311359397">To check if your passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK" />sign in to uwu chromium<ph name="END_LINK" />.</translation>
-<translation id="1153368717515616349">Click the uwu chromium menu</translation>
+<translation id="113122355610423240">Uwu Browser is your default browser</translation>
+<translation id="1131805035311359397">To check if your passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK" />sign in to Uwu Browser<ph name="END_LINK" />.</translation>
+<translation id="1153368717515616349">Click the Uwu Browser menu</translation>
 <translation id="1157985233335035034">Recent languages</translation>
 <translation id="1184145431117212167">Installation failed because your version of Windows is not supported.</translation>
-<translation id="1185134272377778587">About uwu chromium</translation>
-<translation id="1186645291482254714">Get price tracking alerts with uwu chromium on your phone</translation>
+<translation id="1185134272377778587">About Uwu Browser</translation>
+<translation id="1186645291482254714">Get price tracking alerts with Uwu Browser on your phone</translation>
 <translation id="1203500561924088507">Thanks for installing. You must restart your browser before using <ph name="BUNDLE_NAME" />.</translation>
 <translation id="1232234696885483911">When you open Image Search, the page title, URL and content, including PDFs, will be sent to the server automatically. <ph name="LEARN_MORE" /></translation>
-<translation id="123265588161106468">While you're signed in, you can use your passwords and more from your Google Account in uwu chromium. To change this, go to 'Your account in uwu chromium'.</translation>
-<translation id="1244381985120794049">Show Gemini in uwu chromium in Mac menu bar</translation>
-<translation id="1257483544893909270">To select part of the screen in Gemini in uwu chromium, use keyboard shortcut.</translation>
-<translation id="1262876892872089030">While this tab was inactive, memory was freed up to keep uwu chromium fast. You can choose to always exclude this site from being inactive.</translation>
-<translation id="1265577313130862557">uwu chromium blocked this download because the file is dangerous</translation>
-<translation id="126567311906253476">When signing in to Google services like Gmail or YouTube with <ph name="USER_EMAIL" />, you can automatically sign in to uwu chromium with the same account</translation>
-<translation id="1287534462498555020">Get uwu chromium on your phone</translation>
+<translation id="123265588161106468">While you're signed in, you can use your passwords and more from your Google Account in Uwu Browser. To change this, go to 'Your account in Uwu Browser'.</translation>
+<translation id="1244381985120794049">Show Gemini in Uwu Browser in Mac menu bar</translation>
+<translation id="1257483544893909270">To select part of the screen in Gemini in Uwu Browser, use keyboard shortcut.</translation>
+<translation id="1262876892872089030">While this tab was inactive, memory was freed up to keep Uwu Browser fast. You can choose to always exclude this site from being inactive.</translation>
+<translation id="1265577313130862557">Uwu Browser blocked this download because the file is dangerous</translation>
+<translation id="126567311906253476">When signing in to Google services like Gmail or YouTube with <ph name="USER_EMAIL" />, you can automatically sign in to Uwu Browser with the same account</translation>
+<translation id="1287534462498555020">Get Uwu Browser on your phone</translation>
 <translation id="1290883685122687410">Setup error: <ph name="METAINSTALLER_EXIT_CODE" />. <ph name="WINDOWS_ERROR" /></translation>
-<translation id="1315551408014407711">Set up your new uwu chromium profile</translation>
-<translation id="132092532143527429">Try with Gemini in uwu chromium</translation>
-<translation id="1324107359134968521">uwu chromium needs Bluetooth access to explore 
+<translation id="1315551408014407711">Set up your new Uwu Browser profile</translation>
+<translation id="132092532143527429">Try with Gemini in Uwu Browser</translation>
+<translation id="1324107359134968521">Uwu Browser needs Bluetooth access to explore 
  Bluetooth devices. <ph name="IDS_SERIAL_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="1329040302064168406">Sign in to uwu chromium on your phone</translation>
+<translation id="1329040302064168406">Sign in to Uwu Browser on your phone</translation>
 <translation id="1330562121671411446">Detect language</translation>
-<translation id="1342274909142618978">Also delete data from uwu chromium (<ph name="URL" />)</translation>
+<translation id="1342274909142618978">Also delete data from Uwu Browser (<ph name="URL" />)</translation>
 <translation id="1345251407431278948">Pinned! You can access image search again from the new button on the toolbar</translation>
 <translation id="1383876407941801731">Search</translation>
-<translation id="1388276868779258475">Use the uwu chromium app to keep browsing on the go</translation>
+<translation id="1388276868779258475">Use the Uwu Browser app to keep browsing on the go</translation>
 <translation id="141901961143729572">Share your thoughts</translation>
-<translation id="1465192221147974788">To share your window, allow screen recording for uwu chromium in System Settings.</translation>
+<translation id="1465192221147974788">To share your window, allow screen recording for Uwu Browser in System Settings.</translation>
 <translation id="1478370723027452770">Get help with Chrome for testing</translation>
 <translation id="1497802159252041924">Install error: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1518627427551567882">This page is protected</translation>
-<translation id="1524282610922162960">Share a uwu chromium tab</translation>
-<translation id="154404805518949443">Sign in to uwu chromium</translation>
+<translation id="1524282610922162960">Share a Uwu Browser tab</translation>
+<translation id="154404805518949443">Sign in to Uwu Browser</translation>
 <translation id="1547469039832541117">Ends the highlighted task.</translation>
-<translation id="1562320819937089394">Pin uwu chromium</translation>
-<translation id="1574377791422810894">uwu chromium's safety tools</translation>
-<translation id="1594928384848033697">uwu chromium wants to delete your Password Manager data. Type in your Windows password to allow this.</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Your administrator requires that you relaunch uwu chromium to apply an update}=1{Your administrator requires that you relaunch uwu chromium to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch uwu chromium to apply an update. Your # Incognito windows won't reopen.}}</translation>
-<translation id="1623563412065267963">Get the best of Google with the uwu chromium app on your phone</translation>
-<translation id="1625909126243026060">Review key privacy and security controls in uwu chromium</translation>
+<translation id="1562320819937089394">Pin Uwu Browser</translation>
+<translation id="1574377791422810894">Uwu Browser's safety tools</translation>
+<translation id="1594928384848033697">Uwu Browser wants to delete your Password Manager data. Type in your Windows password to allow this.</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Your administrator requires that you relaunch Uwu Browser to apply an update}=1{Your administrator requires that you relaunch Uwu Browser to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch Uwu Browser to apply an update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="1623563412065267963">Get the best of Google with the Uwu Browser app on your phone</translation>
+<translation id="1625909126243026060">Review key privacy and security controls in Uwu Browser</translation>
 <translation id="1640672724030957280">Downloading ...</translation>
 <translation id="1665602916345474427">Signed in as <ph name="USER_NAME" />, <ph name="USER_EMAIL" />, membership. Open the account menu</translation>
-<translation id="1708414395296835197">You can use uwu chromium any time that you click links in messages, documents and other apps. It will also be pinned to your taskbar.</translation>
+<translation id="1708414395296835197">You can use Uwu Browser any time that you click links in messages, documents and other apps. It will also be pinned to your taskbar.</translation>
 <translation id="1709772298389099340">Provides elevated privileges for <ph name="BROWSER_NAME" />.</translation>
 <translation id="1722488837206509557">This will allow you to select from available devices and display content on them.</translation>
-<translation id="1733725117201708356">uwu chromium will soon delete browsing data</translation>
-<translation id="1736443181683099871">uwu chromium will try to upgrade navigations to HTTPS</translation>
-<translation id="1736662517232558588">Cleared uwu chromium Data</translation>
-<translation id="1745121272106313518">uwu chromium will restart in <ph name="REMAINING_TIME" /></translation>
-<translation id="1749104137266986751">When HTTPS isn't available, uwu chromium will use an insecure connection without warning you</translation>
-<translation id="1774152462503052664">Let uwu chromium run in the background</translation>
-<translation id="1779356040007214683">To make uwu chromium safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
-<translation id="1793486931176048546">Click <ph name="BEGIN_BOLD" />Yes<ph name="END_BOLD" /> in the Windows notification to pin uwu chromium to your taskbar for quick access.</translation>
-<translation id="1808667845054772817">Reinstall uwu chromium</translation>
-<translation id="1820835682567584003">uwu chromium is trying to <ph name="AUTHENTICATION_PURPOSE" /></translation>
-<translation id="1828328511398219809"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your extensions and more from <ph name="DEVICE" />.</translation>
-<translation id="183031085822326697">Next time you open uwu chromium on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
+<translation id="1733725117201708356">Uwu Browser will soon delete browsing data</translation>
+<translation id="1736443181683099871">Uwu Browser will try to upgrade navigations to HTTPS</translation>
+<translation id="1736662517232558588">Cleared Uwu Browser Data</translation>
+<translation id="1745121272106313518">Uwu Browser will restart in <ph name="REMAINING_TIME" /></translation>
+<translation id="1749104137266986751">When HTTPS isn't available, Uwu Browser will use an insecure connection without warning you</translation>
+<translation id="1774152462503052664">Let Uwu Browser run in the background</translation>
+<translation id="1779356040007214683">To make Uwu Browser safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
+<translation id="1793486931176048546">Click <ph name="BEGIN_BOLD" />Yes<ph name="END_BOLD" /> in the Windows notification to pin Uwu Browser to your taskbar for quick access.</translation>
+<translation id="1808667845054772817">Reinstall Uwu Browser</translation>
+<translation id="1820835682567584003">Uwu Browser is trying to <ph name="AUTHENTICATION_PURPOSE" /></translation>
+<translation id="1828328511398219809"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your extensions and more from <ph name="DEVICE" />.</translation>
+<translation id="183031085822326697">Next time you open Uwu Browser on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
 <translation id="1838374766361614909">Clear search</translation>
-<translation id="18552579716432081">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of uwu chromium<ph name="END_LINK" />.</translation>
-<translation id="1857749206890802997">Download uwu chromium on your phone to open or create new tab groups on the go.</translation>
-<translation id="185970820835152459">You can manage your signed-in Google Accounts. Your Google Accounts are used for uwu chromium browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new person to your <ph name="DEVICE_TYPE" /> instead. <ph name="LINK_BEGIN" />Learn more<ph name="LINK_END" /></translation>
+<translation id="18552579716432081">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of Uwu Browser<ph name="END_LINK" />.</translation>
+<translation id="1857749206890802997">Download Uwu Browser on your phone to open or create new tab groups on the go.</translation>
+<translation id="185970820835152459">You can manage your signed-in Google Accounts. Your Google Accounts are used for Uwu Browser browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new person to your <ph name="DEVICE_TYPE" /> instead. <ph name="LINK_BEGIN" />Learn more<ph name="LINK_END" /></translation>
 <translation id="1862852878885210965">Search with image search</translation>
-<translation id="1863837059069884561"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your bookmarks and more from <ph name="DEVICE" />.</translation>
+<translation id="1863837059069884561"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your bookmarks and more from <ph name="DEVICE" />.</translation>
 <translation id="1880677175115548835">Select text</translation>
-<translation id="1881322772814446296">You are signing in with a managed account and giving its administrator control over your uwu chromium profile. Your uwu chromium data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing uwu chromium data separate. <ph name="LEARN_MORE" /></translation>
-<translation id="1896836275755235458">uwu chromium conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates. <ph name="BEGIN_LINK" />Learn more about Energy Saver<ph name="END_LINK" /></translation>
-<translation id="1900969832270057921">uwu chromium updater service</translation>
-<translation id="1911763535808217981">By turning this off, you can sign in to Google sites such as Gmail, without signing in to uwu chromium</translation>
-<translation id="1929939181775079593">uwu chromium is unresponsive. Relaunch now?</translation>
-<translation id="1933341829955786215">Your organisation, <ph name="MANAGER" />, requires you to sign in to uwu chromium</translation>
+<translation id="1881322772814446296">You are signing in with a managed account and giving its administrator control over your Uwu Browser profile. Your Uwu Browser data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing Uwu Browser data separate. <ph name="LEARN_MORE" /></translation>
+<translation id="1896836275755235458">Uwu Browser conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates. <ph name="BEGIN_LINK" />Learn more about Energy Saver<ph name="END_LINK" /></translation>
+<translation id="1900969832270057921">Uwu Browser updater service</translation>
+<translation id="1911763535808217981">By turning this off, you can sign in to Google sites such as Gmail, without signing in to Uwu Browser</translation>
+<translation id="1929939181775079593">Uwu Browser is unresponsive. Relaunch now?</translation>
+<translation id="1933341829955786215">Your organisation, <ph name="MANAGER" />, requires you to sign in to Uwu Browser</translation>
 <translation id="193439633299369377">Chromium OS needs to be restarted to apply the update.</translation>
-<translation id="1951406923938785464">uwu chromium blocked this download because the file type isn't commonly downloaded and it may be dangerous</translation>
+<translation id="1951406923938785464">Uwu Browser blocked this download because the file type isn't commonly downloaded and it may be dangerous</translation>
 <translation id="1953553007165777902">Downloading… <ph name="MINUTE" /> minute(s) remaining</translation>
-<translation id="1966382378801805537">uwu chromium cannot determine or set the default browser</translation>
+<translation id="1966382378801805537">Uwu Browser cannot determine or set the default browser</translation>
 <translation id="197326043290947695">Browse smarter with image search</translation>
-<translation id="1990262977744080398">Learn why uwu chromium blocks some files, opens in new tab</translation>
-<translation id="1999715455684970349">Keeps your uwu chromium software up to date. If this service is disabled or stopped, your uwu chromium software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no uwu chromium software using it.</translation>
-<translation id="2008474315282236005">This will delete 1 item from this device. To retrieve your data later, sign in to uwu chromium as <ph name="USER_EMAIL" />.</translation>
+<translation id="1990262977744080398">Learn why Uwu Browser blocks some files, opens in new tab</translation>
+<translation id="1999715455684970349">Keeps your Uwu Browser software up to date. If this service is disabled or stopped, your Uwu Browser software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Uwu Browser software using it.</translation>
+<translation id="2008474315282236005">This will delete 1 item from this device. To retrieve your data later, sign in to Uwu Browser as <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Installation failed. Please try again.</translation>
 <translation id="2039417478970545937">Settings.</translation>
-<translation id="2049376729098081731">Choose whether to include uwu chromium history for more personalised experiences in Google services</translation>
-<translation id="2050698962207788467">Built into uwu chromium to help you create, save and autofill strong passwords. Add the shortcut for easy access.</translation>
-<translation id="2064856577282482477">Click the Customise uwu chromium button on the new tab page to give uwu chromium a new look</translation>
-<translation id="2086476982681781442">uwu chromium blocked this download because the file is deceptive and may make unexpected changes to your device</translation>
-<translation id="208726765006323911">You'll see a prompt to try <ph name="FEATURE_NAME" /> next time you open uwu chromium iOS.</translation>
-<translation id="2099452623287920103">Your passwords and other uwu chromium data that you saved in your Google Account will be removed from this device. To use them again in uwu chromium, sign back in.</translation>
-<translation id="2120965832000301375">{COUNT,plural, =1{Your organisation deletes browsing data automatically when uwu chromium isn't used for one minute. This could include history, autofill and downloads. Your tabs will stay open.}other{Your organisation deletes browsing data automatically when uwu chromium isn't used for # minutes. This could include history, autofill and downloads. Your tabs will stay open.}}</translation>
+<translation id="2049376729098081731">Choose whether to include Uwu Browser history for more personalised experiences in Google services</translation>
+<translation id="2050698962207788467">Built into Uwu Browser to help you create, save and autofill strong passwords. Add the shortcut for easy access.</translation>
+<translation id="2064856577282482477">Click the Customise Uwu Browser button on the new tab page to give Uwu Browser a new look</translation>
+<translation id="2086476982681781442">Uwu Browser blocked this download because the file is deceptive and may make unexpected changes to your device</translation>
+<translation id="208726765006323911">You'll see a prompt to try <ph name="FEATURE_NAME" /> next time you open Uwu Browser iOS.</translation>
+<translation id="2099452623287920103">Your passwords and other Uwu Browser data that you saved in your Google Account will be removed from this device. To use them again in Uwu Browser, sign back in.</translation>
+<translation id="2120965832000301375">{COUNT,plural, =1{Your organisation deletes browsing data automatically when Uwu Browser isn't used for one minute. This could include history, autofill and downloads. Your tabs will stay open.}other{Your organisation deletes browsing data automatically when Uwu Browser isn't used for # minutes. This could include history, autofill and downloads. Your tabs will stay open.}}</translation>
 <translation id="2125838419757773031">Select region of screen to search</translation>
 <translation id="2126108037660393668">The downloaded file failed verification.</translation>
 <translation id="2135919691573380097">Report this site</translation>
 <translation id="2137162749895930932">Close translate screen</translation>
-<translation id="215352261310130060">uwu chromium blocked this download because the site isn't using a secure connection and the file may have been tampered with</translation>
+<translation id="215352261310130060">Uwu Browser blocked this download because the site isn't using a secure connection and the file may have been tampered with</translation>
 <translation id="2170098639895543546">Select anything on page</translation>
-<translation id="2174178932569897599">Customise uwu chromium</translation>
+<translation id="2174178932569897599">Customise Uwu Browser</translation>
 <translation id="2174917724755363426">Installation is not complete. Are you sure that you want to cancel?</translation>
-<translation id="2185166961232948079">uwu chromium – Network sign-in – <ph name="PAGE_TITLE" /></translation>
+<translation id="2185166961232948079">Uwu Browser – Network sign-in – <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Update check error: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2199210295479376551">Remove account from uwu chromium</translation>
-<translation id="2201788217099588893">Use the uwu chromium app to take the best shopping tools on the go</translation>
-<translation id="2210502920229141283">Stay safer on the go with Enhanced Safe Browsing on uwu chromium for iOS</translation>
-<translation id="2210682093923538346">Dangerous site. uwu chromium removed notifications.</translation>
+<translation id="2199210295479376551">Remove account from Uwu Browser</translation>
+<translation id="2201788217099588893">Use the Uwu Browser app to take the best shopping tools on the go</translation>
+<translation id="2210502920229141283">Stay safer on the go with Enhanced Safe Browsing on Uwu Browser for iOS</translation>
+<translation id="2210682093923538346">Dangerous site. Uwu Browser removed notifications.</translation>
 <translation id="2236949375853147973">My Activity</translation>
-<translation id="2238130810669087193">To get your addresses and more on all your devices, sign in to uwu chromium. This address will be saved in your Google Account after you sign in.</translation>
-<translation id="2241627712206172106">If you share a computer, friends and family can browse separately and set up uwu chromium just the way they want.</translation>
-<translation id="22571759390241347">Skills in uwu chromium</translation>
+<translation id="2238130810669087193">To get your addresses and more on all your devices, sign in to Uwu Browser. This address will be saved in your Google Account after you sign in.</translation>
+<translation id="2241627712206172106">If you share a computer, friends and family can browse separately and set up Uwu Browser just the way they want.</translation>
+<translation id="22571759390241347">Skills in Uwu Browser</translation>
 <translation id="2283803047247799269">Search this tab with image search</translation>
-<translation id="2287771843518581140">{NUM_TABS,plural, =1{uwu chromium recommends pausing the tab that's slowing your browser}other{uwu chromium recommends pausing the tabs that are slowing your browser}}</translation>
+<translation id="2287771843518581140">{NUM_TABS,plural, =1{Uwu Browser recommends pausing the tab that's slowing your browser}other{Uwu Browser recommends pausing the tabs that are slowing your browser}}</translation>
 <translation id="2307973900865360088">Keep in Dock</translation>
-<translation id="2313870531055795960">Checks URLs with a list of unsafe sites stored in uwu chromium. If a site tries to steal your password, or when you download a harmful file, uwu chromium may also send URLs, including bits of page content, to Safe Browsing.</translation>
+<translation id="2313870531055795960">Checks URLs with a list of unsafe sites stored in Uwu Browser. If a site tries to steal your password, or when you download a harmful file, Uwu Browser may also send URLs, including bits of page content, to Safe Browsing.</translation>
 <translation id="2356070529366658676">Ask</translation>
 <translation id="2359808026110333948">Continue</translation>
-<translation id="2361918034042471035">The extension '<ph name="EXTENSION_NAME" />' wants you to sign in to uwu chromium</translation>
-<translation id="236943522426971115">Disable uwu chromium running in background for apps</translation>
-<translation id="2374216753258219393">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to uwu chromium.</translation>
+<translation id="2361918034042471035">The extension '<ph name="EXTENSION_NAME" />' wants you to sign in to Uwu Browser</translation>
+<translation id="236943522426971115">Disable Uwu Browser running in background for apps</translation>
+<translation id="2374216753258219393">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to Uwu Browser.</translation>
 <translation id="2384373936468275798">Chromium OS could not sync your data because your account sign-in details are out of date.</translation>
-<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 HID device was being accessed by one or more uwu chromium extensions}=1{1 HID device is being accessed by one or more uwu chromium extensions}other{# HID devices are being accessed by one or more uwu chromium extensions}}</translation>
-<translation id="2401032172288869980">uwu chromium needs camera and microphone permissions for this site</translation>
+<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 HID device was being accessed by one or more Uwu Browser extensions}=1{1 HID device is being accessed by one or more Uwu Browser extensions}other{# HID devices are being accessed by one or more Uwu Browser extensions}}</translation>
+<translation id="2401032172288869980">Uwu Browser needs camera and microphone permissions for this site</translation>
 <translation id="2403703063067034158">Startup error: Another instance of setup is currently running, please try again later.</translation>
-<translation id="2418322681019544463">Open links in uwu chromium from any app and keep the browser accessible on your taskbar</translation>
-<translation id="2425157128016763890">Click the Summarise button to share this document with Gemini in uwu chromium to get a quick overview and ask follow-up questions</translation>
-<translation id="2440750600860946460">With <ph name="BEGIN_LINK" />tools from uwu chromium<ph name="END_LINK" />, you can browse safely and stay in control</translation>
-<translation id="2449487342837813167"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your passwords and more on all your devices.</translation>
+<translation id="2418322681019544463">Open links in Uwu Browser from any app and keep the browser accessible on your taskbar</translation>
+<translation id="2425157128016763890">Click the Summarise button to share this document with Gemini in Uwu Browser to get a quick overview and ask follow-up questions</translation>
+<translation id="2440750600860946460">With <ph name="BEGIN_LINK" />tools from Uwu Browser<ph name="END_LINK" />, you can browse safely and stay in control</translation>
+<translation id="2449487342837813167"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your passwords and more on all your devices.</translation>
 <translation id="2451727308784734061">Use your shortcut to quickly get to the Password Manager. You can move your shortcut to your computer's home screen or app launcher.</translation>
-<translation id="2478295928299953161">uwu chromium will soon close</translation>
-<translation id="2483889755041906834">In uwu chromium</translation>
+<translation id="2478295928299953161">Uwu Browser will soon close</translation>
+<translation id="2483889755041906834">In Uwu Browser</translation>
 <translation id="2485422356828889247">Uninstall</translation>
 <translation id="2513154137948333830">Reboot required: <ph name="INSTALL_SUCCESS" /></translation>
 <translation id="2542968102051442371">Select text with image search</translation>
-<translation id="2554739539410784893">uwu chromium is trying to replace existing passwords. Type in your Windows password to allow this.</translation>
-<translation id="2560420686485554789">uwu chromium needs storage access to download files</translation>
-<translation id="2572494885440352020">uwu chromium Helper</translation>
+<translation id="2554739539410784893">Uwu Browser is trying to replace existing passwords. Type in your Windows password to allow this.</translation>
+<translation id="2560420686485554789">Uwu Browser needs storage access to download files</translation>
+<translation id="2572494885440352020">Uwu Browser Helper</translation>
 <translation id="2575822587468774919">Select anything to search with image search</translation>
-<translation id="2576118232315942160">To get your passwords and more on all your devices, sign in to uwu chromium</translation>
-<translation id="2587622539943955767">Scan the QR code with your phone to download uwu chromium and sign in to your Google Account.</translation>
-<translation id="2587885422541096572">to search with uwu chromium.</translation>
-<translation id="2592940277904433508">Continue using uwu chromium</translation>
+<translation id="2576118232315942160">To get your passwords and more on all your devices, sign in to Uwu Browser</translation>
+<translation id="2587622539943955767">Scan the QR code with your phone to download Uwu Browser and sign in to your Google Account.</translation>
+<translation id="2587885422541096572">to search with Uwu Browser.</translation>
+<translation id="2592940277904433508">Continue using Uwu Browser</translation>
 <translation id="259935314519650377">Failed to cache the downloaded installer. Error: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
 <translation id="2620436844016719705">System</translation>
-<translation id="2629740064077610681">Your organisation can see and manage browsing data, such as your bookmarks, history and passwords. It can't see browsing data in other uwu chromium profiles</translation>
-<translation id="2635452620547538388">Verify that it's you to use and save uwu chromium data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="2637732208198500597">{COUNT,plural, =0{Advanced Protection requires that you relaunch uwu chromium to apply an update}=1{Advanced Protection requires that you relaunch uwu chromium to apply an update. Your Incognito window won't reopen.}other{Advanced Protection requires that you relaunch uwu chromium to apply an update. Your # Incognito windows won't reopen.}}</translation>
-<translation id="263863604136125912">Start uwu chromium</translation>
-<translation id="2648074677641340862">An operating system error occurred during installation. Please download uwu chromium again.</translation>
-<translation id="2661879430930417727">If you share a device, friends and family can browse separately and set up uwu chromium just the way they want</translation>
-<translation id="2676569452213089702">Easy access to use Gemini in uwu chromium across your device, even if uwu chromium is minimised.</translation>
-<translation id="2711502716910134313">uwu chromium Tab</translation>
-<translation id="2718390899429598676">For added security, uwu chromium will encrypt your data.</translation>
-<translation id="2721354645805494590">To remove your Google Account from uwu chromium, sign out</translation>
-<translation id="2722636413143664436">To get your passwords, bookmarks and more on all your devices, sign in to uwu chromium</translation>
+<translation id="2629740064077610681">Your organisation can see and manage browsing data, such as your bookmarks, history and passwords. It can't see browsing data in other Uwu Browser profiles</translation>
+<translation id="2635452620547538388">Verify that it's you to use and save Uwu Browser data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="2637732208198500597">{COUNT,plural, =0{Advanced Protection requires that you relaunch Uwu Browser to apply an update}=1{Advanced Protection requires that you relaunch Uwu Browser to apply an update. Your Incognito window won't reopen.}other{Advanced Protection requires that you relaunch Uwu Browser to apply an update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="263863604136125912">Start Uwu Browser</translation>
+<translation id="2648074677641340862">An operating system error occurred during installation. Please download Uwu Browser again.</translation>
+<translation id="2661879430930417727">If you share a device, friends and family can browse separately and set up Uwu Browser just the way they want</translation>
+<translation id="2676569452213089702">Easy access to use Gemini in Uwu Browser across your device, even if Uwu Browser is minimised.</translation>
+<translation id="2711502716910134313">Uwu Browser Tab</translation>
+<translation id="2718390899429598676">For added security, Uwu Browser will encrypt your data.</translation>
+<translation id="2721354645805494590">To remove your Google Account from Uwu Browser, sign out</translation>
+<translation id="2722636413143664436">To get your passwords, bookmarks and more on all your devices, sign in to Uwu Browser</translation>
 <translation id="2738871930057338499">Unable to connect to the Internet. HTTP 403 Forbidden. Please check your proxy configuration.</translation>
 <translation id="2753623023919742414">Click to search</translation>
-<translation id="2768103863314748511">Set uwu chromium as your default PDF viewer</translation>
-<translation id="2785438272836277133">This extension contains malware and is unsafe. Remove it from uwu chromium so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
+<translation id="2768103863314748511">Set Uwu Browser as your default PDF viewer</translation>
+<translation id="2785438272836277133">This extension contains malware and is unsafe. Remove it from Uwu Browser so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
 <translation id="2799223571221894425">Relaunch</translation>
-<translation id="2803971713792056305">Your uwu chromium</translation>
+<translation id="2803971713792056305">Your Uwu Browser</translation>
 <translation id="2816462166102338036">Search this video with image search</translation>
-<translation id="282591729717417030">Discover products with your camera, track price drops and more on the go with uwu chromium on iOS.</translation>
+<translation id="282591729717417030">Discover products with your camera, track price drops and more on the go with Uwu Browser on iOS.</translation>
 <translation id="2841525013647267359">Translate from</translation>
 <translation id="2846251086934905009">Install error: The installer did not complete. The installation has been aborted.</translation>
-<translation id="2847479871509788944">Remove from uwu chromium...</translation>
-<translation id="2850691299438350830">Keeps you safe on uwu chromium and may be used to improve your security in other Google apps when you are signed in</translation>
+<translation id="2847479871509788944">Remove from Uwu Browser...</translation>
+<translation id="2850691299438350830">Keeps you safe on Uwu Browser and may be used to improve your security in other Google apps when you are signed in</translation>
 <translation id="2885378588091291677">Task manager</translation>
-<translation id="2910007522516064972">About &amp;uwu chromium</translation>
+<translation id="2910007522516064972">About &amp;Uwu Browser</translation>
 <translation id="2915996080311180594">Restart later</translation>
-<translation id="2933336679234709858">Your data is encrypted with your passphrase. Enter it to use and save uwu chromium data in your Google Account.</translation>
+<translation id="2933336679234709858">Your data is encrypted with your passphrase. Enter it to use and save Uwu Browser data in your Google Account.</translation>
 <translation id="2945997411976714835">Install error: The installer process failed to start.</translation>
-<translation id="2948852018303413228">Sign in faster to sites using saved passwords for uwu chromium on iOS</translation>
-<translation id="2970426615109535079">Your organisation manages uwu chromium</translation>
-<translation id="2977470724722393594">uwu chromium is up to date</translation>
-<translation id="2977506796191543575">If a site tries to steal your password, or when you download a harmful file, uwu chromium may also send URLs, including bits of page content, to Safe Browsing</translation>
-<translation id="2981563588585023386">To stay safer online with your parent's choices, sign in to uwu chromium</translation>
+<translation id="2948852018303413228">Sign in faster to sites using saved passwords for Uwu Browser on iOS</translation>
+<translation id="2970426615109535079">Your organisation manages Uwu Browser</translation>
+<translation id="2977470724722393594">Uwu Browser is up to date</translation>
+<translation id="2977506796191543575">If a site tries to steal your password, or when you download a harmful file, Uwu Browser may also send URLs, including bits of page content, to Safe Browsing</translation>
+<translation id="2981563588585023386">To stay safer online with your parent's choices, sign in to Uwu Browser</translation>
 <translation id="3003694935412297923">All tasks</translation>
-<translation id="3012615494352020668">{count,plural, =1{uwu chromium needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data (1 item) will be deleted.}other{uwu chromium needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data ({count} items) will be deleted.}}</translation>
-<translation id="3013473503895162900">Open <ph name="URL" /> in a new tab in uwu chromium.</translation>
-<translation id="302551344979399011">AI innovations like skills are saved to your Google Account and managed separately from uwu chromium sync</translation>
-<translation id="3032787606318309379">Adding to uwu chromium ...</translation>
+<translation id="3012615494352020668">{count,plural, =1{Uwu Browser needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data (1 item) will be deleted.}other{Uwu Browser needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data ({count} items) will be deleted.}}</translation>
+<translation id="3013473503895162900">Open <ph name="URL" /> in a new tab in Uwu Browser.</translation>
+<translation id="302551344979399011">AI innovations like skills are saved to your Google Account and managed separately from Uwu Browser sync</translation>
+<translation id="3032787606318309379">Adding to Uwu Browser ...</translation>
 <translation id="3038232873781883849">Waiting to install…</translation>
 <translation id="3045032126857188731">Translated language: <ph name="LANGUAGE" /></translation>
 <translation id="3047590466164881923">Close feedback dialogue</translation>
-<translation id="3064717200427679322"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your reading list and more from <ph name="DEVICE" />.</translation>
-<translation id="3068187312562070417">Other uwu chromium profiles</translation>
-<translation id="3068290154869370196">Extensions are add-ons that let you customise uwu chromium. From staying organised to simplifying everyday tasks, extensions help you make uwu chromium your own.</translation>
-<translation id="3068515742935458733">Help make uwu chromium better by sending crash reports and <ph name="UMA_LINK" /> to Google</translation>
-<translation id="3071024987058544609">Use the uwu chromium app to take the safety of Google on the go</translation>
-<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{1 USB device was being accessed by one or more uwu chromium extensions}=1{1 USB device is being accessed by one or more uwu chromium extensions}other{# USB devices are being accessed by one or more uwu chromium extensions}}</translation>
-<translation id="3095811995836568724">uwu chromium history</translation>
-<translation id="3103660991484857065">The installer failed to uncompress archive. Please download uwu chromium again.</translation>
+<translation id="3064717200427679322"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your reading list and more from <ph name="DEVICE" />.</translation>
+<translation id="3068187312562070417">Other Uwu Browser profiles</translation>
+<translation id="3068290154869370196">Extensions are add-ons that let you customise Uwu Browser. From staying organised to simplifying everyday tasks, extensions help you make Uwu Browser your own.</translation>
+<translation id="3068515742935458733">Help make Uwu Browser better by sending crash reports and <ph name="UMA_LINK" /> to Google</translation>
+<translation id="3071024987058544609">Use the Uwu Browser app to take the safety of Google on the go</translation>
+<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{1 USB device was being accessed by one or more Uwu Browser extensions}=1{1 USB device is being accessed by one or more Uwu Browser extensions}other{# USB devices are being accessed by one or more Uwu Browser extensions}}</translation>
+<translation id="3095811995836568724">Uwu Browser history</translation>
+<translation id="3103660991484857065">The installer failed to uncompress archive. Please download Uwu Browser again.</translation>
 <translation id="310459126943037700">Failed to end task(s).</translation>
 <translation id="3104828284009500087">Search anything on page</translation>
-<translation id="3126784891977756556">Keep your passwords, bookmarks and history perfectly synced across devices. Easily access the features that you know and love by updating your default browser to uwu chromium.</translation>
-<translation id="3130323860337406239">uwu chromium is using your microphone.</translation>
+<translation id="3126784891977756556">Keep your passwords, bookmarks and history perfectly synced across devices. Easily access the features that you know and love by updating your default browser to Uwu Browser.</translation>
+<translation id="3130323860337406239">Uwu Browser is using your microphone.</translation>
 <translation id="3130333203120345554">New search</translation>
 <translation id="3137969841538672700">Drag to search</translation>
-<translation id="3144188012276422546">This tab is using extra resources. To improve your performance, let uwu chromium make it inactive.</translation>
-<translation id="3149163023759831301">To share your screen, allow screen recording for uwu chromium in System Settings</translation>
-<translation id="3155163173539279776">Relaunch uwu chromium</translation>
+<translation id="3144188012276422546">This tab is using extra resources. To improve your performance, let Uwu Browser make it inactive.</translation>
+<translation id="3149163023759831301">To share your screen, allow screen recording for Uwu Browser in System Settings</translation>
+<translation id="3155163173539279776">Relaunch Uwu Browser</translation>
 <translation id="3161522574479303604">All languages</translation>
-<translation id="3179665906251668410">Open Link in uwu chromium Inco&amp;gnito Window</translation>
-<translation id="3185330573522821672">Customise your new uwu chromium profile</translation>
-<translation id="3189205223539394158">You can keep chatting with AI Mode without switching tabs. To get started, sign in to uwu chromium. You'll also get your passwords and more on all your devices.</translation>
-<translation id="3224847870593914902">To remove your Google Account from uwu chromium, sign out of uwu chromium in the Settings page</translation>
-<translation id="3234316605225071811">Later, uwu chromium can ask if you want to use saved info to autofill forms for you</translation>
-<translation id="3258596308407688501">uwu chromium cannot read and write to its data directory:
+<translation id="3179665906251668410">Open Link in Uwu Browser Inco&amp;gnito Window</translation>
+<translation id="3185330573522821672">Customise your new Uwu Browser profile</translation>
+<translation id="3189205223539394158">You can keep chatting with AI Mode without switching tabs. To get started, sign in to Uwu Browser. You'll also get your passwords and more on all your devices.</translation>
+<translation id="3224847870593914902">To remove your Google Account from Uwu Browser, sign out of Uwu Browser in the Settings page</translation>
+<translation id="3234316605225071811">Later, Uwu Browser can ask if you want to use saved info to autofill forms for you</translation>
+<translation id="3258596308407688501">Uwu Browser cannot read and write to its data directory:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3263249950597659484">Take your favourite Google AI tools on the go with uwu chromium on iOS.</translation>
+<translation id="3263249950597659484">Take your favourite Google AI tools on the go with Uwu Browser on iOS.</translation>
 <translation id="3286538390144397061">Restart Now</translation>
-<translation id="328888136576916638">Google API keys are missing. Some functionality of uwu chromium will be disabled.</translation>
-<translation id="3296368748942286671">Continue running background apps when uwu chromium is closed</translation>
-<translation id="3313189106987092621">uwu chromium will warn you before loading any site using an insecure connection</translation>
-<translation id="3316771292331273802">You'll be signed out of most sites when you close all uwu chromium windows, except your Google Account if you're signed in to uwu chromium. To let sites remember you, <ph name="SETTINGS_LINK" />.</translation>
+<translation id="328888136576916638">Google API keys are missing. Some functionality of Uwu Browser will be disabled.</translation>
+<translation id="3296368748942286671">Continue running background apps when Uwu Browser is closed</translation>
+<translation id="3313189106987092621">Uwu Browser will warn you before loading any site using an insecure connection</translation>
+<translation id="3316771292331273802">You'll be signed out of most sites when you close all Uwu Browser windows, except your Google Account if you're signed in to Uwu Browser. To let sites remember you, <ph name="SETTINGS_LINK" />.</translation>
 <translation id="3352986031709923790">top-right corner of search area: right <ph name="RIGHT" />%, top <ph name="TOP" />%</translation>
-<translation id="3366305173356742781">uwu chromium data in your account</translation>
-<translation id="3375770072980084583">Use your passwords with uwu chromium on your phone</translation>
+<translation id="3366305173356742781">Uwu Browser data in your account</translation>
+<translation id="3375770072980084583">Use your passwords with Uwu Browser on your phone</translation>
 <translation id="3387527074123400161">Chromium OS</translation>
-<translation id="3406848076815591792">Switch to existing uwu chromium profile?</translation>
+<translation id="3406848076815591792">Switch to existing Uwu Browser profile?</translation>
 <translation id="3412460710772753638">In Password Manager on this device</translation>
 <translation id="3438772217992559640">Search this tab with image search</translation>
-<translation id="3455907671758333080">Extend Enhanced Safe Browsing with uwu chromium on your phone</translation>
-<translation id="3461644266919055473">Making uwu chromium yours…</translation>
-<translation id="3474745554856756813">This will delete <ph name="ITEMS_COUNT" /> items from this device. To retrieve your data later, sign in to uwu chromium as <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931"><ph name="SHORTCUT" /> can switch between uwu chromium profiles</translation>
-<translation id="3509308970982693815">Please close all uwu chromium windows and try again.</translation>
-<translation id="3522404737534491619">To share your window, allow screen recording for uwu chromium in System Settings</translation>
-<translation id="3530103706039034513"><ph name="EXISTING_USER" /> is already signed in.  To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="3531741627422851418">QR code to download uwu chromium browser on mobile devices</translation>
+<translation id="3455907671758333080">Extend Enhanced Safe Browsing with Uwu Browser on your phone</translation>
+<translation id="3461644266919055473">Making Uwu Browser yours…</translation>
+<translation id="3474745554856756813">This will delete <ph name="ITEMS_COUNT" /> items from this device. To retrieve your data later, sign in to Uwu Browser as <ph name="USER_EMAIL" />.</translation>
+<translation id="3497319089134299931"><ph name="SHORTCUT" /> can switch between Uwu Browser profiles</translation>
+<translation id="3509308970982693815">Please close all Uwu Browser windows and try again.</translation>
+<translation id="3522404737534491619">To share your window, allow screen recording for Uwu Browser in System Settings</translation>
+<translation id="3530103706039034513"><ph name="EXISTING_USER" /> is already signed in.  To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="3531741627422851418">QR code to download Uwu Browser browser on mobile devices</translation>
 <translation id="354621070532799440">Reminder: Google's best safety features in your pocket</translation>
-<translation id="3561853857681580870">To share your screen, allow screen recording for uwu chromium in System Settings.</translation>
-<translation id="3588112919289558122">Enhanced protection turns off JavaScript optimisation for sites that uwu chromium doesn't recognise</translation>
+<translation id="3561853857681580870">To share your screen, allow screen recording for Uwu Browser in System Settings.</translation>
+<translation id="3588112919289558122">Enhanced protection turns off JavaScript optimisation for sites that Uwu Browser doesn't recognise</translation>
 <translation id="3597003331831379823">Failed to run setup with elevated privileges. <ph name="METAINSTALLER_ERROR" /></translation>
-<translation id="3600428265489994557">Sign in to uwu chromium</translation>
-<translation id="3639635944603682591">This person's browsing data will be deleted from this device. To recover the data, sign in to uwu chromium as <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{A new update for uwu chromium is available and will be applied as soon as you relaunch.}=1{A new update for uwu chromium is available and will be applied as soon as you relaunch. Your Incognito window won't reopen.}other{A new update for uwu chromium is available and will be applied as soon as you relaunch. Your # Incognito windows won't reopen.}}</translation>
+<translation id="3600428265489994557">Sign in to Uwu Browser</translation>
+<translation id="3639635944603682591">This person's browsing data will be deleted from this device. To recover the data, sign in to Uwu Browser as <ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{A new update for Uwu Browser is available and will be applied as soon as you relaunch.}=1{A new update for Uwu Browser is available and will be applied as soon as you relaunch. Your Incognito window won't reopen.}other{A new update for Uwu Browser is available and will be applied as soon as you relaunch. Your # Incognito windows won't reopen.}}</translation>
 <translation id="3667616615096815454">Unable to install, the application is unknown to the server.</translation>
-<translation id="3675854891107786059">Use your <ph name="BEGIN_LINK" />own passphrase<ph name="END_LINK" /> to encrypt all the uwu chromium data in your Google Account. Payment methods and addresses from Google Pay won't be encrypted. Browsing history from uwu chromium won't sync.</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Your administrator asks that you relaunch uwu chromium to apply this update}=1{Your administrator asks that you relaunch uwu chromium to apply this update. Your Incognito window won't reopen.}other{Your administrator asks that you relaunch uwu chromium to apply this update. Your # Incognito windows won't reopen.}}</translation>
-<translation id="3713809861844741608">Open link in new uwu chromium &amp;tab</translation>
-<translation id="3728124580182886854">Link uwu chromium and other Google services for personalisation and other purposes</translation>
+<translation id="3675854891107786059">Use your <ph name="BEGIN_LINK" />own passphrase<ph name="END_LINK" /> to encrypt all the Uwu Browser data in your Google Account. Payment methods and addresses from Google Pay won't be encrypted. Browsing history from Uwu Browser won't sync.</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{Your administrator asks that you relaunch Uwu Browser to apply this update}=1{Your administrator asks that you relaunch Uwu Browser to apply this update. Your Incognito window won't reopen.}other{Your administrator asks that you relaunch Uwu Browser to apply this update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="3713809861844741608">Open link in new Uwu Browser &amp;tab</translation>
+<translation id="3728124580182886854">Link Uwu Browser and other Google services for personalisation and other purposes</translation>
 <translation id="3729187154190517324">Deepen your search by adding multiple tabs, files and tools using the 'Add a tab and more' button.</translation>
-<translation id="3788675262216168505">Manage uwu chromium profiles</translation>
-<translation id="3790262771324122253">Learn why uwu chromium blocks some downloads</translation>
-<translation id="379589255253486813">uwu chromium will let you know if anything needs your review</translation>
+<translation id="3788675262216168505">Manage Uwu Browser profiles</translation>
+<translation id="3790262771324122253">Learn why Uwu Browser blocks some downloads</translation>
+<translation id="379589255253486813">Uwu Browser will let you know if anything needs your review</translation>
 <translation id="3802055581630249637">Chrome preloads pages you're likely to visit, so that they load more quickly when you visit them</translation>
 <translation id="3810973564298564668">Manage</translation>
-<translation id="3823384748599722168">To use your saved passwords, follow the QR code, download uwu chromium for iOS and sign in to your Google Account</translation>
+<translation id="3823384748599722168">To use your saved passwords, follow the QR code, download Uwu Browser for iOS and sign in to your Google Account</translation>
 <translation id="3846683726093018685">**Summarise:** In a single sentence under 30 words, describe the primary subject and purpose of the content in the screenshot.
 
           **Suggest questions:** Generate a bulleted list of 3–5 thought-provoking questions a user could ask to better understand the screenshot. These questions should include at least one that is specifically about a visual object, its design or its placement.</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - uwu chromium</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Uwu Browser</translation>
 <translation id="3885770153807205175">Language picker</translation>
-<translation id="388648406173476553">Customise and control uwu chromium. Something needs your attention – click for details.</translation>
-<translation id="3889543394854987837">Click your name to open uwu chromium and start browsing.</translation>
+<translation id="388648406173476553">Customise and control Uwu Browser. Something needs your attention – click for details.</translation>
+<translation id="3889543394854987837">Click your name to open Uwu Browser and start browsing.</translation>
 <translation id="3892148308691398805">Copy text</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> is already signed in to this uwu chromium profile. To keep your browsing separate, uwu chromium can create your own profile for you.</translation>
-<translation id="3909353120217047026">This extension violates the Chrome Web Store policy and might be unsafe. Remove it from uwu chromium so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
+<translation id="390528597099634151"><ph name="EXISTING_USER" /> is already signed in to this Uwu Browser profile. To keep your browsing separate, Uwu Browser can create your own profile for you.</translation>
+<translation id="3909353120217047026">This extension violates the Chrome Web Store policy and might be unsafe. Remove it from Uwu Browser so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
 <translation id="3941890832296813527">Install error: The installer filename is invalid or unsupported.</translation>
-<translation id="3945058413678539331">uwu chromium is trying to copy passwords. Type your Windows password to allow this.</translation>
-<translation id="3954172517175569325">Your passwords, payment methods and addresses that you saved in your Google Account will be removed from this device. To use them again in uwu chromium, sign back in.</translation>
+<translation id="3945058413678539331">Uwu Browser is trying to copy passwords. Type your Windows password to allow this.</translation>
+<translation id="3954172517175569325">Your passwords, payment methods and addresses that you saved in your Google Account will be removed from this device. To use them again in Uwu Browser, sign back in.</translation>
 <translation id="395904275706073188">Protected pages can't be read. Try a different page.</translation>
-<translation id="3962647064319009959">Learn how uwu chromium keeps you safe</translation>
+<translation id="3962647064319009959">Learn how Uwu Browser keeps you safe</translation>
 <translation id="3967822245660637423">Download complete</translation>
-<translation id="3971865010372729242">When you type in the address bar or search box, uwu chromium sends what you type to your organisation's search, AI and agent tools to get suggestions.</translation>
+<translation id="3971865010372729242">When you type in the address bar or search box, Uwu Browser sends what you type to your organisation's search, AI and agent tools to get suggestions.</translation>
 <translation id="3975724895399328945">About Google Chrome for testing</translation>
 <translation id="3997429360543082038">About Chromium OS</translation>
-<translation id="4010059961270896984">When you visit a site, uwu chromium sends an obfuscated portion of the URL to <ph name="BEGIN_LINK" />Google Safe Browsing<ph name="END_LINK" /> through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.</translation>
+<translation id="4010059961270896984">When you visit a site, Uwu Browser sends an obfuscated portion of the URL to <ph name="BEGIN_LINK" />Google Safe Browsing<ph name="END_LINK" /> through a privacy server that hides your IP address. If a site does something suspicious, full URLs and bits of page content are also sent.</translation>
 <translation id="4016217212818346953">Stay safe with Password Manager</translation>
 <translation id="4019629340646866719">Chromium OS is made possible by additional <ph name="BEGIN_LINK_CROS_OSS" />open-source software<ph name="END_LINK_CROS_OSS" />, as is <ph name="BEGIN_LINK_LINUX_OSS" />Linux development environment<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4022972681110646219">Translate screen</translation>
 <translation id="4023601594785368013">Original language: <ph name="LANGUAGE" /></translation>
-<translation id="4023845192681161785">Open links in uwu chromium from any app. Plus for easy access, it gets pinned to your taskbar.</translation>
-<translation id="4036079820698952681">Help make uwu chromium better by reporting the <ph name="BEGIN_LINK" />current settings<ph name="END_LINK" /></translation>
+<translation id="4023845192681161785">Open links in Uwu Browser from any app. Plus for easy access, it gets pinned to your taskbar.</translation>
+<translation id="4036079820698952681">Help make Uwu Browser better by reporting the <ph name="BEGIN_LINK" />current settings<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Important security improvements and new features are available in the latest version.</translation>
 <translation id="4055805654398742145">P&amp;assword Manager</translation>
-<translation id="4095980151185649725">{COUNT,plural, =1{Your organisation closes uwu chromium automatically when it isn't used for one minute. Browsing data is deleted. This could include history, autofill and downloads.}other{Your organisation closes uwu chromium automatically when it isn't used for # minutes. Browsing data is deleted. This could include history, autofill and downloads.}}</translation>
-<translation id="4118474109249235144">uwu chromium Incognito</translation>
-<translation id="4122186850977583290">Go to the About uwu chromium page</translation>
-<translation id="4135244987012252068">Customise uwu chromium to give your browser a new look</translation>
-<translation id="4147856324248078748">Customise your uwu chromium</translation>
+<translation id="4095980151185649725">{COUNT,plural, =1{Your organisation closes Uwu Browser automatically when it isn't used for one minute. Browsing data is deleted. This could include history, autofill and downloads.}other{Your organisation closes Uwu Browser automatically when it isn't used for # minutes. Browsing data is deleted. This could include history, autofill and downloads.}}</translation>
+<translation id="4118474109249235144">Uwu Browser Incognito</translation>
+<translation id="4122186850977583290">Go to the About Uwu Browser page</translation>
+<translation id="4135244987012252068">Customise Uwu Browser to give your browser a new look</translation>
+<translation id="4147856324248078748">Customise your Uwu Browser</translation>
 <translation id="4148957013307229264">Installing...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – Network sign-in – uwu chromium</translation>
-<translation id="4208652172235621272"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your reading list and more on all your devices.</translation>
-<translation id="421369550622382712">Discover great apps, games, extensions and themes for uwu chromium.</translation>
-<translation id="4217080900579554343">To get this extension and more on all your computers, sign in to uwu chromium</translation>
-<translation id="4217972271355023382">To stay safer online with your parent's choices, switch to your uwu chromium profile where you're already signed in as <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – Network sign-in – Uwu Browser</translation>
+<translation id="4208652172235621272"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your reading list and more on all your devices.</translation>
+<translation id="421369550622382712">Discover great apps, games, extensions and themes for Uwu Browser.</translation>
+<translation id="4217080900579554343">To get this extension and more on all your computers, sign in to Uwu Browser</translation>
+<translation id="4217972271355023382">To stay safer online with your parent's choices, switch to your Uwu Browser profile where you're already signed in as <ph name="USER_EMAIL_ADDRESS" /></translation>
 <translation id="4222932583846282852">Cancelling...</translation>
 <translation id="4224210481850767180">The installation has been cancelled.</translation>
-<translation id="4230135487732243613">Link my uwu chromium data to this account</translation>
-<translation id="4251772536351901305">Warns you about dangerous sites, even ones that Google didn't know about before, by analysing more data from sites than standard protection. You can choose to skip uwu chromium warnings.</translation>
-<translation id="4269093074552541569">Sign out of uwu chromium</translation>
-<translation id="4271805377592243930">Get help with uwu chromium</translation>
+<translation id="4230135487732243613">Link my Uwu Browser data to this account</translation>
+<translation id="4251772536351901305">Warns you about dangerous sites, even ones that Google didn't know about before, by analysing more data from sites than standard protection. You can choose to skip Uwu Browser warnings.</translation>
+<translation id="4269093074552541569">Sign out of Uwu Browser</translation>
+<translation id="4271805377592243930">Get help with Uwu Browser</translation>
 <translation id="4275788652681621337">Close side panel</translation>
 <translation id="4281844954008187215">Terms of Service</translation>
 <translation id="4285930937574705105">Installation failed due to unspecified error. If Google Chrome is currently running, please close it and try again.</translation>
-<translation id="4298125729853015961">Export passwords from uwu chromium</translation>
+<translation id="4298125729853015961">Export passwords from Uwu Browser</translation>
 <translation id="4304713468139749426">Password Manager</translation>
 <translation id="4334241893986177674">Search this screenshot</translation>
-<translation id="4384331407722351213">Launch uwu chromium when Windows starts</translation>
+<translation id="4384331407722351213">Launch Uwu Browser when Windows starts</translation>
 <translation id="4400772909124543403">No update is available</translation>
-<translation id="4407044323746248786">Exit uwu chromium anyway?</translation>
+<translation id="4407044323746248786">Exit Uwu Browser anyway?</translation>
 <translation id="4413205837991854510">Always show image search shortcut</translation>
-<translation id="4415566066719264597">Let uwu chromium Run in the Background</translation>
-<translation id="4419831163359812184">{NUM_EXTENSIONS,plural, =1{uwu chromium recommends that you remove it. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" />}other{uwu chromium recommends that you remove them. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" />}}</translation>
-<translation id="4423735387467980091">Customise and control uwu chromium</translation>
+<translation id="4415566066719264597">Let Uwu Browser Run in the Background</translation>
+<translation id="4419831163359812184">{NUM_EXTENSIONS,plural, =1{Uwu Browser recommends that you remove it. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" />}other{Uwu Browser recommends that you remove them. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" />}}</translation>
+<translation id="4423735387467980091">Customise and control Uwu Browser</translation>
 <translation id="4427306783828095590">Enhanced protection does more to block phishing and malware</translation>
 <translation id="4434353761996769206">Installer error: <ph name="INSTALLER_ERROR" /></translation>
-<translation id="4438870983368648614"><ph name="MANAGER" /> manages uwu chromium</translation>
-<translation id="444069871276811466">Add uwu chromium profile</translation>
+<translation id="4438870983368648614"><ph name="MANAGER" /> manages Uwu Browser</translation>
+<translation id="444069871276811466">Add Uwu Browser profile</translation>
 <translation id="4447409407328223819">About Chrome for testing</translation>
-<translation id="4470974262661801543">To use and save uwu chromium data in your Google Account, enter your passphrase</translation>
+<translation id="4470974262661801543">To use and save Uwu Browser data in your Google Account, enter your passphrase</translation>
 <translation id="4493028449971051158">Startup error: Please run the installer as administrator.</translation>
 <translation id="4501471624619070934">Installation failed because access is restricted in this country.</translation>
-<translation id="4510853178268397146">This extension hasn't published privacy practices, such as how it collects and uses data. uwu chromium recommends that you remove it.</translation>
-<translation id="452711251841752011">Welcome to uwu chromium; new browser window opened</translation>
-<translation id="4531137820806573936">uwu chromium needs permission to map your surroundings and track your hands</translation>
-<translation id="4536805923587466102">You're already signed in as <ph name="USER_EMAIL_ADDRESS" /> in another uwu chromium profile</translation>
-<translation id="4548534452171747496">uwu chromium preloads pages which makes browsing and searching faster. <ph name="BEGIN_LINK" />Learn more about preload pages<ph name="END_LINK" /></translation>
+<translation id="4510853178268397146">This extension hasn't published privacy practices, such as how it collects and uses data. Uwu Browser recommends that you remove it.</translation>
+<translation id="452711251841752011">Welcome to Uwu Browser; new browser window opened</translation>
+<translation id="4531137820806573936">Uwu Browser needs permission to map your surroundings and track your hands</translation>
+<translation id="4536805923587466102">You're already signed in as <ph name="USER_EMAIL_ADDRESS" /> in another Uwu Browser profile</translation>
+<translation id="4548534452171747496">Uwu Browser preloads pages which makes browsing and searching faster. <ph name="BEGIN_LINK" />Learn more about preload pages<ph name="END_LINK" /></translation>
 <translation id="4549180975214802957">Improve online safety for everyone when you report a site that you think is harmful.</translation>
-<translation id="4570813286784708942">uwu chromium blocked this download because you turned Safe Browsing off and the file can't be verified</translation>
-<translation id="4583692638088316420">Try Google Lens with uwu chromium on your phone</translation>
+<translation id="4570813286784708942">Uwu Browser blocked this download because you turned Safe Browsing off and the file can't be verified</translation>
+<translation id="4583692638088316420">Try Google Lens with Uwu Browser on your phone</translation>
 <translation id="4594305310729380060">To Password Manager on this device</translation>
-<translation id="459535195905078186">uwu chromium Apps</translation>
+<translation id="459535195905078186">Uwu Browser Apps</translation>
 <translation id="4598116752460667024">Search for any process from the list.</translation>
 <translation id="4613863813562375431">Chromium OS version</translation>
-<translation id="4621240073146040695">Nearly up to date! Relaunch uwu chromium to finish updating.</translation>
-<translation id="4625064703209785397">Speeds up sites with uwu chromium's V8 engine but makes uwu chromium slightly less resistant to attacks</translation>
-<translation id="4626321472657185181">Open Search with uwu chromium</translation>
-<translation id="4654639495249754755">uwu chromium profile</translation>
-<translation id="4665829708273112819">Warning: uwu chromium cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.</translation>
-<translation id="4673151026126227699">If you also share uwu chromium usage reports, those reports include the URLs that you visit</translation>
+<translation id="4621240073146040695">Nearly up to date! Relaunch Uwu Browser to finish updating.</translation>
+<translation id="4625064703209785397">Speeds up sites with Uwu Browser's V8 engine but makes Uwu Browser slightly less resistant to attacks</translation>
+<translation id="4626321472657185181">Open Search with Uwu Browser</translation>
+<translation id="4654639495249754755">Uwu Browser profile</translation>
+<translation id="4665829708273112819">Warning: Uwu Browser cannot prevent extensions from recording your browsing history. To disable this extension in Incognito mode, unselect this option.</translation>
+<translation id="4673151026126227699">If you also share Uwu Browser usage reports, those reports include the URLs that you visit</translation>
 <translation id="4673710618874938871">Signed in as <ph name="USER_NAME" />, membership. Open the account menu</translation>
-<translation id="4677944499843243528">The profile appears to be in use by another uwu chromium process (<ph name="PROCESS_ID" />) on another computer (<ph name="HOST_NAME" />). uwu chromium has locked the profile so that it doesn't get corrupted. If you are sure that no other processes are using this profile, you can unlock the profile and relaunch uwu chromium.</translation>
+<translation id="4677944499843243528">The profile appears to be in use by another Uwu Browser process (<ph name="PROCESS_ID" />) on another computer (<ph name="HOST_NAME" />). Uwu Browser has locked the profile so that it doesn't get corrupted. If you are sure that no other processes are using this profile, you can unlock the profile and relaunch Uwu Browser.</translation>
 <translation id="4680828127924988555">Cancel installation</translation>
-<translation id="469259825538636168">Some of your uwu chromium data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data will be deleted.</translation>
-<translation id="4708193446201257833">While you're signed in, you can use your passwords and more from your Google Account in uwu chromium. <ph name="SHORTCUT" /> can change your Google services settings.</translation>
-<translation id="4708774505295300557">Someone previously signed in to uwu chromium on this computer as <ph name="ACCOUNT_EMAIL_LAST" />. Please create a new uwu chromium user to keep your information separate.</translation>
+<translation id="469259825538636168">Some of your Uwu Browser data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data will be deleted.</translation>
+<translation id="4708193446201257833">While you're signed in, you can use your passwords and more from your Google Account in Uwu Browser. <ph name="SHORTCUT" /> can change your Google services settings.</translation>
+<translation id="4708774505295300557">Someone previously signed in to Uwu Browser on this computer as <ph name="ACCOUNT_EMAIL_LAST" />. Please create a new Uwu Browser user to keep your information separate.</translation>
 <translation id="4724676981607797757">Installation failed because of an unsupported protocol error.</translation>
-<translation id="4746050847053251315">Quit uwu chromium anyway?</translation>
-<translation id="4748217263233248895">A special security update for uwu chromium was just applied. Restart now and we'll restore your tabs.</translation>
-<translation id="4771701986670315895">You haven't visited recently. uwu chromium removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> and <ph name="COUNT" /> more.</translation>
-<translation id="4786083865378785874">If Gemini in uwu chromium is open, the side panel stays open when creating new tabs</translation>
+<translation id="4746050847053251315">Quit Uwu Browser anyway?</translation>
+<translation id="4748217263233248895">A special security update for Uwu Browser was just applied. Restart now and we'll restore your tabs.</translation>
+<translation id="4771701986670315895">You haven't visited recently. Uwu Browser removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" /> and <ph name="COUNT" /> more.</translation>
+<translation id="4786083865378785874">If Gemini in Uwu Browser is open, the side panel stays open when creating new tabs</translation>
 <translation id="479167709087336770">This uses the same spell checker that's used in Google search. Text that you type in the browser is sent to Google. You can always change this behaviour in settings.</translation>
-<translation id="4814736265800133385">Use uwu chromium without an account</translation>
-<translation id="4888717733111232871">Inbound rule for uwu chromium to allow mDNS traffic.</translation>
-<translation id="4893347770495441059">Relaunch to Update &amp;uwu chromium</translation>
+<translation id="4814736265800133385">Use Uwu Browser without an account</translation>
+<translation id="4888717733111232871">Inbound rule for Uwu Browser to allow mDNS traffic.</translation>
+<translation id="4893347770495441059">Relaunch to Update &amp;Uwu Browser</translation>
 <translation id="4918086044614829423">Accept</translation>
 <translation id="4918844574251943176">Image copied</translation>
-<translation id="4943838377383847465">uwu chromium is in background mode.</translation>
-<translation id="494490797786467921">Click to close the uwu chromium sign-in dialogue</translation>
-<translation id="4950660488495335294">With uwu chromium profiles, you can separate all your uwu chromium stuff. Create profiles for friends and family, or split between work and fun.</translation>
-<translation id="4987820182225656817">Guests can use uwu chromium without leaving anything behind.</translation>
-<translation id="4992938037305302429">Your account in uwu chromium</translation>
-<translation id="4994636714258228724">Add yourself to uwu chromium</translation>
+<translation id="4943838377383847465">Uwu Browser is in background mode.</translation>
+<translation id="494490797786467921">Click to close the Uwu Browser sign-in dialogue</translation>
+<translation id="4950660488495335294">With Uwu Browser profiles, you can separate all your Uwu Browser stuff. Create profiles for friends and family, or split between work and fun.</translation>
+<translation id="4987820182225656817">Guests can use Uwu Browser without leaving anything behind.</translation>
+<translation id="4992938037305302429">Your account in Uwu Browser</translation>
+<translation id="4994636714258228724">Add yourself to Uwu Browser</translation>
 <translation id="504699503110800016">Open the overflow menu</translation>
-<translation id="5074496654342756568">Access all of your Google favourites with uwu chromium on your <ph name="DEVICE_TYPE" /></translation>
-<translation id="5123973130450702873">uwu chromium needs permission to track your hands</translation>
-<translation id="5141988424377517949">You haven't visited recently. uwu chromium removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" />, <ph name="PERMISSION_3" />.</translation>
+<translation id="5074496654342756568">Access all of your Google favourites with Uwu Browser on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="5123973130450702873">Uwu Browser needs permission to track your hands</translation>
+<translation id="5141988424377517949">You haven't visited recently. Uwu Browser removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" />, <ph name="PERMISSION_3" />.</translation>
 <translation id="5174969993834422967">You usually block notifications. To let this site notify you, click the notification icon on the right corner of your location bar.</translation>
 <translation id="5174983315706567306">Not enough disk space.</translation>
-<translation id="5187123684706427865">uwu chromium account requires re-authentication</translation>
-<translation id="5223510345050543907">Pick up right where you left off with uwu chromium on iOS.</translation>
-<translation id="5231355151045086930">Sign out of uwu chromium</translation>
+<translation id="5187123684706427865">Uwu Browser account requires re-authentication</translation>
+<translation id="5223510345050543907">Pick up right where you left off with Uwu Browser on iOS.</translation>
+<translation id="5231355151045086930">Sign out of Uwu Browser</translation>
 <translation id="5234764350956374838">Dismiss</translation>
-<translation id="5249261924633168472">Open link in uwu chromium Inco&amp;gnito window</translation>
-<translation id="5276305953263010518">Get the uwu chromium app to save passwords on the go</translation>
-<translation id="5277894862589591112">To apply your changes, relaunch uwu chromium</translation>
+<translation id="5249261924633168472">Open link in Uwu Browser Inco&amp;gnito window</translation>
+<translation id="5276305953263010518">Get the Uwu Browser app to save passwords on the go</translation>
+<translation id="5277894862589591112">To apply your changes, relaunch Uwu Browser</translation>
 <translation id="5286907366254680517">Detected</translation>
-<translation id="5289287148052354622">Get the uwu chromium app</translation>
-<translation id="5294316920224716406">When browsing in Incognito mode, uwu chromium will warn you before loading a site using an insecure connection</translation>
-<translation id="5296581118566748922">Search with uwu chromium</translation>
-<translation id="5313228254328109263">uwu chromium updater internal service</translation>
-<translation id="5324450571874973775">Use them alongside other Gemini features in uwu chromium</translation>
+<translation id="5289287148052354622">Get the Uwu Browser app</translation>
+<translation id="5294316920224716406">When browsing in Incognito mode, Uwu Browser will warn you before loading a site using an insecure connection</translation>
+<translation id="5296581118566748922">Search with Uwu Browser</translation>
+<translation id="5313228254328109263">Uwu Browser updater internal service</translation>
+<translation id="5324450571874973775">Use them alongside other Gemini features in Uwu Browser</translation>
 <translation id="5346389065299425353">Deepen your search by adding multiple tabs, files and tools</translation>
-<translation id="5348677704241861105">Get a quick overview of this document and ask questions with Gemini in uwu chromium</translation>
-<translation id="5352264705793813212">uwu chromium found some safety recommendations for your review</translation>
-<translation id="5352361688875342522">Other uwu chromium profiles</translation>
-<translation id="535243042947607642">ChromiumOS could not save uwu chromium data in your Google Account because your account sign-in details are out of date</translation>
-<translation id="5358375970380395591">You are signing in with a managed account and giving its administrator control over your uwu chromium profile. Your uwu chromium data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. <ph name="LEARN_MORE" /></translation>
+<translation id="5348677704241861105">Get a quick overview of this document and ask questions with Gemini in Uwu Browser</translation>
+<translation id="5352264705793813212">Uwu Browser found some safety recommendations for your review</translation>
+<translation id="5352361688875342522">Other Uwu Browser profiles</translation>
+<translation id="535243042947607642">ChromiumOS could not save Uwu Browser data in your Google Account because your account sign-in details are out of date</translation>
+<translation id="5358375970380395591">You are signing in with a managed account and giving its administrator control over your Uwu Browser profile. Your Uwu Browser data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. <ph name="LEARN_MORE" /></translation>
 <translation id="5368118228313795342">Extra code: <ph name="EXTRA_CODE" />.</translation>
-<translation id="5377622451696208284">To get personalisation, include uwu chromium in Web &amp; App Activity</translation>
-<translation id="5382964351116519680">Open search with uwu chromium</translation>
-<translation id="5383439451358640070">Learn why uwu chromium blocks some files</translation>
-<translation id="5386450000063123300">Updating uwu chromium (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="5387586787134731891"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your extensions and more on all your devices.</translation>
-<translation id="538767207339317086">Allow uwu chromium sign-in</translation>
-<translation id="5405650547142096840">Remove from uwu chromium</translation>
-<translation id="5424544524441439284">Reduces performance but makes uwu chromium more resistant to attacks</translation>
-<translation id="5427571867875391349">Set uwu chromium as your default browser</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – uwu chromium Beta</translation>
-<translation id="5460618461609401056">{NUM_TABS,plural, =1{uwu chromium recommends pausing the tab that's slowing your browser}other{uwu chromium recommends pausing the tabs that are slowing your browser}}</translation>
-<translation id="5473971139929175403">uwu chromium may not function correctly because it is no longer supported on this Linux distribution</translation>
-<translation id="5475924890392386523">uwu chromium blocked this download because the file can harm your personal and social network accounts</translation>
-<translation id="549669000822060376">Please wait while uwu chromium installs the latest system updates.</translation>
-<translation id="5496810170689441661">uwu chromium is trying to edit passwords. Type your Windows password to allow this.</translation>
-<translation id="549975168243349205">Seamlessly work with your favourite apps like Google Drive and YouTube on the go with uwu chromium.</translation>
+<translation id="5377622451696208284">To get personalisation, include Uwu Browser in Web &amp; App Activity</translation>
+<translation id="5382964351116519680">Open search with Uwu Browser</translation>
+<translation id="5383439451358640070">Learn why Uwu Browser blocks some files</translation>
+<translation id="5386450000063123300">Updating Uwu Browser (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="5387586787134731891"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your extensions and more on all your devices.</translation>
+<translation id="538767207339317086">Allow Uwu Browser sign-in</translation>
+<translation id="5405650547142096840">Remove from Uwu Browser</translation>
+<translation id="5424544524441439284">Reduces performance but makes Uwu Browser more resistant to attacks</translation>
+<translation id="5427571867875391349">Set Uwu Browser as your default browser</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Uwu Browser Beta</translation>
+<translation id="5460618461609401056">{NUM_TABS,plural, =1{Uwu Browser recommends pausing the tab that's slowing your browser}other{Uwu Browser recommends pausing the tabs that are slowing your browser}}</translation>
+<translation id="5473971139929175403">Uwu Browser may not function correctly because it is no longer supported on this Linux distribution</translation>
+<translation id="5475924890392386523">Uwu Browser blocked this download because the file can harm your personal and social network accounts</translation>
+<translation id="549669000822060376">Please wait while Uwu Browser installs the latest system updates.</translation>
+<translation id="5496810170689441661">Uwu Browser is trying to edit passwords. Type your Windows password to allow this.</translation>
+<translation id="549975168243349205">Seamlessly work with your favourite apps like Google Drive and YouTube on the go with Uwu Browser.</translation>
 <translation id="5524890928877629608">top-left corner of search area: left <ph name="LEFT" />%, top <ph name="TOP" />%</translation>
-<translation id="5527463683072221100">Open PDFs in uwu chromium</translation>
+<translation id="5527463683072221100">Open PDFs in Uwu Browser</translation>
 <translation id="5536164441519929134">Ask<ph name="LINE_BREAK" />about this tab</translation>
-<translation id="555970465369471303">For security, uwu chromium turns off JavaScript optimisation when you visit a site for the first time.
+<translation id="555970465369471303">For security, Uwu Browser turns off JavaScript optimisation when you visit a site for the first time.
 
 If this page isn't working as expected, try allowing optimisation.</translation>
-<translation id="5575874067957905201">Show Gemini in uwu chromium in Mac menu bar and turn on keyboard shortcut</translation>
-<translation id="5576587363991567745"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your saved info and more from <ph name="DEVICE" />.</translation>
+<translation id="5575874067957905201">Show Gemini in Uwu Browser in Mac menu bar and turn on keyboard shortcut</translation>
+<translation id="5576587363991567745"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your saved info and more from <ph name="DEVICE" />.</translation>
 <translation id="5579324208890605088">Startup error: Please run the installer as a regular user, not as administrator.</translation>
-<translation id="5580770360767802657">Use uwu chromium by default and get it pinned</translation>
+<translation id="5580770360767802657">Use Uwu Browser by default and get it pinned</translation>
 <translation id="5596627076506792578">More options</translation>
 <translation id="5605834417512968703">Select anything to search with image search or press escape to exit image search</translation>
 <translation id="5618818588972826921">Select any text or image to search with image search or press Escape to exit image search</translation>
-<translation id="5623402015214259806">{0,plural, =0{A uwu chromium update is available}=1{A uwu chromium update is available}other{A uwu chromium update has been available for # days}}</translation>
-<translation id="5643865575100044307">Always delete site data from your device when you close uwu chromium</translation>
-<translation id="5653831366781983928">Please restart uwu chromium now</translation>
+<translation id="5623402015214259806">{0,plural, =0{A Uwu Browser update is available}=1{A Uwu Browser update is available}other{A Uwu Browser update has been available for # days}}</translation>
+<translation id="5643865575100044307">Always delete site data from your device when you close Uwu Browser</translation>
+<translation id="5653831366781983928">Please restart Uwu Browser now</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5698481217667032250">Display uwu chromium in this language</translation>
+<translation id="5698481217667032250">Display Uwu Browser in this language</translation>
 <translation id="569897634095159764">Unable to connect to the Internet. Proxy server requires authentication.</translation>
-<translation id="5768371961535086509">uwu chromium frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps uwu chromium fast. Your inactive tabs automatically become active again when you go back to them. <ph name="BEGIN_LINK" />Learn more about Memory Saver<ph name="END_LINK" /></translation>
-<translation id="5775198138441669627">If you forgot your passphrase or want to change this setting, <ph name="SETTINGS_LINK" /> the uwu chromium data in your account</translation>
-<translation id="5800158606660203929">Customise and control uwu chromium. Set uwu chromium as your default.</translation>
-<translation id="5802618941556161431">Keep your passwords, bookmarks and history perfectly synced across devices by setting uwu chromium as your default browser.</translation>
+<translation id="5768371961535086509">Uwu Browser frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Uwu Browser fast. Your inactive tabs automatically become active again when you go back to them. <ph name="BEGIN_LINK" />Learn more about Memory Saver<ph name="END_LINK" /></translation>
+<translation id="5775198138441669627">If you forgot your passphrase or want to change this setting, <ph name="SETTINGS_LINK" /> the Uwu Browser data in your account</translation>
+<translation id="5800158606660203929">Customise and control Uwu Browser. Set Uwu Browser as your default.</translation>
+<translation id="5802618941556161431">Keep your passwords, bookmarks and history perfectly synced across devices by setting Uwu Browser as your default browser.</translation>
 <translation id="5809516625706423866">Unable to connect to the Internet. HTTP 401 Unauthorised. Please check your proxy configuration.</translation>
-<translation id="5817952762723416573">Speeds up sites with uwu chromium's V8 engine but makes uwu chromium slightly less resistant to attacks. This setting is off.</translation>
-<translation id="5821520528363214608">To use and save uwu chromium data in your Google Account, update uwu chromium</translation>
+<translation id="5817952762723416573">Speeds up sites with Uwu Browser's V8 engine but makes Uwu Browser slightly less resistant to attacks. This setting is off.</translation>
+<translation id="5821520528363214608">To use and save Uwu Browser data in your Google Account, update Uwu Browser</translation>
 <translation id="5824893331272123205">Couldn't load this panel, try again</translation>
-<translation id="5862307444128926510">Welcome to uwu chromium</translation>
-<translation id="5867606647614813312">Turns on additional features to provide uwu chromium’s strongest protections</translation>
+<translation id="5862307444128926510">Welcome to Uwu Browser</translation>
+<translation id="5867606647614813312">Turns on additional features to provide Uwu Browser’s strongest protections</translation>
 <translation id="5871205389137001634">Click to exit image search</translation>
-<translation id="5883558403894052917">uwu chromium found that these items contain malware:</translation>
-<translation id="5889361821821684993">uwu chromium regularly checks to make sure your browser has the safest settings. We'll let you know if anything needs your review.</translation>
+<translation id="5883558403894052917">Uwu Browser found that these items contain malware:</translation>
+<translation id="5889361821821684993">Uwu Browser regularly checks to make sure your browser has the safest settings. We'll let you know if anything needs your review.</translation>
 <translation id="5895138241574237353">Restart</translation>
-<translation id="5896077214220653386">Gemini Enterprise in uwu chromium</translation>
+<translation id="5896077214220653386">Gemini Enterprise in Uwu Browser</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – Network sign-in</translation>
 <translation id="5924017743176219022">Connecting to the Internet…</translation>
 <translation id="5941711191222866238">Minimise</translation>
-<translation id="5949225980829865667">To get this bookmark and more on all your devices, sign in to uwu chromium</translation>
-<translation id="5953657885167112863">Make uwu chromium yours</translation>
+<translation id="5949225980829865667">To get this bookmark and more on all your devices, sign in to Uwu Browser</translation>
+<translation id="5953657885167112863">Make Uwu Browser yours</translation>
 <translation id="5960071705175224773">Your settings were changed by an unknown app</translation>
 <translation id="5977420883993828287">Pinned! Use contextual tasks again from the toolbar</translation>
-<translation id="5986585015444752010">{COUNT,plural, =1{Your organisation closes uwu chromium automatically when it isn't used for one minute.}other{Your organisation closes uwu chromium automatically when it isn't used for # minutes.}}</translation>
-<translation id="5987687638152509985">Update uwu chromium to start sync</translation>
+<translation id="5986585015444752010">{COUNT,plural, =1{Your organisation closes Uwu Browser automatically when it isn't used for one minute.}other{Your organisation closes Uwu Browser automatically when it isn't used for # minutes.}}</translation>
+<translation id="5987687638152509985">Update Uwu Browser to start sync</translation>
 <translation id="5990360079535151574">From the 'Contextual tasks' button on the toolbar, you can reopen Contextual tasks to ask questions while you browse</translation>
 <translation id="6003112304606738118">Downloading… <ph name="HOURS" /> hour(s) remaining</translation>
 <translation id="6009821354356307391">Ask a follow-up</translation>
 <translation id="6040143037577758943">Close</translation>
-<translation id="6044357424127037044">Get more out of online shopping when you use the uwu chromium app on your <ph name="DEVICE_TYPE" /></translation>
-<translation id="6058380562449900225">To protect your data, let uwu chromium remove permissions from sites you haven't visited recently. Doesn't stop notifications.</translation>
-<translation id="6063093106622310249">&amp;Open in uwu chromium</translation>
+<translation id="6044357424127037044">Get more out of online shopping when you use the Uwu Browser app on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="6058380562449900225">To protect your data, let Uwu Browser remove permissions from sites you haven't visited recently. Doesn't stop notifications.</translation>
+<translation id="6063093106622310249">&amp;Open in Uwu Browser</translation>
 <translation id="6069027071882229820">Copy as image</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> has been added to uwu chromium</translation>
-<translation id="6096348254544841612">Customise and control uwu chromium. Update is available.</translation>
-<translation id="6107893135096467929">On • uwu chromium can't verify where this extension comes from</translation>
-<translation id="611228897408671387">Your account in uwu chromium</translation>
-<translation id="6119438414301547735">Allow extension to show access requests in the uwu chromium toolbar</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> is dangerous, so uwu chromium has blocked it.</translation>
-<translation id="6132897690380286411">uwu chromium will soon close and delete data</translation>
-<translation id="6145820983052037069">You can switch between uwu chromium profiles here</translation>
+<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> has been added to Uwu Browser</translation>
+<translation id="6096348254544841612">Customise and control Uwu Browser. Update is available.</translation>
+<translation id="6107893135096467929">On • Uwu Browser can't verify where this extension comes from</translation>
+<translation id="611228897408671387">Your account in Uwu Browser</translation>
+<translation id="6119438414301547735">Allow extension to show access requests in the Uwu Browser toolbar</translation>
+<translation id="6129621093834146363"><ph name="FILE_NAME" /> is dangerous, so Uwu Browser has blocked it.</translation>
+<translation id="6132897690380286411">Uwu Browser will soon close and delete data</translation>
+<translation id="6145820983052037069">You can switch between Uwu Browser profiles here</translation>
 <translation id="615103374448673771">If you allow cookies, Chrome may use them when preloading.</translation>
 <translation id="6165508094623778733">Learn more</translation>
-<translation id="6173308241973263798">Clear the uwu chromium data in your account</translation>
-<translation id="6174920971222007286">This file may be dangerous<ph name="LINE_BREAK" />uwu chromium can check this download for you if you provide the password. Info about the file gets sent to Google Safe Browsing, but the file content and password stay on your device.</translation>
+<translation id="6173308241973263798">Clear the Uwu Browser data in your account</translation>
+<translation id="6174920971222007286">This file may be dangerous<ph name="LINE_BREAK" />Uwu Browser can check this download for you if you provide the password. Info about the file gets sent to Google Safe Browsing, but the file content and password stay on your device.</translation>
 <translation id="6182736845697986886">Installation failed because of an update server internal error.</translation>
-<translation id="6183079672144801177">Make sure that you are signed in to uwu chromium on your <ph name="TARGET_DEVICE_NAME" /> and then try sending again.</translation>
-<translation id="6192070012454216182">Search and ask questions from anywhere, even if uwu chromium is minimised. Allows uwu chromium to run in the background.</translation>
-<translation id="6212496753309875659">This computer already has a more recent version of uwu chromium. If the software is not working, please uninstall uwu chromium and try again.</translation>
-<translation id="6219195342503754812">{0,plural, =0{uwu chromium will relaunch now}=1{uwu chromium will relaunch in 1 second}other{uwu chromium will relaunch in # seconds}}</translation>
-<translation id="6241367896540709610">uwu chromium needs storage access permission to download files</translation>
-<translation id="6245734527075554892">Checks URLs with a list of unsafe sites stored in uwu chromium</translation>
-<translation id="6248213926982192922">Make uwu chromium the default browser</translation>
+<translation id="6183079672144801177">Make sure that you are signed in to Uwu Browser on your <ph name="TARGET_DEVICE_NAME" /> and then try sending again.</translation>
+<translation id="6192070012454216182">Search and ask questions from anywhere, even if Uwu Browser is minimised. Allows Uwu Browser to run in the background.</translation>
+<translation id="6212496753309875659">This computer already has a more recent version of Uwu Browser. If the software is not working, please uninstall Uwu Browser and try again.</translation>
+<translation id="6219195342503754812">{0,plural, =0{Uwu Browser will relaunch now}=1{Uwu Browser will relaunch in 1 second}other{Uwu Browser will relaunch in # seconds}}</translation>
+<translation id="6241367896540709610">Uwu Browser needs storage access permission to download files</translation>
+<translation id="6245734527075554892">Checks URLs with a list of unsafe sites stored in Uwu Browser</translation>
+<translation id="6248213926982192922">Make Uwu Browser the default browser</translation>
 <translation id="6248988683584659830">Search settings</translation>
-<translation id="6261803579884938625">Get Google's best safety features on the go, with the uwu chromium app on your phone</translation>
-<translation id="6268381023930128611">Sign out of uwu chromium?</translation>
-<translation id="6270547683008298381">These tabs are using extra resources. To improve your performance, let uwu chromium make them inactive.</translation>
-<translation id="6281746429495226318">Customise your uwu chromium profile</translation>
-<translation id="6290827346642914212">Name your uwu chromium profile</translation>
-<translation id="6294831894865512704">An extension wants you to sign in to uwu chromium</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> may be dangerous, so uwu chromium has blocked it.</translation>
-<translation id="6309712487085796862">uwu chromium is using your camera.</translation>
-<translation id="6333502561965082103">Another operation on uwu chromium is in progress. Please try again later.</translation>
-<translation id="6334986366598267305">Now it's easier to use uwu chromium with your Google Account and on shared computers.</translation>
-<translation id="6347002662287820329">Get easy access to the features that you know, love and trust by setting uwu chromium as your default browser.</translation>
-<translation id="6347933965114150440">uwu chromium shortcut</translation>
-<translation id="6366160072964553914">uwu chromium blocked this download because the file isn't commonly downloaded and it may be dangerous</translation>
-<translation id="6373523479360886564">Are you sure you want to uninstall uwu chromium?</translation>
+<translation id="6261803579884938625">Get Google's best safety features on the go, with the Uwu Browser app on your phone</translation>
+<translation id="6268381023930128611">Sign out of Uwu Browser?</translation>
+<translation id="6270547683008298381">These tabs are using extra resources. To improve your performance, let Uwu Browser make them inactive.</translation>
+<translation id="6281746429495226318">Customise your Uwu Browser profile</translation>
+<translation id="6290827346642914212">Name your Uwu Browser profile</translation>
+<translation id="6294831894865512704">An extension wants you to sign in to Uwu Browser</translation>
+<translation id="6295779123002464101"><ph name="FILE_NAME" /> may be dangerous, so Uwu Browser has blocked it.</translation>
+<translation id="6309712487085796862">Uwu Browser is using your camera.</translation>
+<translation id="6333502561965082103">Another operation on Uwu Browser is in progress. Please try again later.</translation>
+<translation id="6334986366598267305">Now it's easier to use Uwu Browser with your Google Account and on shared computers.</translation>
+<translation id="6347002662287820329">Get easy access to the features that you know, love and trust by setting Uwu Browser as your default browser.</translation>
+<translation id="6347933965114150440">Uwu Browser shortcut</translation>
+<translation id="6366160072964553914">Uwu Browser blocked this download because the file isn't commonly downloaded and it may be dangerous</translation>
+<translation id="6373523479360886564">Are you sure you want to uninstall Uwu Browser?</translation>
 <translation id="6375219077595103062">Add a shortcut to Password Manager</translation>
 <translation id="6388799252195623474">help me with this</translation>
-<translation id="6390800440335263989">To continue, sign in to uwu chromium as <ph name="EMAIL" />. This makes sure that you've got your organisation's policies.</translation>
-<translation id="6400112897226594999">uwu chromium logo inside a computer screen.</translation>
-<translation id="6403826409255603130">uwu chromium is a web browser that runs webpages and applications with lightning speed. It's fast, stable, and easy to use. Browse the web more safely with malware and phishing protection built into uwu chromium.</translation>
-<translation id="6414624068245092115">To make sure that you can always use and save uwu chromium data in your Google Account, verify that it's you</translation>
-<translation id="642132557830635295">uwu chromium runs faster and features that use JavaScript should work as designed</translation>
+<translation id="6390800440335263989">To continue, sign in to Uwu Browser as <ph name="EMAIL" />. This makes sure that you've got your organisation's policies.</translation>
+<translation id="6400112897226594999">Uwu Browser logo inside a computer screen.</translation>
+<translation id="6403826409255603130">Uwu Browser is a web browser that runs webpages and applications with lightning speed. It's fast, stable, and easy to use. Browse the web more safely with malware and phishing protection built into Uwu Browser.</translation>
+<translation id="6414624068245092115">To make sure that you can always use and save Uwu Browser data in your Google Account, verify that it's you</translation>
+<translation id="642132557830635295">Uwu Browser runs faster and features that use JavaScript should work as designed</translation>
 <translation id="6436260184216827876">Image search is not available. Please try again later.</translation>
 <translation id="6442900851116057561">Restart Chromium OS</translation>
 <translation id="6443470774889161065">Chrome preloads even more pages that you're likely to visit, so that they load more quickly when you visit them.</translation>
-<translation id="6450948450282634257">Download uwu chromium on your phone to track prices and get alerts when the price drops on any site</translation>
-<translation id="645458117210240797">Off • uwu chromium can't verify where this extension comes from</translation>
-<translation id="6455857529632101747">Welcome to uwu chromium profiles</translation>
-<translation id="6460614424172581323">Next time you open uwu chromium on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use tab groups.</translation>
-<translation id="6466344609055215035">Remove account from uwu chromium</translation>
-<translation id="6475912303565314141">It also controls what page is shown when you start uwu chromium.</translation>
+<translation id="6450948450282634257">Download Uwu Browser on your phone to track prices and get alerts when the price drops on any site</translation>
+<translation id="645458117210240797">Off • Uwu Browser can't verify where this extension comes from</translation>
+<translation id="6455857529632101747">Welcome to Uwu Browser profiles</translation>
+<translation id="6460614424172581323">Next time you open Uwu Browser on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use tab groups.</translation>
+<translation id="6466344609055215035">Remove account from Uwu Browser</translation>
+<translation id="6475912303565314141">It also controls what page is shown when you start Uwu Browser.</translation>
 <translation id="648319183876919572">Enhanced Safe Browsing does more to protect you against dangerous websites and downloads</translation>
-<translation id="6510925080656968729">Uninstall uwu chromium</translation>
-<translation id="651535675648445253">Shortcuts open in uwu chromium</translation>
-<translation id="6539122709674868420">Your organisation closes uwu chromium when it isn't used for <ph name="TIMEOUT_DURATION" />. Browsing data was deleted. This could include history, autofill and downloads.</translation>
-<translation id="6542839706527980775">Each profile holds its own uwu chromium info, like bookmarks, history, passwords and more</translation>
+<translation id="6510925080656968729">Uninstall Uwu Browser</translation>
+<translation id="651535675648445253">Shortcuts open in Uwu Browser</translation>
+<translation id="6539122709674868420">Your organisation closes Uwu Browser when it isn't used for <ph name="TIMEOUT_DURATION" />. Browsing data was deleted. This could include history, autofill and downloads.</translation>
+<translation id="6542839706527980775">Each profile holds its own Uwu Browser info, like bookmarks, history, passwords and more</translation>
 <translation id="6556755379298048869">Search with a keyboard shortcut.</translation>
-<translation id="6563921047760808519">Learn more about <ph name="BEGIN_LINK" />how uwu chromium keeps your data private<ph name="END_LINK" /></translation>
-<translation id="6564039629497156115">Changes to this setting will be applied once uwu chromium restarts.</translation>
-<translation id="6567032987737689854">Manage your extensions by clicking Extensions in the uwu chromium main menu.</translation>
-<translation id="656935081669708576">You can switch to see passwords from another uwu chromium profile</translation>
-<translation id="6569556444379005948">Use the uwu chromium app to take the best AI tools on the go</translation>
-<translation id="6570579332384693436">To fix spelling errors, uwu chromium sends the text that you type in text fields to Google</translation>
-<translation id="6598877126913850652">Go to uwu chromium notification settings</translation>
+<translation id="6563921047760808519">Learn more about <ph name="BEGIN_LINK" />how Uwu Browser keeps your data private<ph name="END_LINK" /></translation>
+<translation id="6564039629497156115">Changes to this setting will be applied once Uwu Browser restarts.</translation>
+<translation id="6567032987737689854">Manage your extensions by clicking Extensions in the Uwu Browser main menu.</translation>
+<translation id="656935081669708576">You can switch to see passwords from another Uwu Browser profile</translation>
+<translation id="6569556444379005948">Use the Uwu Browser app to take the best AI tools on the go</translation>
+<translation id="6570579332384693436">To fix spelling errors, Uwu Browser sends the text that you type in text fields to Google</translation>
+<translation id="6598877126913850652">Go to Uwu Browser notification settings</translation>
 <translation id="6600016381025017075">Search anything on this page</translation>
-<translation id="6613594504749178791">Your changes will take effect the next time you relaunch uwu chromium.</translation>
-<translation id="6637908313088374648">uwu chromium now launches when Windows starts so that you can begin browsing instantly. You can turn this off in settings.</translation>
-<translation id="6648212540664651655">Continue where you left off: uwu chromium restored your tabs from your last session. You can turn this off in</translation>
-<translation id="665732753414869868">uwu chromium needs camera permission to create a 3D map of your surroundings</translation>
-<translation id="6669284030132180248">If you also save your bookmarks in your Google Account, you can track product prices in uwu chromium and get notified when the price drops</translation>
+<translation id="6613594504749178791">Your changes will take effect the next time you relaunch Uwu Browser.</translation>
+<translation id="6637908313088374648">Uwu Browser now launches when Windows starts so that you can begin browsing instantly. You can turn this off in settings.</translation>
+<translation id="6648212540664651655">Continue where you left off: Uwu Browser restored your tabs from your last session. You can turn this off in</translation>
+<translation id="665732753414869868">Uwu Browser needs camera permission to create a 3D map of your surroundings</translation>
+<translation id="6669284030132180248">If you also save your bookmarks in your Google Account, you can track product prices in Uwu Browser and get notified when the price drops</translation>
 <translation id="6676384891291319759">Access the Internet</translation>
 <translation id="668175097507315160">Chromium OS could not sync your data due to an error signing in.</translation>
-<translation id="6691132793308828750">Remove this app's data from uwu chromium</translation>
-<translation id="6709350901466051922">uwu chromium needs microphone permission for this site</translation>
+<translation id="6691132793308828750">Remove this app's data from Uwu Browser</translation>
+<translation id="6709350901466051922">Uwu Browser needs microphone permission for this site</translation>
 <translation id="6712881677154121168">Download error: <ph name="DOWNLOAD_ERROR" />.</translation>
-<translation id="6717134281241384636">Your profile can not be used because it is from a newer version of uwu chromium.
+<translation id="6717134281241384636">Your profile can not be used because it is from a newer version of Uwu Browser.
 
-Some features may be unavailable. Please specify a different profile directory or use a newer version of uwu chromium.</translation>
-<translation id="6729124504294600478">To get personalisation and other features, include uwu chromium in Web &amp; App Activity and linked Google services</translation>
-<translation id="6734291798041940871">uwu chromium is already installed for all users on your computer.</translation>
-<translation id="6742093177587589736">To get your bookmarks and more on all your devices, sign in to uwu chromium. This bookmark will be saved in your Google Account after you sign in.</translation>
-<translation id="6751374565094704799">Speeds up sites with uwu chromium's V8 engine but makes uwu chromium slightly less resistant to attacks. This setting is on.</translation>
-<translation id="6754665438209053659">{count,plural, =1{Some of your uwu chromium data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data (1 item) will be deleted.}other{Some of your uwu chromium data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data ({count} items) will be deleted.}}</translation>
-<translation id="67706546131546258">uwu chromium recommends scanning this file because it may be dangerous.</translation>
+Some features may be unavailable. Please specify a different profile directory or use a newer version of Uwu Browser.</translation>
+<translation id="6729124504294600478">To get personalisation and other features, include Uwu Browser in Web &amp; App Activity and linked Google services</translation>
+<translation id="6734291798041940871">Uwu Browser is already installed for all users on your computer.</translation>
+<translation id="6742093177587589736">To get your bookmarks and more on all your devices, sign in to Uwu Browser. This bookmark will be saved in your Google Account after you sign in.</translation>
+<translation id="6751374565094704799">Speeds up sites with Uwu Browser's V8 engine but makes Uwu Browser slightly less resistant to attacks. This setting is on.</translation>
+<translation id="6754665438209053659">{count,plural, =1{Some of your Uwu Browser data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data (1 item) will be deleted.}other{Some of your Uwu Browser data hasn't been saved in your Google Account yet. Try waiting a few minutes before signing out. If you sign out now, this data ({count} items) will be deleted.}}</translation>
+<translation id="67706546131546258">Uwu Browser recommends scanning this file because it may be dangerous.</translation>
 <translation id="6779406956731413166">Chromium OS is made possible by additional <ph name="BEGIN_LINK_CROS_OSS" />open-source software<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="6831043979455480757">Translate</translation>
-<translation id="6847869444787758381">uwu chromium lets you know if your passwords are ever compromised</translation>
+<translation id="6847869444787758381">Uwu Browser lets you know if your passwords are ever compromised</translation>
 <translation id="684888714667046800">Unable to connect to the Internet. If you use a firewall, please ensure that <ph name="PRODUCT_EXE_NAME" /> is in the allowlist.</translation>
-<translation id="6857782730669500492">uwu chromium - <ph name="PAGE_TITLE" /></translation>
+<translation id="6857782730669500492">Uwu Browser - <ph name="PAGE_TITLE" /></translation>
 <translation id="6859580922007887573">Tab to continue</translation>
 <translation id="6862030660799253820">Search this image with image search</translation>
 <translation id="6869568587896659271">Easy access to websites below the address bar</translation>
-<translation id="6873893289264747459">uwu chromium found that '<ph name="EXTENSION_NAME" />' contains malware</translation>
+<translation id="6873893289264747459">Uwu Browser found that '<ph name="EXTENSION_NAME" />' contains malware</translation>
 <translation id="6877155553248388166">bottom-right corner of search area: right <ph name="RIGHT" />%, bottom <ph name="BOTTOM" />%</translation>
 <translation id="6896758677409633944">Copy</translation>
 <translation id="6898028264630240901">You can pin Contextual tasks to ask questions as you browse</translation>
-<translation id="6901631050894301805">Set uwu chromium as your default browser and pin it to your taskbar</translation>
-<translation id="6909503629704372277">&amp;Manage uwu chromium profiles</translation>
+<translation id="6901631050894301805">Set Uwu Browser as your default browser and pin it to your taskbar</translation>
+<translation id="6909503629704372277">&amp;Manage Uwu Browser profiles</translation>
 <translation id="6919942714452658456">This action will:
           <ph name="LINE_BREAKS" />
             • Reset your startup page, new tab page, search engine and pinned tabs
@@ -566,208 +566,208 @@ Some features may be unavailable. Please specify a different profile directory o
             <ph name="LINE_BREAK" />
             • Delete cookies and other temporary site data
             <ph name="LINE_BREAK" />
-            • Reset uwu chromium shortcuts
+            • Reset Uwu Browser shortcuts
             <ph name="LINE_BREAKS" />
             Bookmarks, history and saved passwords won't be affected.</translation>
-<translation id="6948031725951063910">You reached uwu chromium's limit of <ph name="BOOKMARK_LIMIT" /> bookmarks, so some of your bookmarks haven't been saved in your Google Account yet.
+<translation id="6948031725951063910">You reached Uwu Browser's limit of <ph name="BOOKMARK_LIMIT" /> bookmarks, so some of your bookmarks haven't been saved in your Google Account yet.
 
 New bookmarks can't be saved in your account until you delete some. If you sign out now, unsaved bookmarks will be deleted.</translation>
-<translation id="6964305034639999644">Open link in uwu chromium inco&amp;gnito window</translation>
+<translation id="6964305034639999644">Open link in Uwu Browser inco&amp;gnito window</translation>
 <translation id="6965382102122355670">OK</translation>
 <translation id="6985329841647292029">Chromium OS terms</translation>
-<translation id="7003299027384820442">Enter your passphrase to use and save uwu chromium data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="7003299027384820442">Enter your passphrase to use and save Uwu Browser data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
 <translation id="7011190694940573312">Installation failed because this version of the operating system is not supported.</translation>
 <translation id="7024536598735240744">Unpack error: <ph name="UNPACK_ERROR" />.</translation>
-<translation id="7045244423563602563">Make uwu chromium your own</translation>
+<translation id="7045244423563602563">Make Uwu Browser your own</translation>
 <translation id="7047386856539490735">Are these results useful?</translation>
-<translation id="705851970750939768">Update uwu chromium</translation>
-<translation id="7067091210845072982">If an image doesn’t have a useful description, uwu chromium will try to provide one for you. To create descriptions, images are sent to Google.</translation>
-<translation id="7074836723476134809">Get the power of AI when you use the uwu chromium app on your <ph name="DEVICE_TYPE" /></translation>
-<translation id="7134687062119989071">Take your passwords, tabs and more on the go with the uwu chromium app on your phone</translation>
+<translation id="705851970750939768">Update Uwu Browser</translation>
+<translation id="7067091210845072982">If an image doesn’t have a useful description, Uwu Browser will try to provide one for you. To create descriptions, images are sent to Google.</translation>
+<translation id="7074836723476134809">Get the power of AI when you use the Uwu Browser app on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="7134687062119989071">Take your passwords, tabs and more on the go with the Uwu Browser app on your phone</translation>
 <translation id="7141270731789036260">Customise Chrome for testing</translation>
-<translation id="7147227333672430807">You can use uwu chromium at any time that you click links in messages, documents and other apps</translation>
-<translation id="7163519456498498587">Remove <ph name="EXTENSION_NAME" /> from uwu chromium</translation>
-<translation id="7173822816570314652">Your organisation deletes uwu chromium data when it isn't used for <ph name="TIMEOUT_DURATION" />. This could include history, autofill and downloads.</translation>
-<translation id="718435575166326686">uwu chromium needs camera permission for this site</translation>
-<translation id="7196312274710523067">Couldn't launch uwu chromium. Try again.</translation>
-<translation id="7204669035546236137">Ask anything, right where you are, with Gemini in uwu chromium</translation>
-<translation id="7213008767289637091">Keep uwu chromium in your Dock to get to it quickly at any time</translation>
-<translation id="7213407614656404070">Use uwu chromium any time that you click links in messages, documents and other apps</translation>
+<translation id="7147227333672430807">You can use Uwu Browser at any time that you click links in messages, documents and other apps</translation>
+<translation id="7163519456498498587">Remove <ph name="EXTENSION_NAME" /> from Uwu Browser</translation>
+<translation id="7173822816570314652">Your organisation deletes Uwu Browser data when it isn't used for <ph name="TIMEOUT_DURATION" />. This could include history, autofill and downloads.</translation>
+<translation id="718435575166326686">Uwu Browser needs camera permission for this site</translation>
+<translation id="7196312274710523067">Couldn't launch Uwu Browser. Try again.</translation>
+<translation id="7204669035546236137">Ask anything, right where you are, with Gemini in Uwu Browser</translation>
+<translation id="7213008767289637091">Keep Uwu Browser in your Dock to get to it quickly at any time</translation>
+<translation id="7213407614656404070">Use Uwu Browser any time that you click links in messages, documents and other apps</translation>
 <translation id="7216228761061470870">When you use image search on desktop, the page title, URL and content, including PDFs, are sent to the server</translation>
-<translation id="7223968959479464213">Task Manager - uwu chromium</translation>
-<translation id="7226331818892775989">Ask about content outside of uwu chromium, like other apps or files</translation>
-<translation id="7227958669698166857"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your saved info and more on all your devices.</translation>
-<translation id="7252276985725323153">Begin browsing instantly: uwu chromium can now launch when Windows starts.</translation>
+<translation id="7223968959479464213">Task Manager - Uwu Browser</translation>
+<translation id="7226331818892775989">Ask about content outside of Uwu Browser, like other apps or files</translation>
+<translation id="7227958669698166857"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your saved info and more on all your devices.</translation>
+<translation id="7252276985725323153">Begin browsing instantly: Uwu Browser can now launch when Windows starts.</translation>
 <translation id="7274695763216404502">Pinned! Use image search again from the toolbar</translation>
 <translation id="7288567540154601580">Tabs and extensions</translation>
-<translation id="7295544978856094497">{NUM_EXTENSIONS,plural, =1{uwu chromium recommends that you remove it}other{uwu chromium recommends that you remove them}}</translation>
-<translation id="7296334833518879294">To share system audio, open System Settings and allow 'System audio recording only' for uwu chromium. You'll then need to restart uwu chromium.</translation>
+<translation id="7295544978856094497">{NUM_EXTENSIONS,plural, =1{Uwu Browser recommends that you remove it}other{Uwu Browser recommends that you remove them}}</translation>
+<translation id="7296334833518879294">To share system audio, open System Settings and allow 'System audio recording only' for Uwu Browser. You'll then need to restart Uwu Browser.</translation>
 <translation id="7299899569525778554">Search from desktop</translation>
-<translation id="731795002583552498">Updating uwu chromium</translation>
+<translation id="731795002583552498">Updating Uwu Browser</translation>
 <translation id="7318036098707714271">Your preferences file is corrupt or invalid.
 
 Google Chrome is unable to recover your settings.</translation>
 <translation id="7324051657739063017">You can reopen Contextual tasks to ask questions while you browse</translation>
-<translation id="734373864078049451">Your web, bookmarks and other uwu chromium stuff live here.</translation>
-<translation id="7347827960336370838">Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, you'll need to <ph name="BEGIN_LINK" />delete the uwu chromium data in your account<ph name="END_LINK" />.</translation>
-<translation id="7349591376906416160">Your system administrator has configured uwu chromium to open <ph name="ALTERNATIVE_BROWSER_NAME" /> to access <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="734373864078049451">Your web, bookmarks and other Uwu Browser stuff live here.</translation>
+<translation id="7347827960336370838">Only someone with your passphrase can read your encrypted data. The passphrase is not sent to or stored by Google. If you forget your passphrase or want to change this setting, you'll need to <ph name="BEGIN_LINK" />delete the Uwu Browser data in your account<ph name="END_LINK" />.</translation>
+<translation id="7349591376906416160">Your system administrator has configured Uwu Browser to open <ph name="ALTERNATIVE_BROWSER_NAME" /> to access <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="7352651011704765696">Something went wrong</translation>
-<translation id="7368826207863345663">To get future uwu chromium updates, you'll need macOS 13 or later. This computer is using macOS 12.</translation>
-<translation id="7376384068949534168">You haven't visited recently. uwu chromium removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" />.</translation>
+<translation id="7368826207863345663">To get future Uwu Browser updates, you'll need macOS 13 or later. This computer is using macOS 12.</translation>
+<translation id="7376384068949534168">You haven't visited recently. Uwu Browser removed <ph name="PERMISSION_1" />, <ph name="PERMISSION_2" />.</translation>
 <translation id="73786666777299047">Open Chrome Web Store</translation>
-<translation id="7394275517973019558">Show Gemini in uwu chromium in system tray</translation>
+<translation id="7394275517973019558">Show Gemini in Uwu Browser in system tray</translation>
 <translation id="7401687852903179959">Search this video with image search</translation>
-<translation id="7407655596887111931">uwu chromium is now your default browser</translation>
-<translation id="7413153308467572558">Continue where you left off: uwu chromium restores your tabs every time you restart. To turn this off, go to</translation>
-<translation id="7427879960656355200">Import passwords to uwu chromium</translation>
+<translation id="7407655596887111931">Uwu Browser is now your default browser</translation>
+<translation id="7413153308467572558">Continue where you left off: Uwu Browser restores your tabs every time you restart. To turn this off, go to</translation>
+<translation id="7427879960656355200">Import passwords to Uwu Browser</translation>
 <translation id="744815265653811511">1. Click <ph name="BUTTON_LABEL" /> below
 2. Click <ph name="BUTTON_2" /> in your Windows settings
-3. Click <ph name="BUTTON_3" /> in the Windows notification to pin uwu chromium to your taskbar for quick access</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – uwu chromium Dev</translation>
+3. Click <ph name="BUTTON_3" /> in the Windows notification to pin Uwu Browser to your taskbar for quick access</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Uwu Browser Dev</translation>
 <translation id="7450541714075000668">Text copied</translation>
-<translation id="7458892263350425044">To use your microphone, give uwu chromium access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
-<translation id="7461356015007898716">To get future uwu chromium updates, you'll need Windows 10 or later. This computer is using Windows 7.</translation>
-<translation id="7467949745582939695">Relaunch uwu chromium?</translation>
-<translation id="7483335560992089831">Cannot install the same uwu chromium version that is currently running. Please close uwu chromium and try again.</translation>
+<translation id="7458892263350425044">To use your microphone, give Uwu Browser access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
+<translation id="7461356015007898716">To get future Uwu Browser updates, you'll need Windows 10 or later. This computer is using Windows 7.</translation>
+<translation id="7467949745582939695">Relaunch Uwu Browser?</translation>
+<translation id="7483335560992089831">Cannot install the same Uwu Browser version that is currently running. Please close Uwu Browser and try again.</translation>
 <translation id="7510190804000607802">Reminder: The best of Google in your pocket</translation>
-<translation id="751935028865900641">Sites will probably work as expected. You'll be signed out of most sites when you close all uwu chromium windows, except your Google Account if you're signed in to uwu chromium.</translation>
-<translation id="753534427205733210">{0,plural, =1{uwu chromium will relaunch in 1 minute}other{uwu chromium will relaunch in # minutes}}</translation>
-<translation id="7565444033145385702">To protect your data, let uwu chromium remove permissions from sites that you haven't visited recently.</translation>
-<translation id="7583104404158659071">Launch uwu chromium automatically to begin browsing instantly.</translation>
+<translation id="751935028865900641">Sites will probably work as expected. You'll be signed out of most sites when you close all Uwu Browser windows, except your Google Account if you're signed in to Uwu Browser.</translation>
+<translation id="753534427205733210">{0,plural, =1{Uwu Browser will relaunch in 1 minute}other{Uwu Browser will relaunch in # minutes}}</translation>
+<translation id="7565444033145385702">To protect your data, let Uwu Browser remove permissions from sites that you haven't visited recently.</translation>
+<translation id="7583104404158659071">Launch Uwu Browser automatically to begin browsing instantly.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> installer</translation>
-<translation id="761356813943268536">uwu chromium is using your camera and microphone.</translation>
-<translation id="7617377681829253106">uwu chromium just got better</translation>
-<translation id="7622753900276619808">You now have more features available in uwu chromium</translation>
+<translation id="761356813943268536">Uwu Browser is using your camera and microphone.</translation>
+<translation id="7617377681829253106">Uwu Browser just got better</translation>
+<translation id="7622753900276619808">You now have more features available in Uwu Browser</translation>
 <translation id="7624307931717240213">We use info to improve this service. See Privacy Policy and Terms of Service.</translation>
 <translation id="7649070708921625228">Help</translation>
-<translation id="7650134251917003571">Get the uwu chromium app</translation>
+<translation id="7650134251917003571">Get the Uwu Browser app</translation>
 <translation id="7658239707568436148">Cancel</translation>
-<translation id="7686590090926151193">uwu chromium isn't your default browser</translation>
-<translation id="7689606757190482937">Sync and personalise uwu chromium across your devices</translation>
-<translation id="7699779824407626136">uwu chromium update</translation>
-<translation id="7700735928747402058">Your work secured on uwu chromium</translation>
+<translation id="7686590090926151193">Uwu Browser isn't your default browser</translation>
+<translation id="7689606757190482937">Sync and personalise Uwu Browser across your devices</translation>
+<translation id="7699779824407626136">Uwu Browser update</translation>
+<translation id="7700735928747402058">Your work secured on Uwu Browser</translation>
 <translation id="7716950018788545737">Task(s) ended.</translation>
 <translation id="77283119132245232">Provides system tracing services for <ph name="BROWSER_NAME" />. If this service is disabled, performance traces created by the browser will not include system-wide events, such as context switch and ready thread events.</translation>
-<translation id="7745317241717453663">This will delete your browsing data from this device. To retrieve your data later, sign in to uwu chromium as <ph name="USER_EMAIL" />.</translation>
+<translation id="7745317241717453663">This will delete your browsing data from this device. To retrieve your data later, sign in to Uwu Browser as <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">The installer couldn't create a temporary directory. Please check for free disk space and permission to install software.</translation>
-<translation id="7750130090210923118">Reset to default uwu chromium</translation>
-<translation id="7752521946322750699">To secure your work on uwu chromium, your organisation will be able to view or manage certain information when you're signed in to uwu chromium.</translation>
-<translation id="7781047659465034537">Set uwu chromium as default and pin it to taskbar</translation>
-<translation id="7786760609782648049">Make uwu chromium faster</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – uwu chromium Canary</translation>
-<translation id="7803986347287457849">Make it harder for people with access to your Internet traffic to see which sites you visit. uwu chromium uses a secure connection to look up a site's IP address in the DNS (Domain Name System).</translation>
+<translation id="7750130090210923118">Reset to default Uwu Browser</translation>
+<translation id="7752521946322750699">To secure your work on Uwu Browser, your organisation will be able to view or manage certain information when you're signed in to Uwu Browser.</translation>
+<translation id="7781047659465034537">Set Uwu Browser as default and pin it to taskbar</translation>
+<translation id="7786760609782648049">Make Uwu Browser faster</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Uwu Browser Canary</translation>
+<translation id="7803986347287457849">Make it harder for people with access to your Internet traffic to see which sites you visit. Uwu Browser uses a secure connection to look up a site's IP address in the DNS (Domain Name System).</translation>
 <translation id="7810005234485217901">You can pin image search for easy access</translation>
-<translation id="7828527096541974699">Choose what to share with uwu chromium</translation>
-<translation id="7828947555739565424">A uwu chromium profile with this account already exists on this device</translation>
+<translation id="7828527096541974699">Choose what to share with Uwu Browser</translation>
+<translation id="7828947555739565424">A Uwu Browser profile with this account already exists on this device</translation>
 <translation id="7845233973568007926">Thanks for installing. You must restart your computer before using <ph name="BUNDLE_NAME" />.</translation>
-<translation id="7847673590271334840">Your search engine was changed from outside of uwu chromium. To protect you, uwu chromium reset it to its original default. <ph name="LEARN_MORE_LINK" /></translation>
-<translation id="7853661403199074278">Customise uwu chromium to give it a new look</translation>
-<translation id="7859018312476869945">When you type in the address bar or search box, uwu chromium sends what you type to your default search engine to get better suggestions. This is off in Incognito.</translation>
-<translation id="7867198900892795913">uwu chromium couldn't update to the latest version, so you're missing out on new features and security fixes.</translation>
+<translation id="7847673590271334840">Your search engine was changed from outside of Uwu Browser. To protect you, Uwu Browser reset it to its original default. <ph name="LEARN_MORE_LINK" /></translation>
+<translation id="7853661403199074278">Customise Uwu Browser to give it a new look</translation>
+<translation id="7859018312476869945">When you type in the address bar or search box, Uwu Browser sends what you type to your default search engine to get better suggestions. This is off in Incognito.</translation>
+<translation id="7867198900892795913">Uwu Browser couldn't update to the latest version, so you're missing out on new features and security fixes.</translation>
 <translation id="7872446069773932638">Downloading… <ph name="SECONDS" /> second(s) remaining</translation>
-<translation id="7873537467422636035">If you forgot your passphrase or want to change this setting, <ph name="BEGIN_LINK" />delete the uwu chromium data in your account<ph name="END_LINK" /></translation>
-<translation id="7874369989024033742">Quickly open Gemini in uwu chromium whenever you need it</translation>
-<translation id="7888981273428720788">Set uwu chromium as your default</translation>
-<translation id="7934340546140346950">uwu chromium upgrades insecure connections to HTTPS automatically when possible</translation>
-<translation id="7937630085815544518">You were signed in to uwu chromium as <ph name="USER_EMAIL_ADDRESS" />. Please use the same account to sign in again.</translation>
-<translation id="7944602660083060118"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your bookmarks and more on all your devices.</translation>
-<translation id="7975919845073681630">This is a secondary installation of uwu chromium, and cannot be made your default browser.</translation>
-<translation id="7997934263947464652">Extensions, apps and themes from unknown sources can harm your device. uwu chromium recommends only installing them from the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8000759043835159571">Get the best of Google with the uwu chromium app on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="7873537467422636035">If you forgot your passphrase or want to change this setting, <ph name="BEGIN_LINK" />delete the Uwu Browser data in your account<ph name="END_LINK" /></translation>
+<translation id="7874369989024033742">Quickly open Gemini in Uwu Browser whenever you need it</translation>
+<translation id="7888981273428720788">Set Uwu Browser as your default</translation>
+<translation id="7934340546140346950">Uwu Browser upgrades insecure connections to HTTPS automatically when possible</translation>
+<translation id="7937630085815544518">You were signed in to Uwu Browser as <ph name="USER_EMAIL_ADDRESS" />. Please use the same account to sign in again.</translation>
+<translation id="7944602660083060118"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You’ll also get your bookmarks and more on all your devices.</translation>
+<translation id="7975919845073681630">This is a secondary installation of Uwu Browser, and cannot be made your default browser.</translation>
+<translation id="7997934263947464652">Extensions, apps and themes from unknown sources can harm your device. Uwu Browser recommends only installing them from the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="8000759043835159571">Get the best of Google with the Uwu Browser app on your <ph name="DEVICE_TYPE" /></translation>
 <translation id="8004582292198964060">Browser</translation>
 <translation id="8010081455002666927">Auto-detect</translation>
-<translation id="8013436988911883588">Once uwu chromium has access, websites will be able to ask you for access.</translation>
-<translation id="8031714377769448844">Pin uwu chromium to your taskbar to get to it quickly at any time</translation>
+<translation id="8013436988911883588">Once Uwu Browser has access, websites will be able to ask you for access.</translation>
+<translation id="8031714377769448844">Pin Uwu Browser to your taskbar to get to it quickly at any time</translation>
 <translation id="80471789339884597">Thanks for installing. You must restart all your browsers before using <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8054112667659782652">Always show image search shortcut</translation>
 <translation id="8069447462453318634">Select 'Pin to toolbar'</translation>
-<translation id="8077498902115777962">Disable uwu chromium running in background for apps</translation>
+<translation id="8077498902115777962">Disable Uwu Browser running in background for apps</translation>
 <translation id="80790299200510644">Image search</translation>
 <translation id="8086881907087796310">Installation failed because your computer does not meet the minimum hardware requirements.</translation>
 <translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
-<translation id="8105840573057009683">uwu chromium needs location permission for this site</translation>
-<translation id="8107060931443639922">Next time you open uwu chromium on your <ph name="DEVICE_TYPE" />, you'll see a prompt to enable price tracking alerts.</translation>
-<translation id="8117908349476699973">Get price drop alerts on items that you're interested in with the uwu chromium app on your phone</translation>
+<translation id="8105840573057009683">Uwu Browser needs location permission for this site</translation>
+<translation id="8107060931443639922">Next time you open Uwu Browser on your <ph name="DEVICE_TYPE" />, you'll see a prompt to enable price tracking alerts.</translation>
+<translation id="8117908349476699973">Get price drop alerts on items that you're interested in with the Uwu Browser app on your phone</translation>
 <translation id="8118331347066725040">Send feedback for search with Lens</translation>
-<translation id="8130609355518033382">Make uwu chromium yours</translation>
+<translation id="8130609355518033382">Make Uwu Browser yours</translation>
 <translation id="8133124826068723441">Chromium OS could not sync your data because sync is not available for your domain.</translation>
 <translation id="813913629614996137">Initialising...</translation>
-<translation id="8161503455832158203">Open Gemini in uwu chromium with a keyboard shortcut.</translation>
-<translation id="8164014945047474187">uwu chromium additional terms of service</translation>
-<translation id="81770708095080097">This file is dangerous, so uwu chromium has blocked it.</translation>
+<translation id="8161503455832158203">Open Gemini in Uwu Browser with a keyboard shortcut.</translation>
+<translation id="8164014945047474187">Uwu Browser additional terms of service</translation>
+<translation id="81770708095080097">This file is dangerous, so Uwu Browser has blocked it.</translation>
 <translation id="8177472873527554730">Can't find content in page</translation>
-<translation id="8200109504272824693">Enter your passphrase to use and save uwu chromium data in your account, <ph name="USER_EMAIL" /></translation>
+<translation id="8200109504272824693">Enter your passphrase to use and save Uwu Browser data in your account, <ph name="USER_EMAIL" /></translation>
 <translation id="820759916613250543">Search this image with image search</translation>
 <translation id="8221491193165283816">You usually block notifications. To let this site notify you, click here.</translation>
-<translation id="8223363452568144035">To use your camera, give uwu chromium access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
-<translation id="8232193495299001329">uwu chromium can't verify where this extension comes from, and it might be unsafe. Remove it from uwu chromium so that it can no longer see and change your data on sites that you visit, including personal info.</translation>
-<translation id="8248265253516264921">If an image doesn’t have a useful description, uwu chromium will try to provide one for you. To create descriptions, images are sent to Google. You can turn this off in settings at any time.</translation>
-<translation id="8254601181414348851">Sign in to uwu chromium in a new profile?</translation>
-<translation id="8262224117913639129"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to uwu chromium in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your passwords and more from <ph name="DEVICE" />.</translation>
-<translation id="8277334259226003205">Show Gemini in uwu chromium in system tray and turn on keyboard shortcut</translation>
-<translation id="8286943863733751221"><ph name="BEGIN_LINK" />uwu chromium warns you<ph name="END_LINK" /> about unsafe sites and downloads</translation>
-<translation id="8295827201165805317">You haven't visited recently. uwu chromium removed <ph name="PERMISSION" />.</translation>
-<translation id="8296236834352487533">Shop, translate and identify what you see with your camera on the uwu chromium iOS app</translation>
-<translation id="8310603974518734211">QR code to sign in to uwu chromium as <ph name="USER_NAME" /></translation>
+<translation id="8223363452568144035">To use your camera, give Uwu Browser access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
+<translation id="8232193495299001329">Uwu Browser can't verify where this extension comes from, and it might be unsafe. Remove it from Uwu Browser so that it can no longer see and change your data on sites that you visit, including personal info.</translation>
+<translation id="8248265253516264921">If an image doesn’t have a useful description, Uwu Browser will try to provide one for you. To create descriptions, images are sent to Google. You can turn this off in settings at any time.</translation>
+<translation id="8254601181414348851">Sign in to Uwu Browser in a new profile?</translation>
+<translation id="8262224117913639129"><ph name="EXISTING_USER" /> is already signed in. To keep your browsing separate, sign in to Uwu Browser in your own profile as <ph name="USER_EMAIL_ADDRESS" />. You'll also get your passwords and more from <ph name="DEVICE" />.</translation>
+<translation id="8277334259226003205">Show Gemini in Uwu Browser in system tray and turn on keyboard shortcut</translation>
+<translation id="8286943863733751221"><ph name="BEGIN_LINK" />Uwu Browser warns you<ph name="END_LINK" /> about unsafe sites and downloads</translation>
+<translation id="8295827201165805317">You haven't visited recently. Uwu Browser removed <ph name="PERMISSION" />.</translation>
+<translation id="8296236834352487533">Shop, translate and identify what you see with your camera on the Uwu Browser iOS app</translation>
+<translation id="8310603974518734211">QR code to sign in to Uwu Browser as <ph name="USER_NAME" /></translation>
 <translation id="8313851650939857356">Startup error: <ph name="STARTUP_ERROR" />.</translation>
-<translation id="8318772038038596122">Your organisation closes uwu chromium when it isn't used for <ph name="TIMEOUT_DURATION" />.</translation>
+<translation id="8318772038038596122">Your organisation closes Uwu Browser when it isn't used for <ph name="TIMEOUT_DURATION" />.</translation>
 <translation id="8321888067342493336">Save as image</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> was previously using uwu chromium</translation>
-<translation id="8351551329754447960">Enable skills in uwu chromium</translation>
-<translation id="8359544530202147897">Update uwu chromium to keeping using the uwu chromium data in your Google Account, <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="8360718212975266891">To get future uwu chromium updates, you'll need Windows 10 or later. This computer is using Windows 8.</translation>
+<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> was previously using Uwu Browser</translation>
+<translation id="8351551329754447960">Enable skills in Uwu Browser</translation>
+<translation id="8359544530202147897">Update Uwu Browser to keeping using the Uwu Browser data in your Google Account, <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="8360718212975266891">To get future Uwu Browser updates, you'll need Windows 10 or later. This computer is using Windows 8.</translation>
 <translation id="8362914115861174987">Translate to</translation>
 <translation id="8367705492654390392">Ask anything</translation>
 <translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. All rights reserved.</translation>
-<translation id="8372327902843331129">To get your passwords and more on all your devices, sign in to uwu chromium. This password will be saved in your Google Account after you sign in.</translation>
-<translation id="837460953767177950">You'll then need to restart uwu chromium.</translation>
-<translation id="8397248745433792218">uwu chromium recommends that you remove it. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" /></translation>
-<translation id="8401454788024434101">This extension was unpublished by its developer and might be unsafe. Remove it from uwu chromium so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
-<translation id="8416884904046428725">uwu chromium needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data will be deleted.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Relaunch uwu chromium within a day}other{Relaunch uwu chromium within # days}}</translation>
+<translation id="8372327902843331129">To get your passwords and more on all your devices, sign in to Uwu Browser. This password will be saved in your Google Account after you sign in.</translation>
+<translation id="837460953767177950">You'll then need to restart Uwu Browser.</translation>
+<translation id="8397248745433792218">Uwu Browser recommends that you remove it. <ph name="BEGIN_LINK" />Learn more about supported extensions<ph name="END_LINK" /></translation>
+<translation id="8401454788024434101">This extension was unpublished by its developer and might be unsafe. Remove it from Uwu Browser so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
+<translation id="8416884904046428725">Uwu Browser needs to verify that it's you before some data can be saved in your Google Account and used on all your devices. If you sign out now, this data will be deleted.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Relaunch Uwu Browser within a day}other{Relaunch Uwu Browser within # days}}</translation>
 <translation id="8438543370129609977">When you use image search, the page title, URL and content, including PDFs, are sent to the server. <ph name="LEARN_MORE" /></translation>
-<translation id="8447525028100794994">Learn more about searching with image search in uwu chromium</translation>
-<translation id="8453117565092476964">The installer archive is corrupted or invalid. Please download uwu chromium again.</translation>
-<translation id="8458614432758743027">uwu chromium requires Windows 10 or higher.</translation>
+<translation id="8447525028100794994">Learn more about searching with image search in Uwu Browser</translation>
+<translation id="8453117565092476964">The installer archive is corrupted or invalid. Please download Uwu Browser again.</translation>
+<translation id="8458614432758743027">Uwu Browser requires Windows 10 or higher.</translation>
 <translation id="8463672209299734063">Optional: Help improve Chromium OS features and performance by automatically sending diagnostic and usage data to Google.</translation>
-<translation id="8471947159125090285">To use and save uwu chromium data in your Google Account, verify that it's you.</translation>
-<translation id="8482493977473846331">Shows prompts to sign in to uwu chromium</translation>
-<translation id="8493179195440786826">uwu chromium is Out of Date</translation>
-<translation id="850264194101621529">Thanks for choosing uwu chromium as your default browser!</translation>
-<translation id="8522801943730206384">uwu chromium can check your passwords when you save them</translation>
+<translation id="8471947159125090285">To use and save Uwu Browser data in your Google Account, verify that it's you.</translation>
+<translation id="8482493977473846331">Shows prompts to sign in to Uwu Browser</translation>
+<translation id="8493179195440786826">Uwu Browser is Out of Date</translation>
+<translation id="850264194101621529">Thanks for choosing Uwu Browser as your default browser!</translation>
+<translation id="8522801943730206384">Uwu Browser can check your passwords when you save them</translation>
 <translation id="8525579356836940628">Installation stopped</translation>
-<translation id="8545729292258443488">Take your passwords, tabs and more on the go with the uwu chromium app on your <ph name="DEVICE_TYPE" /></translation>
-<translation id="8548787790260785208">Get warned if uwu chromium finds one of your passwords in a public data breach</translation>
+<translation id="8545729292258443488">Take your passwords, tabs and more on the go with the Uwu Browser app on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="8548787790260785208">Get warned if Uwu Browser finds one of your passwords in a public data breach</translation>
 <translation id="8555465886620020932">Service error: <ph name="SERVICE_ERROR" />.</translation>
-<translation id="8556055872671007529">Some uwu chromium features and extensions come with shortcuts. You can choose to turn them back on.</translation>
+<translation id="8556055872671007529">Some Uwu Browser features and extensions come with shortcuts. You can choose to turn them back on.</translation>
 <translation id="8556420416730706394">You can pin image search for easy access; click the Pin button at the top of the side panel</translation>
 <translation id="856656450041460113">Search language list</translation>
-<translation id="8576826849825683917">Multiple organisations manage uwu chromium</translation>
+<translation id="8576826849825683917">Multiple organisations manage Uwu Browser</translation>
 <translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors. All rights reserved.</translation>
-<translation id="8619360774459241877">Launching uwu chromium...</translation>
+<translation id="8619360774459241877">Launching Uwu Browser...</translation>
 <translation id="8624541899164515475">Settings, opens in new tab.</translation>
 <translation id="8648201657708811153">Google Chrome for testing cannot be made your default browser.</translation>
-<translation id="8676101123715131330">Search with uwu chromium from anywhere</translation>
-<translation id="8697124171261953979">It also controls what page is shown when you start uwu chromium or search from the Omnibox.</translation>
-<translation id="8704119203788522458">This is your uwu chromium</translation>
+<translation id="8676101123715131330">Search with Uwu Browser from anywhere</translation>
+<translation id="8697124171261953979">It also controls what page is shown when you start Uwu Browser or search from the Omnibox.</translation>
+<translation id="8704119203788522458">This is your Uwu Browser</translation>
 <translation id="8712637175834984815">Got it</translation>
-<translation id="8719993436687031146">Sign in to uwu chromium?</translation>
+<translation id="8719993436687031146">Sign in to Uwu Browser?</translation>
 <translation id="8747073452963259673">bottom-left corner of search area: left <ph name="LEFT" />%, bottom <ph name="BOTTOM" />%</translation>
 <translation id="878572486461146056">Install error: Your network administrator has applied a Group Policy that prevents installation: <ph name="INSTALL_ERROR" /></translation>
 <translation id="8813277370772331957">Remind me later</translation>
-<translation id="8816416449795340678">Share this document with Gemini in uwu chromium to get a quick overview and ask follow-up questions</translation>
-<translation id="8818550178040858407">Sign in to uwu chromium?</translation>
-<translation id="8823401858233292222">Make uwu chromium the default browser and pin to the taskbar</translation>
+<translation id="8816416449795340678">Share this document with Gemini in Uwu Browser to get a quick overview and ask follow-up questions</translation>
+<translation id="8818550178040858407">Sign in to Uwu Browser?</translation>
+<translation id="8823401858233292222">Make Uwu Browser the default browser and pin to the taskbar</translation>
 <translation id="8826492472752484139">Click 'Password Manager'</translation>
 <translation id="8833697763442816810">Chromium OS system</translation>
-<translation id="8852026904190808918">This language is used to display menus, settings, alerts and other text in uwu chromium</translation>
+<translation id="8852026904190808918">This language is used to display menus, settings, alerts and other text in Uwu Browser</translation>
 <translation id="8862326446509486874">You do not have appropriate rights for system-level installation. Try running the installer again as Administrator.</translation>
-<translation id="8876044221123442390">Add uwu chromium profile</translation>
-<translation id="8890569919834781711">ChromiumOS could not save uwu chromium data in your Google Account due to an error signing in</translation>
-<translation id="8891709362986793894">Your organisation requires you to sign in to uwu chromium</translation>
-<translation id="8907580949721785412">uwu chromium is trying to show passwords. Type your Windows password to allow this.</translation>
-<translation id="8932992523185907506">uwu chromium is no longer your default browser. Make uwu chromium the default browser?</translation>
-<translation id="8941642502866065432">Can't update uwu chromium</translation>
+<translation id="8876044221123442390">Add Uwu Browser profile</translation>
+<translation id="8890569919834781711">ChromiumOS could not save Uwu Browser data in your Google Account due to an error signing in</translation>
+<translation id="8891709362986793894">Your organisation requires you to sign in to Uwu Browser</translation>
+<translation id="8907580949721785412">Uwu Browser is trying to show passwords. Type your Windows password to allow this.</translation>
+<translation id="8932992523185907506">Uwu Browser is no longer your default browser. Make Uwu Browser the default browser?</translation>
+<translation id="8941642502866065432">Can't update Uwu Browser</translation>
 <translation id="8944232836376404813">This action will:
           <ph name="LINE_BREAKS" />
             • Reset your startup page, new tab page, search engine and pinned tabs
@@ -777,43 +777,43 @@ Google Chrome is unable to recover your settings.</translation>
             • Delete cookies and other temporary site data
             <ph name="LINE_BREAKS" />
             Bookmarks, history and saved passwords won't be affected.</translation>
-<translation id="8966875421152977384">Show uwu chromium site shortcuts</translation>
-<translation id="897581876605952338">uwu chromium Enterprise logo</translation>
-<translation id="8980139959902937527">Take the safety of Google on the go with the uwu chromium app on your <ph name="DEVICE_TYPE" /></translation>
-<translation id="8981150672034878610">Cannot start uwu chromium because something went wrong when opening your profile. Try to restart uwu chromium.</translation>
-<translation id="8981886272598860786">to search with uwu chromium or customise in <ph name="BEGIN_LINK" />Settings<ph name="END_LINK" /></translation>
-<translation id="8988036198400390003">Manage uwu chromium profiles</translation>
-<translation id="8993855408334954620">Use your keyboard to navigate between Gemini in uwu chromium and your open tab.</translation>
+<translation id="8966875421152977384">Show Uwu Browser site shortcuts</translation>
+<translation id="897581876605952338">Uwu Browser Enterprise logo</translation>
+<translation id="8980139959902937527">Take the safety of Google on the go with the Uwu Browser app on your <ph name="DEVICE_TYPE" /></translation>
+<translation id="8981150672034878610">Cannot start Uwu Browser because something went wrong when opening your profile. Try to restart Uwu Browser.</translation>
+<translation id="8981886272598860786">to search with Uwu Browser or customise in <ph name="BEGIN_LINK" />Settings<ph name="END_LINK" /></translation>
+<translation id="8988036198400390003">Manage Uwu Browser profiles</translation>
+<translation id="8993855408334954620">Use your keyboard to navigate between Gemini in Uwu Browser and your open tab.</translation>
 <translation id="9018218886431812662">Installation complete</translation>
-<translation id="9019929317751753759">To make uwu chromium safer, we disabled the following extension that isn't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
-<translation id="9022552996538154597">Sign in to uwu chromium</translation>
-<translation id="9035791714111278917">Show search with uwu chromium in Mac menu bar and turn on keyboard shortcut</translation>
-<translation id="904366664621834601">uwu chromium blocked this download because the archive file includes other files that may hide malware</translation>
-<translation id="9053882453960391422">Keep your passwords, bookmarks and history perfectly synced across devices. Easily access the features that you know and love by updating your default browser to uwu chromium. uwu chromium will be pinned to your taskbar for quick access.</translation>
-<translation id="9056398481763999048">Use Google's best AI tools with the uwu chromium app on your phone</translation>
-<translation id="9062666675513499497">Sign in to uwu chromium when you sign in to other Google services</translation>
-<translation id="9078733879136747090">uwu chromium was automatically closed</translation>
-<translation id="9089354809943900324">uwu chromium is out of date</translation>
-<translation id="9093206154853821181">{0,plural, =1{uwu chromium will relaunch in an hour}other{uwu chromium will relaunch in # hours}}</translation>
+<translation id="9019929317751753759">To make Uwu Browser safer, we disabled the following extension that isn't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
+<translation id="9022552996538154597">Sign in to Uwu Browser</translation>
+<translation id="9035791714111278917">Show search with Uwu Browser in Mac menu bar and turn on keyboard shortcut</translation>
+<translation id="904366664621834601">Uwu Browser blocked this download because the archive file includes other files that may hide malware</translation>
+<translation id="9053882453960391422">Keep your passwords, bookmarks and history perfectly synced across devices. Easily access the features that you know and love by updating your default browser to Uwu Browser. Uwu Browser will be pinned to your taskbar for quick access.</translation>
+<translation id="9056398481763999048">Use Google's best AI tools with the Uwu Browser app on your phone</translation>
+<translation id="9062666675513499497">Sign in to Uwu Browser when you sign in to other Google services</translation>
+<translation id="9078733879136747090">Uwu Browser was automatically closed</translation>
+<translation id="9089354809943900324">Uwu Browser is out of date</translation>
+<translation id="9093206154853821181">{0,plural, =1{Uwu Browser will relaunch in an hour}other{Uwu Browser will relaunch in # hours}}</translation>
 <translation id="9106236359747881194">Select text to search</translation>
-<translation id="9106612006984859720">To get future uwu chromium updates, you'll need Windows 10 or later. This computer is using Windows 8.1.</translation>
-<translation id="91086099826398415">Open Link in New uwu chromium &amp;tab</translation>
+<translation id="9106612006984859720">To get future Uwu Browser updates, you'll need Windows 10 or later. This computer is using Windows 8.1.</translation>
+<translation id="91086099826398415">Open Link in New Uwu Browser &amp;tab</translation>
 <translation id="911206726377975832">Also delete your browsing data?</translation>
 <translation id="9134482777260927479">Homework help</translation>
 <translation id="9148058034647219655">Exit</translation>
-<translation id="9155105544013854680">Continue where you left off: uwu chromium can restore your tabs every time you restart. To turn this on, go to</translation>
-<translation id="9158494823179993217">Your system administrator has configured uwu chromium to open an alternative browser to access <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Relaunch to update &amp;uwu chromium</translation>
-<translation id="9190841055450128916">uwu chromium (mDNS-In)</translation>
-<translation id="924957577793602335">Make uwu chromium your own</translation>
-<translation id="93478295209880648">uwu chromium may not function correctly because it is no longer supported on Windows XP or Windows Vista</translation>
-<translation id="945098430667185067">Get Google's best safety features on the go with uwu chromium.</translation>
+<translation id="9155105544013854680">Continue where you left off: Uwu Browser can restore your tabs every time you restart. To turn this on, go to</translation>
+<translation id="9158494823179993217">Your system administrator has configured Uwu Browser to open an alternative browser to access <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="9185526690718004400">Relaunch to update &amp;Uwu Browser</translation>
+<translation id="9190841055450128916">Uwu Browser (mDNS-In)</translation>
+<translation id="924957577793602335">Make Uwu Browser your own</translation>
+<translation id="93478295209880648">Uwu Browser may not function correctly because it is no longer supported on Windows XP or Windows Vista</translation>
+<translation id="945098430667185067">Get Google's best safety features on the go with Uwu Browser.</translation>
 <translation id="945522503751344254">Send feedback</translation>
-<translation id="965162752251293939">Who's using uwu chromium?</translation>
-<translation id="967427899662692980">Get uwu chromium's strongest security</translation>
+<translation id="965162752251293939">Who's using Uwu Browser?</translation>
+<translation id="967427899662692980">Get Uwu Browser's strongest security</translation>
 <translation id="983803489796659991">Installation failed because the update server does not have any hash data for the application.</translation>
-<translation id="985498048907240953">Use uwu chromium without an account</translation>
+<translation id="985498048907240953">Use Uwu Browser without an account</translation>
 <translation id="985602178874221306">The Chromium Authors</translation>
 <translation id="989970834842471429">Select any text or image to search with image search</translation>
-<translation id="992780518932311116">To use your location, give uwu chromium access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
+<translation id="992780518932311116">To use your location, give Uwu Browser access in <ph name="BEGIN_LINK" />system settings<ph name="END_LINK" /></translation>
 </translationbundle>

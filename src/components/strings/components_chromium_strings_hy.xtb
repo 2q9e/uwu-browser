@@ -12,12 +12,12 @@
           <ph name="PROXIES_TITLE" />
           և համոզվեք, որ ձեր կազմաձևի համար սահմանված է «առանց պրոքսի սերվերի» կամ «ուղիղ» պարամետրը։</translation>
 <translation id="275588974610408078">Խափանումների մասին հաղորդումը մատչելի չէ Chromium-ում:</translation>
-<translation id="3064346599913645280">Ցուցադրվող uwu chromium էջն անվտանգ է</translation>
+<translation id="3064346599913645280">Ցուցադրվող Uwu Browser էջն անվտանգ է</translation>
 <translation id="3255926992597692024">Chromium-ը փորձում է փոխել վճարման եղանակների լրացման կարգավորումները։</translation>
 <translation id="358997566136285270">Chromium-ի պատկերանշանը</translation>
 <translation id="3837584850181228767">Chromium-ի հետ աշխատելու խորհուրդ․ օգտագործեք բարելավված Ապահով դիտարկումը</translation>
 <translation id="4050599136622776556">Chromium-ը փորձում է փոփոխել վճարման եղանակները։</translation>
-<translation id="4365115785552740256">Chromium-ը ստեղծվել է շնորհիվ <ph name="BEGIN_LINK_CHROMIUM" />uwu chromium<ph name="END_LINK_CHROMIUM" /> բաց կոդով նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" />:</translation>
+<translation id="4365115785552740256">Chromium-ը ստեղծվել է շնորհիվ <ph name="BEGIN_LINK_CHROMIUM" />Uwu Browser<ph name="END_LINK_CHROMIUM" /> բաց կոդով նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" />:</translation>
 <translation id="4622039161600275920">Այս էջն արգելափակվել է Chromium-ի կողմից</translation>
 <translation id="48558539577516920">Հրապատի կամ հակավիրուսային ծրագրի կարգավորումներում
        թույլատրեք Chromium-ին միանալ ցանցին:</translation>
@@ -39,7 +39,7 @@
 <translation id="691026815377248078">Զուգակցումը շարունակելու համար Chromium-ին հասանելի դարձրեք Bluetooth-ը։ <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="7681937895330411637">Chromium-ը ստեղծվել է <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" />-ի բաց կոդով նախագծի հիման վրա։</translation>
 <translation id="7861509383340276692">Անցեք
-          uwu chromium ընտրացանկ &gt;
+          Uwu Browser ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
