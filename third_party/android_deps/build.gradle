@@ -1,0 +1,23 @@
+// Copyright 2018 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+apply plugin: ChromiumPlugin
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+dependencies {
+    // Note about the configuration names: they are defined in buildSrc/ChromiumPlugin
+    // All dependencies now live in autorolled/build.gradle.template
+    // (crbug.com/562517138).
+}
+
+task setUpRepository(type: BuildConfigGenerator) {
+    // Paths are relative to the chromium source root.
+    pathToBuildGradle = 'third_party/android_deps'
+    cipdPackagePrefix = 'chromium/third_party/android_deps'
+    internalTargetVisibility = [':*', '//third_party/androidx:*']
+}
