@@ -1,7 +1,0 @@
-@font-face {
-  font-family: 'csp-bypass-shared-font';
-  src: url('/fonts/Ahem.ttf');
-}
-#prime, #use-font {
-  font-family: 'csp-bypass-shared-font', sans-serif;
-}

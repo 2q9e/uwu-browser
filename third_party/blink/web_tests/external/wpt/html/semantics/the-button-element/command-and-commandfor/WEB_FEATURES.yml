@@ -1,3 +1,0 @@
-rules:
-- toggleevent-source-attribute-retargeting.html: [toggleevent-source]
-- "*": [invoker-commands]

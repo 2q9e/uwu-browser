@@ -1,3 +1,0 @@
-rules:
-- border-radius-greater-than-width.html: [border-radius]
-- border-width-rounding.tentative.html: [borders]

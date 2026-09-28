@@ -1,3 +1,0 @@
-rules:
-- base-data.html: [data-urls]
-- "*": [base]

@@ -1,3 +1,0 @@
-rules:
-- strategy-worker-terminate.html: [streams]
-- from-cross-realm.https.html: [readablestream-from]

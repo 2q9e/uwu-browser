@@ -1,3 +1,0 @@
-rules:
-- getactionurl.html: [data-urls]
-- "*": [form]

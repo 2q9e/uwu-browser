@@ -1,3 +1,0 @@
-rules:
-- SpeechRecognition*: [speech-recognition]
-- SpeechSynthesis*: [speech-synthesis]

@@ -1,2 +1,0 @@
-rules:
-- "**": [wasm-bulk-memory]
