@@ -1180,8 +1180,15 @@ std::optional<int> ChromeMainDelegate::BasicStartupComplete() {
 #endif
 
 #if !defined(BUILDING_CHROME_RENDERER)
-  const base::CommandLine& command_line =
-      *base::CommandLine::ForCurrentProcess();
+  base::CommandLine* process_command_line =
+      base::CommandLine::ForCurrentProcess();
+  // Prevent browser services from making background network requests. Normal
+  // requests initiated by a tab, including website sign-in flows, still work.
+  if (!process_command_line->HasSwitch(
+          switches::kDisableBackgroundNetworking)) {
+    process_command_line->AppendSwitch(switches::kDisableBackgroundNetworking);
+  }
+  const base::CommandLine& command_line = *process_command_line;
 #endif  // !defined(BUILDING_CHROME_RENDERER)
 
   // Only allow disabling web security via the command-line flag if the user has

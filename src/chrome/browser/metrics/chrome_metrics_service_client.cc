@@ -1517,19 +1517,11 @@ void ChromeMetricsServiceClient::SetIsProcessRunningForTesting(
 }
 
 bool ChromeMetricsServiceClient::IsUkmAllowedForAllProfiles() {
-  if (metrics::MetricsReportingChoiceService::
-          ShouldUseMetricsConsentRestructure()) {
-    return IsAdvancedReportingEnabledForAllProfiles();
-  }
-  return UkmConsentStateObserver::IsUkmAllowedForAllProfiles();
+  return false;
 }
 
 bool ChromeMetricsServiceClient::IsDwaAllowedForAllProfiles() {
-  if (metrics::MetricsReportingChoiceService::
-          ShouldUseMetricsConsentRestructure()) {
-    return IsAdvancedReportingEnabledForAllProfiles();
-  }
-  return UkmConsentStateObserver::IsDwaAllowedForAllProfiles();
+  return false;
 }
 
 bool g_observer_registration_failed = false;

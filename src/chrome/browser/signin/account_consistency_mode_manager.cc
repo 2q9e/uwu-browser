@@ -4,13 +4,10 @@
 
 #include "chrome/browser/signin/account_consistency_mode_manager.h"
 
-#include <string>
-
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/metrics/field_trial_params.h"
 #include "base/metrics/histogram_macros.h"
-#include "base/strings/string_util.h"
 #include "build/build_config.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/browser/profiles/profile.h"
@@ -48,17 +45,10 @@ namespace {
 bool g_ignore_missing_oauth_client_for_testing = false;
 
 #if BUILDFLAG(ENABLE_DICE_SUPPORT)
-const char kAllowBrowserSigninArgument[] = "allow-browser-signin";
-
 bool IsBrowserSigninAllowedByCommandLine() {
-  base::CommandLine* command_line = base::CommandLine::ForCurrentProcess();
-  if (command_line->HasSwitch(kAllowBrowserSigninArgument)) {
-    std::string allowBrowserSignin =
-        command_line->GetSwitchValueASCII(kAllowBrowserSigninArgument);
-    return base::EqualsCaseInsensitiveASCII(allowBrowserSignin, "true");
-  }
-  // If the commandline flag is not provided, the default is true.
-  return true;
+  // Google accounts may still be used by websites in tabs, but are not added
+  // to the browser profile or used for Chrome Sync.
+  return false;
 }
 
 // Returns true if Desktop Identity Consistency can be enabled for this build

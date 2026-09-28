@@ -317,6 +317,18 @@ std::unique_ptr<TemplateURLData> GetPrepopulatedFallbackSearch(
     PrefService& prefs,
     const std::vector<raw_ptr<const PrepopulatedEngine>>&
         regional_prepopulated_engines) {
+  if (!prefs.HasPrefPath(prefs::kSearchProviderOverrides)) {
+    const auto& all_engines =
+        regional_capabilities::GetAllPrepopulatedEngines();
+    auto duckduckgo_engine = std::find_if(
+        all_engines.begin(), all_engines.end(), [](const auto& engine) {
+          return engine->id == duckduckgo.id;
+        });
+    if (duckduckgo_engine != all_engines.end()) {
+      return PrepopulatedEngineToTemplateURLData(*duckduckgo_engine);
+    }
+  }
+
   return FindPrepopulatedEngineInternal(prefs, regional_prepopulated_engines,
                                         google.id,
                                         /*use_first_as_fallback=*/true);
