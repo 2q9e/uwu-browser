@@ -1,43 +1,49 @@
-# uwu chromium
+# Uwu Browser
 
-An independent browser fork with privacy-focused defaults, based on the
+An independent browser fork with an original soft-pink design, based on the
 Chromium open-source project. The source tree is kept in [`src/`](src/).
 
-## Upstream and credits
+## Authors and credits
 
-This project is derived from the
-[Chromium open-source project](https://www.chromium.org/), maintained by the
-Chromium Authors. The upstream contributor list in
-[`src/AUTHORS`](src/AUTHORS), source copyright headers, and attribution notices
-are retained. The upstream source mirror is
-[`chromium/chromium`](https://github.com/chromium/chromium).
+- **Fork maintainer:** [@2q9e](https://github.com/2q9e). Fork-specific changes
+  are recorded in this repository's commit history.
+- **Upstream project:** Chromium contributors are listed in
+  [`src/AUTHORS`](src/AUTHORS); source copyright and attribution notices are
+  retained. That file is the upstream contributor roster, not a complete list
+  of contributors to this fork.
+- **Project artwork:** the Uwu Browser icon and wordmark are original artwork
+  for this fork.
 
-Fork-specific changes are maintained by [@2q9e](https://github.com/2q9e); see
-this repository's commit history for those changes. This is an independent fork
-and is not affiliated with or endorsed by Google LLC or the Chromium project.
+This project is independent and is not affiliated with or endorsed by Google
+LLC or the Chromium project.
 
-Google lists Chromium as a trademark and advises against using its marks in a
-product name or imitating its visual identity. A pink recolor and source credits
-do not grant permission to use those marks. Review [Google's trademark list](https://about.google/brand-resource-center/trademark-list/)
+## Upstream project
+
+- [Chromium project](https://www.chromium.org/)
+- [Chromium source repository](https://github.com/chromium/chromium)
+
+## Licenses and third-party credits
+
+The Chromium source license is in [`src/LICENSE`](src/LICENSE). The ChromiumOS
+license is in [`src/LICENSE.chromium_os`](src/LICENSE.chromium_os). Components
+in [`src/third_party/`](src/third_party/) may have their own licenses and
+notices; check the applicable files before reusing or distributing them. Keep
+the required copyright and license notices with redistributed source and
+binary builds. A built browser lists shipped dependency credits at
+`chrome://credits`.
+
+## Names and trademarks
+
+The product uses a distinct name and original icon. “Chromium” is used here to
+identify the upstream source project and its contributors. Google lists
+Chromium as a trademark and advises against using its marks in product names
+or imitating its visual identity. Attribution and open-source licensing do not
+grant trademark permission. Review [Google's trademark list](https://about.google/brand-resource-center/trademark-list/)
 and [brand guidance](https://about.google/brand-resource-center/guidance/)
-before distributing a build. The Chromium name and wheel mark remain associated
-with their respective owners.
+before distributing a build. No README wording can guarantee protection from a
+legal claim.
 
-## Licenses and third-party notices
-
-The Chromium source license is in [`src/LICENSE`](src/LICENSE); the Chromium OS
-license is in [`src/LICENSE.chromium_os`](src/LICENSE.chromium_os). Individual
-third-party components can have different licenses. Their original license
-files and notices are kept with the components in the source tree, including
-[`src/third_party/`](src/third_party/). The Chromium project's third-party
-dependency guidance is in
-[`src/docs/adding_to_third_party.md`](src/docs/adding_to_third_party.md), and a
-built browser lists shipped dependency credits at `chrome://credits`.
-
-Check the license and notices that apply to each component before reusing it;
-the Chromium license does not replace a dependency's own terms.
-
-## Chromium documentation
+## Source documentation
 
 See the upstream [`src/README.md`](src/README.md) and
 [`src/docs/README.md`](src/docs/README.md) for source and developer
