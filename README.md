@@ -1,7 +1,7 @@
-# uwu-chromium
+# uwu chromium
 
-An unofficial Chromium source fork with privacy-focused browser defaults. The
-Chromium source tree is kept in [`src/`](src/).
+An independent browser fork with privacy-focused defaults, based on the
+Chromium open-source project. The source tree is kept in [`src/`](src/).
 
 ## Upstream and credits
 
@@ -13,10 +13,15 @@ are retained. The upstream source mirror is
 [`chromium/chromium`](https://github.com/chromium/chromium).
 
 Fork-specific changes are maintained by [@2q9e](https://github.com/2q9e); see
-this repository's commit history for those changes. This is an independent
-project and is not affiliated with or endorsed by Google LLC or the Chromium
-project. Chromium and Google names and marks remain with their respective
-owners.
+this repository's commit history for those changes. This is an independent fork
+and is not affiliated with or endorsed by Google LLC or the Chromium project.
+
+Google lists Chromium as a trademark and advises against using its marks in a
+product name or imitating its visual identity. A pink recolor and source credits
+do not grant permission to use those marks. Review [Google's trademark list](https://about.google/brand-resource-center/trademark-list/)
+and [brand guidance](https://about.google/brand-resource-center/guidance/)
+before distributing a build. The Chromium name and wheel mark remain associated
+with their respective owners.
 
 ## Licenses and third-party notices
 

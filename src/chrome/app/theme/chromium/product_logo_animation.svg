@@ -9,13 +9,13 @@
       <g transform="matrix(0 -1 1 0 .01 160)">
         <g id="b" opacity="0" style="mix-blend-mode:normal">
           <g style="mix-blend-mode:normal">
-            <path fill="#669DF6" fill-opacity="1" fill-rule="nonzero" d="M59.994 74.641a39.8 39.8 0 0 1-14.637-14.643l-.004.002L10.712 0a80.017 80.017 0 0 0 69.275 120.011l34.648-60.01a39.99 39.99 0 0 1-24.288 18.637 40.004 40.004 0 0 1-30.353-3.997z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(0 39.973)" />
+            <path fill="#F4BED0" fill-opacity="1" fill-rule="nonzero" d="M59.994 74.641a39.8 39.8 0 0 1-14.637-14.643l-.004.002L10.712 0a80.017 80.017 0 0 0 69.275 120.011l34.648-60.01a39.99 39.99 0 0 1-24.288 18.637 40.004 40.004 0 0 1-30.353-3.997z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(0 39.973)" />
           </g>
           <g style="mix-blend-mode:normal">
-            <path fill="#AECBFA" fill-opacity="1" fill-rule="nonzero" d="M40 40a39.802 39.802 0 0 1-5.363 19.998l.004.002L0 120A80.018 80.018 0 0 0 69.295 0H0a40 40 0 0 1 40 40z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(79.983 39.973)" />
+            <path fill="#FBE5EC" fill-opacity="1" fill-rule="nonzero" d="M40 40a39.802 39.802 0 0 1-5.363 19.998l.004.002L0 120A80.018 80.018 0 0 0 69.295 0H0a40 40 0 0 1 40 40z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(79.983 39.973)" />
           </g>
           <g style="mix-blend-mode:normal">
-            <path fill="#1967D2" fill-opacity="1" fill-rule="nonzero" d="M49.288 45.352a39.802 39.802 0 0 1 20-5.354v-.005h69.282A80.022 80.022 0 0 0 69.288 0 80.017 80.017 0 0 0 0 39.982l34.647 60.011a40.002 40.002 0 0 1 14.641-54.64z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(10.694)" />
+            <path fill="#E989AE" fill-opacity="1" fill-rule="nonzero" d="M49.288 45.352a39.802 39.802 0 0 1 20-5.354v-.005h69.282A80.022 80.022 0 0 0 69.288 0 80.017 80.017 0 0 0 0 39.982l34.647 60.011a40.002 40.002 0 0 1 14.641-54.64z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(10.694)" />
           </g>
         </g>
       </g>
@@ -25,7 +25,7 @@
             <path fill="#FFF" fill-opacity="1" fill-rule="nonzero" d="M40 80c22.091 0 40-17.909 40-40S62.091 0 40 0 0 17.909 0 40s17.909 40 40 40z" opacity="1" style="mix-blend-mode:NORMAL" />
           </g>
           <g style="mix-blend-mode:normal">
-            <path fill="#1A73E8" fill-opacity="1" fill-rule="nonzero" d="M32.5 65C50.45 65 65 50.45 65 32.5S50.45 0 32.5 0 0 14.55 0 32.5 14.55 65 32.5 65z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(7.5 7.503)" />
+            <path fill="#F0A6BF" fill-opacity="1" fill-rule="nonzero" d="M32.5 65C50.45 65 65 50.45 65 32.5S50.45 0 32.5 0 0 14.55 0 32.5 14.55 65 32.5 65z" opacity="1" style="mix-blend-mode:NORMAL" transform="translate(7.5 7.503)" />
           </g>
         </g>
       </g>
